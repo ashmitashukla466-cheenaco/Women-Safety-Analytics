@@ -1,0 +1,20 @@
+city,state_ut,cases_2022,cases_2023,cases_2024,population_2011_census_lakh,crime_rate_2024_per_lakh,chargesheeting_rate_2024,change_2023_to_2024_pct,change_2022_to_2024_pct
+Ahmedabad,Gujarat,1452,1360,1059,30.0,35.3,89.7,-22.1,-27.1
+Bengaluru,Karnataka,3924,4870,4748,40.6,117.0,70.5,-2.5,21.0
+Chennai,Tamil Nadu,736,745,1093,43.1,25.4,93.9,46.7,48.5
+Coimbatore,Tamil Nadu,138,244,377,10.7,35.1,95.6,54.5,173.2
+Delhi City,Delhi,14158,13366,13396,75.8,176.8,73.6,0.2,-5.4
+Ghaziabad,Uttar Pradesh,1063,904,1265,11.0,114.8,65.8,39.9,19.0
+Hyderabad,Telangana,3145,3822,3255,37.6,86.5,76.3,-14.8,3.5
+Indore,Madhya Pradesh,1809,1919,1884,10.4,181.5,76.2,-1.8,4.1
+Jaipur,Rajasthan,3479,3872,2894,14.5,199.0,55.7,-25.3,-16.8
+Kanpur,Uttar Pradesh,2099,2071,1950,13.4,146.1,84.4,-5.8,-7.1
+Kochi,Kerala,754,783,783,10.8,72.8,91.2,0.0,3.8
+Kolkata,West Bengal,1890,1746,1958,67.9,28.8,98.5,12.1,3.6
+Kozhikode,Kerala,759,627,665,10.6,62.5,92.6,6.1,-12.4
+Lucknow,Uttar Pradesh,2231,2902,2571,13.8,186.0,83.7,-11.4,15.2
+Mumbai,Maharashtra,6176,6025,6358,85.2,74.6,81.4,5.5,2.9
+Nagpur,Maharashtra,1259,1556,1513,12.2,123.8,78.6,-2.8,20.2
+Patna,Bihar,812,1162,1239,9.6,129.2,82.7,6.6,52.6
+Pune,Maharashtra,2074,2550,2631,23.9,110.1,75.9,3.2,26.9
+Surat,Gujarat,797,869,945,19.7,47.9,83.0,8.7,18.6

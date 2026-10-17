@@ -1,0 +1,2341 @@
+state_ut,crime_head,category,law,cases_ipc,cases_bns,cases_total,victims,rate_per_lakh
+Andhra Pradesh,Rape_Total,Rape & related,IPC/BNS,316.0,125.0,441,448,1.7
+Arunachal Pradesh,Rape_Total,Rape & related,IPC/BNS,40.0,36.0,76,79,9.9
+Assam,Rape_Total,Rape & related,IPC/BNS,583.0,344.0,927,951,5.2
+Bihar,Rape_Total,Rape & related,IPC/BNS,659.0,506.0,1165,1165,1.9
+Chhattisgarh,Rape_Total,Rape & related,IPC/BNS,822.0,349.0,1171,1171,7.7
+Goa,Rape_Total,Rape & related,IPC/BNS,71.0,34.0,105,106,13.3
+Gujarat,Rape_Total,Rape & related,IPC/BNS,460.0,201.0,661,663,1.9
+Haryana,Rape_Total,Rape & related,IPC/BNS,1046.0,345.0,1391,1391,9.6
+Himachal Pradesh,Rape_Total,Rape & related,IPC/BNS,216.0,108.0,324,325,8.7
+Jharkhand,Rape_Total,Rape & related,IPC/BNS,626.0,447.0,1073,1074,5.5
+Karnataka,Rape_Total,Rape & related,IPC/BNS,507.0,164.0,671,680,2.0
+Kerala,Rape_Total,Rape & related,IPC/BNS,719.0,221.0,940,946,5.0
+Madhya Pradesh,Rape_Total,Rape & related,IPC/BNS,2039.0,1022.0,3061,3069,7.2
+Maharashtra,Rape_Total,Rape & related,IPC/BNS,2161.0,930.0,3091,3096,5.0
+Manipur,Rape_Total,Rape & related,IPC/BNS,15.0,4.0,19,19,1.2
+Meghalaya,Rape_Total,Rape & related,IPC/BNS,25.0,32.0,57,57,3.4
+Mizoram,Rape_Total,Rape & related,IPC/BNS,12.0,8.0,20,20,3.2
+Nagaland,Rape_Total,Rape & related,IPC/BNS,9.0,5.0,14,14,1.3
+Odisha,Rape_Total,Rape & related,IPC/BNS,624.0,644.0,1268,1268,5.5
+Punjab,Rape_Total,Rape & related,IPC/BNS,278.0,197.0,475,477,3.2
+Rajasthan,Rape_Total,Rape & related,IPC/BNS,3527.0,1344.0,4871,4888,12.2
+Sikkim,Rape_Total,Rape & related,IPC/BNS,5.0,2.0,7,7,2.1
+Tamil Nadu,Rape_Total,Rape & related,IPC/BNS,286.0,133.0,419,419,1.1
+Telangana,Rape_Total,Rape & related,IPC/BNS,719.0,429.0,1148,1159,6.0
+Tripura,Rape_Total,Rape & related,IPC/BNS,46.0,18.0,64,64,3.1
+Uttar Pradesh,Rape_Total,Rape & related,IPC/BNS,1955.0,1254.0,3209,3287,2.8
+Uttarakhand,Rape_Total,Rape & related,IPC/BNS,240.0,65.0,305,305,5.3
+West Bengal,Rape_Total,Rape & related,IPC/BNS,554.0,564.0,1118,1118,2.3
+A&N Islands,Rape_Total,Rape & related,IPC/BNS,6.0,1.0,7,7,3.7
+Chandigarh,Rape_Total,Rape & related,IPC/BNS,73.0,23.0,96,96,16.6
+D&N Haveli and Daman & Diu,Rape_Total,Rape & related,IPC/BNS,7.0,4.0,11,11,2.4
+Delhi,Rape_Total,Rape & related,IPC/BNS,860.0,198.0,1058,1089,10.3
+Jammu & Kashmir,Rape_Total,Rape & related,IPC/BNS,166.0,95.0,261,261,4.0
+Ladakh,Rape_Total,Rape & related,IPC/BNS,0.0,1.0,1,1,0.8
+Lakshadweep,Rape_Total,Rape & related,IPC/BNS,2.0,0.0,2,2,6.7
+Puducherry,Rape_Total,Rape & related,IPC/BNS,9.0,0.0,9,9,1.0
+Andhra Pradesh,Rape_Women18plus,Rape & related,IPC/BNS,316.0,125.0,441,448,1.7
+Arunachal Pradesh,Rape_Women18plus,Rape & related,IPC/BNS,19.0,9.0,28,28,3.6
+Assam,Rape_Women18plus,Rape & related,IPC/BNS,567.0,343.0,910,934,5.1
+Bihar,Rape_Women18plus,Rape & related,IPC/BNS,658.0,506.0,1164,1164,1.9
+Chhattisgarh,Rape_Women18plus,Rape & related,IPC/BNS,822.0,349.0,1171,1171,7.7
+Goa,Rape_Women18plus,Rape & related,IPC/BNS,29.0,12.0,41,41,5.2
+Gujarat,Rape_Women18plus,Rape & related,IPC/BNS,456.0,199.0,655,657,1.9
+Haryana,Rape_Women18plus,Rape & related,IPC/BNS,1044.0,344.0,1388,1388,9.6
+Himachal Pradesh,Rape_Women18plus,Rape & related,IPC/BNS,96.0,34.0,130,131,3.5
+Jharkhand,Rape_Women18plus,Rape & related,IPC/BNS,577.0,415.0,992,992,5.1
+Karnataka,Rape_Women18plus,Rape & related,IPC/BNS,500.0,164.0,664,673,2.0
+Kerala,Rape_Women18plus,Rape & related,IPC/BNS,719.0,221.0,940,946,5.0
+Madhya Pradesh,Rape_Women18plus,Rape & related,IPC/BNS,2039.0,1022.0,3061,3069,7.2
+Maharashtra,Rape_Women18plus,Rape & related,IPC/BNS,2149.0,927.0,3076,3081,5.0
+Manipur,Rape_Women18plus,Rape & related,IPC/BNS,15.0,4.0,19,19,1.2
+Meghalaya,Rape_Women18plus,Rape & related,IPC/BNS,25.0,26.0,51,51,3.0
+Mizoram,Rape_Women18plus,Rape & related,IPC/BNS,12.0,8.0,20,20,3.2
+Nagaland,Rape_Women18plus,Rape & related,IPC/BNS,6.0,3.0,9,9,0.8
+Odisha,Rape_Women18plus,Rape & related,IPC/BNS,624.0,644.0,1268,1268,5.5
+Punjab,Rape_Women18plus,Rape & related,IPC/BNS,278.0,197.0,475,477,3.2
+Rajasthan,Rape_Women18plus,Rape & related,IPC/BNS,3527.0,1344.0,4871,4888,12.2
+Sikkim,Rape_Women18plus,Rape & related,IPC/BNS,5.0,2.0,7,7,2.1
+Tamil Nadu,Rape_Women18plus,Rape & related,IPC/BNS,286.0,133.0,419,419,1.1
+Telangana,Rape_Women18plus,Rape & related,IPC/BNS,719.0,429.0,1148,1159,6.0
+Tripura,Rape_Women18plus,Rape & related,IPC/BNS,46.0,18.0,64,64,3.1
+Uttar Pradesh,Rape_Women18plus,Rape & related,IPC/BNS,1789.0,1145.0,2934,3009,2.6
+Uttarakhand,Rape_Women18plus,Rape & related,IPC/BNS,240.0,65.0,305,305,5.3
+West Bengal,Rape_Women18plus,Rape & related,IPC/BNS,554.0,564.0,1118,1118,2.3
+A&N Islands,Rape_Women18plus,Rape & related,IPC/BNS,6.0,1.0,7,7,3.7
+Chandigarh,Rape_Women18plus,Rape & related,IPC/BNS,46.0,3.0,49,49,8.4
+D&N Haveli and Daman & Diu,Rape_Women18plus,Rape & related,IPC/BNS,5.0,0.0,5,5,1.1
+Delhi,Rape_Women18plus,Rape & related,IPC/BNS,860.0,198.0,1058,1089,10.3
+Jammu & Kashmir,Rape_Women18plus,Rape & related,IPC/BNS,159.0,93.0,252,252,3.8
+Ladakh,Rape_Women18plus,Rape & related,IPC/BNS,0.0,1.0,1,1,0.8
+Lakshadweep,Rape_Women18plus,Rape & related,IPC/BNS,2.0,0.0,2,2,6.7
+Puducherry,Rape_Women18plus,Rape & related,IPC/BNS,9.0,0.0,9,9,1.0
+Andhra Pradesh,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Arunachal Pradesh,Rape_GirlsU18,Rape & related,IPC/BNS,21.0,27.0,48,51,6.2
+Assam,Rape_GirlsU18,Rape & related,IPC/BNS,16.0,1.0,17,17,0.1
+Bihar,Rape_GirlsU18,Rape & related,IPC/BNS,1.0,0.0,1,1,0.0
+Chhattisgarh,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Goa,Rape_GirlsU18,Rape & related,IPC/BNS,42.0,22.0,64,65,8.1
+Gujarat,Rape_GirlsU18,Rape & related,IPC/BNS,4.0,2.0,6,6,0.0
+Haryana,Rape_GirlsU18,Rape & related,IPC/BNS,2.0,1.0,3,3,0.0
+Himachal Pradesh,Rape_GirlsU18,Rape & related,IPC/BNS,120.0,74.0,194,194,5.2
+Jharkhand,Rape_GirlsU18,Rape & related,IPC/BNS,49.0,32.0,81,82,0.4
+Karnataka,Rape_GirlsU18,Rape & related,IPC/BNS,7.0,0.0,7,7,0.0
+Kerala,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Madhya Pradesh,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Maharashtra,Rape_GirlsU18,Rape & related,IPC/BNS,12.0,3.0,15,15,0.0
+Manipur,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Meghalaya,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,6.0,6,6,0.4
+Mizoram,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Nagaland,Rape_GirlsU18,Rape & related,IPC/BNS,3.0,2.0,5,5,0.5
+Odisha,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Punjab,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Rajasthan,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Sikkim,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Tamil Nadu,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Telangana,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Tripura,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Uttar Pradesh,Rape_GirlsU18,Rape & related,IPC/BNS,166.0,109.0,275,278,0.2
+Uttarakhand,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+West Bengal,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+A&N Islands,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Chandigarh,Rape_GirlsU18,Rape & related,IPC/BNS,27.0,20.0,47,47,8.1
+D&N Haveli and Daman & Diu,Rape_GirlsU18,Rape & related,IPC/BNS,2.0,4.0,6,6,1.3
+Delhi,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Jammu & Kashmir,Rape_GirlsU18,Rape & related,IPC/BNS,7.0,2.0,9,9,0.1
+Ladakh,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Lakshadweep,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Andhra Pradesh,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,48.0,48,48,0.2
+Arunachal Pradesh,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,6.0,6,6,0.8
+Assam,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,50.0,50,50,0.3
+Bihar,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,9.0,9,9,0.0
+Chhattisgarh,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,37.0,37,37,0.2
+Goa,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,3.0,3,3,0.4
+Gujarat,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,16.0,16,16,0.0
+Haryana,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,75.0,75,75,0.5
+Himachal Pradesh,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,6.0,6,6,0.2
+Jharkhand,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,30.0,30,30,0.2
+Karnataka,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,22.0,22,22,0.1
+Kerala,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,30.0,30,30,0.2
+Madhya Pradesh,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,128.0,128,128,0.3
+Maharashtra,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,138.0,138,138,0.2
+Manipur,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,1.0,1,1,0.1
+Meghalaya,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,6.0,6,6,0.4
+Mizoram,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,1.0,1,1,0.2
+Nagaland,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Odisha,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,2.0,2,2,0.0
+Punjab,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Rajasthan,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,9.0,9,9,0.0
+Sikkim,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Tamil Nadu,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,24.0,24,24,0.1
+Telangana,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,183.0,183,183,1.0
+Tripura,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,1.0,1,1,0.0
+Uttar Pradesh,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,285.0,285,289,0.2
+Uttarakhand,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,10.0,10,10,0.2
+West Bengal,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,165.0,165,165,0.3
+A&N Islands,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Chandigarh,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+D&N Haveli and Daman & Diu,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,1.0,1,1,0.2
+Delhi,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,35.0,35,35,0.3
+Jammu & Kashmir,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,4.0,4,4,0.1
+Ladakh,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Lakshadweep,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Andhra Pradesh,Murder_with_Rape,Rape & related,IPC/BNS,3.0,4.0,7,7,0.0
+Arunachal Pradesh,Murder_with_Rape,Rape & related,IPC/BNS,0.0,1.0,1,1,0.1
+Assam,Murder_with_Rape,Rape & related,IPC/BNS,2.0,5.0,7,7,0.0
+Bihar,Murder_with_Rape,Rape & related,IPC/BNS,7.0,2.0,9,9,0.0
+Chhattisgarh,Murder_with_Rape,Rape & related,IPC/BNS,3.0,2.0,5,6,0.0
+Goa,Murder_with_Rape,Rape & related,IPC/BNS,1.0,0.0,1,1,0.1
+Gujarat,Murder_with_Rape,Rape & related,IPC/BNS,3.0,2.0,5,5,0.0
+Haryana,Murder_with_Rape,Rape & related,IPC/BNS,5.0,7.0,12,12,0.1
+Himachal Pradesh,Murder_with_Rape,Rape & related,IPC/BNS,4.0,0.0,4,4,0.1
+Jharkhand,Murder_with_Rape,Rape & related,IPC/BNS,3.0,5.0,8,8,0.0
+Karnataka,Murder_with_Rape,Rape & related,IPC/BNS,4.0,4.0,8,8,0.0
+Kerala,Murder_with_Rape,Rape & related,IPC/BNS,2.0,1.0,3,3,0.0
+Madhya Pradesh,Murder_with_Rape,Rape & related,IPC/BNS,37.0,13.0,50,55,0.1
+Maharashtra,Murder_with_Rape,Rape & related,IPC/BNS,9.0,15.0,24,25,0.0
+Manipur,Murder_with_Rape,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Meghalaya,Murder_with_Rape,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Mizoram,Murder_with_Rape,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Nagaland,Murder_with_Rape,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Odisha,Murder_with_Rape,Rape & related,IPC/BNS,10.0,7.0,17,17,0.1
+Punjab,Murder_with_Rape,Rape & related,IPC/BNS,4.0,2.0,6,6,0.0
+Rajasthan,Murder_with_Rape,Rape & related,IPC/BNS,23.0,15.0,38,38,0.1
+Sikkim,Murder_with_Rape,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Tamil Nadu,Murder_with_Rape,Rape & related,IPC/BNS,3.0,3.0,6,6,0.0
+Telangana,Murder_with_Rape,Rape & related,IPC/BNS,12.0,6.0,18,18,0.1
+Tripura,Murder_with_Rape,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Uttar Pradesh,Murder_with_Rape,Rape & related,IPC/BNS,19.0,4.0,23,23,0.0
+Uttarakhand,Murder_with_Rape,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+West Bengal,Murder_with_Rape,Rape & related,IPC/BNS,2.0,3.0,5,5,0.0
+A&N Islands,Murder_with_Rape,Rape & related,IPC/BNS,1.0,0.0,1,1,0.5
+Chandigarh,Murder_with_Rape,Rape & related,IPC/BNS,1.0,0.0,1,1,0.2
+D&N Haveli and Daman & Diu,Murder_with_Rape,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi,Murder_with_Rape,Rape & related,IPC/BNS,4.0,2.0,6,7,0.1
+Jammu & Kashmir,Murder_with_Rape,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Ladakh,Murder_with_Rape,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Lakshadweep,Murder_with_Rape,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,Murder_with_Rape,Rape & related,IPC/BNS,1.0,0.0,1,1,0.1
+Andhra Pradesh,AttemptRape_Total,Rape & related,IPC/BNS,43.0,59.0,102,103,0.4
+Arunachal Pradesh,AttemptRape_Total,Rape & related,IPC/BNS,2.0,6.0,8,8,1.0
+Assam,AttemptRape_Total,Rape & related,IPC/BNS,74.0,81.0,155,157,0.9
+Bihar,AttemptRape_Total,Rape & related,IPC/BNS,28.0,17.0,45,45,0.1
+Chhattisgarh,AttemptRape_Total,Rape & related,IPC/BNS,2.0,3.0,5,5,0.0
+Goa,AttemptRape_Total,Rape & related,IPC/BNS,0.0,1.0,1,1,0.1
+Gujarat,AttemptRape_Total,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Haryana,AttemptRape_Total,Rape & related,IPC/BNS,71.0,39.0,110,110,0.8
+Himachal Pradesh,AttemptRape_Total,Rape & related,IPC/BNS,3.0,1.0,4,4,0.1
+Jharkhand,AttemptRape_Total,Rape & related,IPC/BNS,79.0,14.0,93,101,0.5
+Karnataka,AttemptRape_Total,Rape & related,IPC/BNS,5.0,5.0,10,10,0.0
+Kerala,AttemptRape_Total,Rape & related,IPC/BNS,26.0,21.0,47,48,0.3
+Madhya Pradesh,AttemptRape_Total,Rape & related,IPC/BNS,13.0,13.0,26,29,0.1
+Maharashtra,AttemptRape_Total,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Manipur,AttemptRape_Total,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Meghalaya,AttemptRape_Total,Rape & related,IPC/BNS,3.0,0.0,3,3,0.2
+Mizoram,AttemptRape_Total,Rape & related,IPC/BNS,0.0,1.0,1,1,0.2
+Nagaland,AttemptRape_Total,Rape & related,IPC/BNS,0.0,1.0,1,1,0.1
+Odisha,AttemptRape_Total,Rape & related,IPC/BNS,8.0,110.0,118,118,0.5
+Punjab,AttemptRape_Total,Rape & related,IPC/BNS,10.0,10.0,20,20,0.1
+Rajasthan,AttemptRape_Total,Rape & related,IPC/BNS,517.0,261.0,778,797,1.9
+Sikkim,AttemptRape_Total,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Tamil Nadu,AttemptRape_Total,Rape & related,IPC/BNS,18.0,15.0,33,33,0.1
+Telangana,AttemptRape_Total,Rape & related,IPC/BNS,34.0,25.0,59,59,0.3
+Tripura,AttemptRape_Total,Rape & related,IPC/BNS,6.0,3.0,9,9,0.4
+Uttar Pradesh,AttemptRape_Total,Rape & related,IPC/BNS,88.0,20.0,108,108,0.1
+Uttarakhand,AttemptRape_Total,Rape & related,IPC/BNS,1.0,2.0,3,3,0.1
+West Bengal,AttemptRape_Total,Rape & related,IPC/BNS,466.0,343.0,809,838,1.7
+A&N Islands,AttemptRape_Total,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Chandigarh,AttemptRape_Total,Rape & related,IPC/BNS,2.0,0.0,2,2,0.3
+D&N Haveli and Daman & Diu,AttemptRape_Total,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi,AttemptRape_Total,Rape & related,IPC/BNS,1.0,0.0,1,1,0.0
+Jammu & Kashmir,AttemptRape_Total,Rape & related,IPC/BNS,2.0,7.0,9,9,0.1
+Ladakh,AttemptRape_Total,Rape & related,IPC/BNS,1.0,0.0,1,1,0.8
+Lakshadweep,AttemptRape_Total,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,AttemptRape_Total,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Andhra Pradesh,AttemptRape_Women18plus,Rape & related,IPC/BNS,34.0,55.0,89,90,0.3
+Arunachal Pradesh,AttemptRape_Women18plus,Rape & related,IPC/BNS,1.0,5.0,6,6,0.8
+Assam,AttemptRape_Women18plus,Rape & related,IPC/BNS,74.0,81.0,155,157,0.9
+Bihar,AttemptRape_Women18plus,Rape & related,IPC/BNS,27.0,17.0,44,44,0.1
+Chhattisgarh,AttemptRape_Women18plus,Rape & related,IPC/BNS,2.0,3.0,5,5,0.0
+Goa,AttemptRape_Women18plus,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Gujarat,AttemptRape_Women18plus,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Haryana,AttemptRape_Women18plus,Rape & related,IPC/BNS,70.0,39.0,109,109,0.8
+Himachal Pradesh,AttemptRape_Women18plus,Rape & related,IPC/BNS,2.0,1.0,3,3,0.1
+Jharkhand,AttemptRape_Women18plus,Rape & related,IPC/BNS,78.0,14.0,92,100,0.5
+Karnataka,AttemptRape_Women18plus,Rape & related,IPC/BNS,5.0,5.0,10,10,0.0
+Kerala,AttemptRape_Women18plus,Rape & related,IPC/BNS,22.0,21.0,43,44,0.2
+Madhya Pradesh,AttemptRape_Women18plus,Rape & related,IPC/BNS,7.0,13.0,20,23,0.0
+Maharashtra,AttemptRape_Women18plus,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Manipur,AttemptRape_Women18plus,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Meghalaya,AttemptRape_Women18plus,Rape & related,IPC/BNS,3.0,0.0,3,3,0.2
+Mizoram,AttemptRape_Women18plus,Rape & related,IPC/BNS,0.0,1.0,1,1,0.2
+Nagaland,AttemptRape_Women18plus,Rape & related,IPC/BNS,0.0,1.0,1,1,0.1
+Odisha,AttemptRape_Women18plus,Rape & related,IPC/BNS,8.0,110.0,118,118,0.5
+Punjab,AttemptRape_Women18plus,Rape & related,IPC/BNS,9.0,6.0,15,15,0.1
+Rajasthan,AttemptRape_Women18plus,Rape & related,IPC/BNS,517.0,261.0,778,797,1.9
+Sikkim,AttemptRape_Women18plus,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Tamil Nadu,AttemptRape_Women18plus,Rape & related,IPC/BNS,18.0,15.0,33,33,0.1
+Telangana,AttemptRape_Women18plus,Rape & related,IPC/BNS,31.0,21.0,52,52,0.3
+Tripura,AttemptRape_Women18plus,Rape & related,IPC/BNS,6.0,3.0,9,9,0.4
+Uttar Pradesh,AttemptRape_Women18plus,Rape & related,IPC/BNS,69.0,18.0,87,87,0.1
+Uttarakhand,AttemptRape_Women18plus,Rape & related,IPC/BNS,1.0,2.0,3,3,0.1
+West Bengal,AttemptRape_Women18plus,Rape & related,IPC/BNS,466.0,343.0,809,838,1.7
+A&N Islands,AttemptRape_Women18plus,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Chandigarh,AttemptRape_Women18plus,Rape & related,IPC/BNS,1.0,0.0,1,1,0.2
+D&N Haveli and Daman & Diu,AttemptRape_Women18plus,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi,AttemptRape_Women18plus,Rape & related,IPC/BNS,1.0,0.0,1,1,0.0
+Jammu & Kashmir,AttemptRape_Women18plus,Rape & related,IPC/BNS,2.0,7.0,9,9,0.1
+Ladakh,AttemptRape_Women18plus,Rape & related,IPC/BNS,1.0,0.0,1,1,0.8
+Lakshadweep,AttemptRape_Women18plus,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,AttemptRape_Women18plus,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Andhra Pradesh,AttemptRape_GirlsU18,Rape & related,IPC/BNS,9.0,4.0,13,13,0.0
+Arunachal Pradesh,AttemptRape_GirlsU18,Rape & related,IPC/BNS,1.0,1.0,2,2,0.3
+Assam,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Bihar,AttemptRape_GirlsU18,Rape & related,IPC/BNS,1.0,0.0,1,1,0.0
+Chhattisgarh,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Goa,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,1.0,1,1,0.1
+Gujarat,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Haryana,AttemptRape_GirlsU18,Rape & related,IPC/BNS,1.0,0.0,1,1,0.0
+Himachal Pradesh,AttemptRape_GirlsU18,Rape & related,IPC/BNS,1.0,0.0,1,1,0.0
+Jharkhand,AttemptRape_GirlsU18,Rape & related,IPC/BNS,1.0,0.0,1,1,0.0
+Karnataka,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Kerala,AttemptRape_GirlsU18,Rape & related,IPC/BNS,4.0,0.0,4,4,0.0
+Madhya Pradesh,AttemptRape_GirlsU18,Rape & related,IPC/BNS,6.0,0.0,6,6,0.0
+Maharashtra,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Manipur,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Meghalaya,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Mizoram,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Nagaland,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Odisha,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Punjab,AttemptRape_GirlsU18,Rape & related,IPC/BNS,1.0,4.0,5,5,0.0
+Rajasthan,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Sikkim,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Tamil Nadu,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Telangana,AttemptRape_GirlsU18,Rape & related,IPC/BNS,3.0,4.0,7,7,0.0
+Tripura,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Uttar Pradesh,AttemptRape_GirlsU18,Rape & related,IPC/BNS,19.0,2.0,21,21,0.0
+Uttarakhand,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+West Bengal,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+A&N Islands,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Chandigarh,AttemptRape_GirlsU18,Rape & related,IPC/BNS,1.0,0.0,1,1,0.2
+D&N Haveli and Daman & Diu,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Jammu & Kashmir,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Ladakh,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Lakshadweep,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Andhra Pradesh,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,1288.0,1101.0,2389,2405,8.9
+Arunachal Pradesh,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,23.0,25.0,48,48,6.2
+Assam,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,390.0,353.0,743,758,4.2
+Bihar,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,117.0,108.0,225,225,0.4
+Chhattisgarh,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,355.0,426.0,781,774,5.1
+Goa,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,21.0,21.0,42,38,5.3
+Gujarat,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,138.0,89.0,227,222,0.7
+Haryana,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,232.0,208.0,440,434,3.0
+Himachal Pradesh,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,119.0,95.0,214,209,5.8
+Jharkhand,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,309.0,147.0,456,486,2.3
+Karnataka,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,2524.0,1903.0,4427,4741,13.2
+Kerala,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,1357.0,1010.0,2367,2386,12.7
+Madhya Pradesh,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,1360.0,1354.0,2714,2704,6.4
+Maharashtra,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,2973.0,2884.0,5857,5954,9.6
+Manipur,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,36.0,16.0,52,52,3.2
+Meghalaya,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,16.0,15.0,31,32,1.8
+Mizoram,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,15.0,15.0,30,30,4.8
+Nagaland,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,1.0,8.0,9,2,0.8
+Odisha,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,3640.0,3659.0,7299,7299,31.5
+Punjab,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,201.0,189.0,390,378,2.6
+Rajasthan,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,5046.0,3230.0,8276,8310,20.7
+Sikkim,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,6.0,2.0,8,8,2.4
+Tamil Nadu,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,664.0,573.0,1237,1242,3.2
+Telangana,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,1228.0,928.0,2156,2287,11.3
+Tripura,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,30.0,13.0,43,45,2.1
+Uttar Pradesh,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,1895.0,2523.0,4418,4300,3.9
+Uttarakhand,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,211.0,105.0,316,350,5.5
+West Bengal,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,406.0,551.0,957,959,2.0
+A&N Islands,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,9.0,6.0,15,15,7.9
+Chandigarh,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,5.0,2.0,7,7,1.2
+D&N Haveli and Daman & Diu,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,2.0,1.0,3,2,0.7
+Delhi,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,426.0,329.0,755,765,7.4
+Jammu & Kashmir,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,777.0,567.0,1344,1349,20.5
+Ladakh,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,4.0,0.0,4,4,3.1
+Lakshadweep,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,4.0,1.0,5,5,16.7
+Puducherry,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,1.0,17.0,18,18,2.0
+Andhra Pradesh,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,1288.0,1101.0,2389,2405,8.9
+Arunachal Pradesh,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,23.0,25.0,48,48,6.2
+Assam,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,390.0,350.0,740,758,4.2
+Bihar,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,117.0,108.0,225,225,0.4
+Chhattisgarh,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,355.0,418.0,773,774,5.1
+Goa,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,21.0,17.0,38,38,4.8
+Gujarat,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,138.0,84.0,222,222,0.6
+Haryana,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,232.0,201.0,433,434,3.0
+Himachal Pradesh,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,119.0,86.0,205,209,5.5
+Jharkhand,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,309.0,144.0,453,486,2.3
+Karnataka,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,2524.0,1901.0,4425,4741,13.2
+Kerala,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,1357.0,985.0,2342,2386,12.5
+Madhya Pradesh,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,1360.0,1339.0,2699,2704,6.3
+Maharashtra,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,2973.0,2851.0,5824,5954,9.5
+Manipur,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,36.0,14.0,50,52,3.1
+Meghalaya,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,16.0,15.0,31,32,1.8
+Mizoram,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,15.0,15.0,30,30,4.8
+Nagaland,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,1.0,1.0,2,2,0.2
+Odisha,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,3640.0,3659.0,7299,7299,31.5
+Punjab,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,201.0,175.0,376,378,2.6
+Rajasthan,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,5046.0,3230.0,8276,8310,20.7
+Sikkim,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,6.0,2.0,8,8,2.4
+Tamil Nadu,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,664.0,572.0,1236,1242,3.2
+Telangana,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,1228.0,888.0,2116,2287,11.1
+Tripura,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,30.0,13.0,43,45,2.1
+Uttar Pradesh,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,1895.0,2326.0,4221,4300,3.7
+Uttarakhand,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,211.0,101.0,312,350,5.4
+West Bengal,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,406.0,551.0,957,959,2.0
+A&N Islands,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,9.0,5.0,14,15,7.4
+Chandigarh,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,5.0,2.0,7,7,1.2
+D&N Haveli and Daman & Diu,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,2.0,0.0,2,2,0.4
+Delhi,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,426.0,329.0,755,765,7.4
+Jammu & Kashmir,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,777.0,566.0,1343,1349,20.5
+Ladakh,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,4.0,0.0,4,4,3.1
+Lakshadweep,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,4.0,1.0,5,5,16.7
+Puducherry,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,1.0,17.0,18,18,2.0
+Andhra Pradesh,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Arunachal Pradesh,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Assam,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,3.0,3,3,0.0
+Bihar,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Chhattisgarh,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,8.0,8,8,0.1
+Goa,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,4.0,4,4,0.5
+Gujarat,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,5.0,5,7,0.0
+Haryana,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,7.0,7,9,0.0
+Himachal Pradesh,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,9.0,9,9,0.2
+Jharkhand,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,3.0,3,3,0.0
+Karnataka,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,2.0,2,2,0.0
+Kerala,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,25.0,25,25,0.1
+Madhya Pradesh,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,15.0,15,15,0.0
+Maharashtra,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,33.0,33,35,0.1
+Manipur,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,2.0,2,2,0.1
+Meghalaya,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Mizoram,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Nagaland,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,7.0,7,12,0.6
+Odisha,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Punjab,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,14.0,14,15,0.1
+Rajasthan,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Sikkim,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Tamil Nadu,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,1.0,1,1,0.0
+Telangana,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,40.0,40,40,0.2
+Tripura,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Uttar Pradesh,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,197.0,197,197,0.2
+Uttarakhand,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,4.0,4,4,0.1
+West Bengal,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+A&N Islands,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,1.0,1,1,0.5
+Chandigarh,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+D&N Haveli and Daman & Diu,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,1.0,1,1,0.2
+Delhi,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Jammu & Kashmir,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,1.0,1,1,0.0
+Ladakh,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Lakshadweep,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Andhra Pradesh,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,428.0,415.0,843,845,3.2
+Arunachal Pradesh,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,9.0,8.0,17,13,2.2
+Assam,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,141.0,121.0,262,264,1.5
+Bihar,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,41.0,21.0,62,57,0.1
+Chhattisgarh,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,48.0,67.0,115,115,0.8
+Goa,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,22.0,19.0,41,38,5.2
+Gujarat,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,140.0,171.0,311,298,0.9
+Haryana,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,178.0,104.0,282,280,1.9
+Himachal Pradesh,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,86.0,86.0,172,147,4.6
+Jharkhand,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,110.0,121.0,231,229,1.2
+Karnataka,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,316.0,222.0,538,606,1.6
+Kerala,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,696.0,464.0,1160,1175,6.2
+Madhya Pradesh,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,661.0,577.0,1238,1238,2.9
+Maharashtra,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,1579.0,1062.0,2641,2637,4.3
+Manipur,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Meghalaya,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,3.0,13.0,16,16,0.9
+Mizoram,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,10.0,16.0,26,26,4.2
+Nagaland,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,4.0,4,0,0.4
+Odisha,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,533.0,549.0,1082,1082,4.7
+Punjab,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,62.0,64.0,126,106,0.9
+Rajasthan,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,537.0,844.0,1381,1381,3.4
+Sikkim,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,4.0,4,4,1.2
+Tamil Nadu,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,210.0,211.0,421,421,1.1
+Telangana,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,486.0,512.0,998,986,5.2
+Tripura,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,5.0,6.0,11,11,0.5
+Uttar Pradesh,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,1398.0,1243.0,2641,2659,2.3
+Uttarakhand,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,27.0,48.0,75,68,1.3
+West Bengal,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,200.0,309.0,509,509,1.0
+A&N Islands,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,6.0,5.0,11,11,5.8
+Chandigarh,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,7.0,5.0,12,11,2.1
+D&N Haveli and Daman & Diu,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,3.0,0.0,3,3,0.7
+Delhi,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,179.0,137.0,316,324,3.1
+Jammu & Kashmir,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,39.0,39,39,0.6
+Ladakh,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Lakshadweep,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,9.0,12.0,21,21,2.4
+Andhra Pradesh,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,428.0,415.0,843,845,3.2
+Arunachal Pradesh,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,9.0,4.0,13,13,1.7
+Assam,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,141.0,120.0,261,264,1.5
+Bihar,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,41.0,16.0,57,57,0.1
+Chhattisgarh,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,48.0,67.0,115,115,0.8
+Goa,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,22.0,15.0,37,38,4.7
+Gujarat,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,140.0,148.0,288,298,0.8
+Haryana,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,178.0,102.0,280,280,1.9
+Himachal Pradesh,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,86.0,60.0,146,147,3.9
+Jharkhand,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,110.0,119.0,229,229,1.2
+Karnataka,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,316.0,219.0,535,606,1.6
+Kerala,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,696.0,448.0,1144,1175,6.1
+Madhya Pradesh,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,661.0,577.0,1238,1238,2.9
+Maharashtra,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,1579.0,1035.0,2614,2637,4.3
+Manipur,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Meghalaya,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,3.0,13.0,16,16,0.9
+Mizoram,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,10.0,16.0,26,26,4.2
+Nagaland,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Odisha,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,533.0,549.0,1082,1082,4.7
+Punjab,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,62.0,44.0,106,106,0.7
+Rajasthan,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,537.0,844.0,1381,1381,3.4
+Sikkim,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,4.0,4,4,1.2
+Tamil Nadu,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,210.0,206.0,416,421,1.1
+Telangana,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,486.0,493.0,979,986,5.1
+Tripura,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,5.0,6.0,11,11,0.5
+Uttar Pradesh,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,1398.0,1149.0,2547,2659,2.2
+Uttarakhand,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,27.0,41.0,68,68,1.2
+West Bengal,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,200.0,309.0,509,509,1.0
+A&N Islands,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,6.0,5.0,11,11,5.8
+Chandigarh,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,7.0,4.0,11,11,1.9
+D&N Haveli and Daman & Diu,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,3.0,0.0,3,3,0.7
+Delhi,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,179.0,137.0,316,324,3.1
+Jammu & Kashmir,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,39.0,39,39,0.6
+Ladakh,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Lakshadweep,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,9.0,12.0,21,21,2.4
+Andhra Pradesh,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Arunachal Pradesh,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,4.0,4,4,0.5
+Assam,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,1.0,1,1,0.0
+Bihar,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,5.0,5,5,0.0
+Chhattisgarh,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Goa,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,4.0,4,4,0.5
+Gujarat,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,23.0,23,25,0.1
+Haryana,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,2.0,2,2,0.0
+Himachal Pradesh,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,26.0,26,34,0.7
+Jharkhand,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,2.0,2,2,0.0
+Karnataka,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,3.0,3,3,0.0
+Kerala,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,16.0,16,16,0.1
+Madhya Pradesh,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Maharashtra,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,27.0,27,38,0.0
+Manipur,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Meghalaya,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Mizoram,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Nagaland,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,4.0,4,4,0.4
+Odisha,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Punjab,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,20.0,20,20,0.1
+Rajasthan,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Sikkim,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Tamil Nadu,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,5.0,5,5,0.0
+Telangana,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,19.0,19,21,0.1
+Tripura,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Uttar Pradesh,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,94.0,94,106,0.1
+Uttarakhand,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,7.0,7,7,0.1
+West Bengal,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+A&N Islands,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Chandigarh,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,1.0,1,1,0.2
+D&N Haveli and Daman & Diu,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Delhi,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Jammu & Kashmir,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Ladakh,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Lakshadweep,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Andhra Pradesh,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,87.0,102.0,189,189,0.7
+Arunachal Pradesh,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,2.0,1.0,3,3,0.4
+Assam,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,125.0,136.0,261,265,1.5
+Bihar,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,39.0,31.0,70,70,0.1
+Chhattisgarh,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,23.0,15.0,38,38,0.2
+Goa,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,3.0,1.0,4,4,0.5
+Gujarat,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,31.0,20.0,51,49,0.1
+Haryana,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,143.0,124.0,267,262,1.8
+Himachal Pradesh,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,5.0,7.0,12,11,0.3
+Jharkhand,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,109.0,132.0,241,239,1.2
+Karnataka,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,840.0,427.0,1267,1398,3.8
+Kerala,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,64.0,54.0,118,119,0.6
+Madhya Pradesh,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,26.0,32.0,58,58,0.1
+Maharashtra,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,294.0,274.0,568,583,0.9
+Manipur,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,2.0,2,2,0.1
+Meghalaya,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,1.0,1.0,2,2,0.1
+Mizoram,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,1.0,0.0,1,1,0.2
+Nagaland,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,3.0,3,2,0.3
+Odisha,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,909.0,930.0,1839,1839,7.9
+Punjab,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,39.0,8.0,47,46,0.3
+Rajasthan,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,581.0,604.0,1185,1185,3.0
+Sikkim,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Tamil Nadu,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,29.0,23.0,52,52,0.1
+Telangana,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,81.0,46.0,127,125,0.7
+Tripura,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,5.0,13.0,18,18,0.9
+Uttar Pradesh,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,581.0,483.0,1064,1049,0.9
+Uttarakhand,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,14.0,64.0,78,76,1.4
+West Bengal,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,210.0,265.0,475,476,1.0
+A&N Islands,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Chandigarh,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,1.0,1,1,0.2
+D&N Haveli and Daman & Diu,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Delhi,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,152.0,127.0,279,285,2.7
+Jammu & Kashmir,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,63.0,15.0,78,79,1.2
+Ladakh,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Lakshadweep,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,6.0,5.0,11,11,1.2
+Andhra Pradesh,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,87.0,102.0,189,189,0.7
+Arunachal Pradesh,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,2.0,1.0,3,3,0.4
+Assam,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,125.0,136.0,261,265,1.5
+Bihar,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,39.0,31.0,70,70,0.1
+Chhattisgarh,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,23.0,15.0,38,38,0.2
+Goa,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,3.0,1.0,4,4,0.5
+Gujarat,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,31.0,18.0,49,49,0.1
+Haryana,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,143.0,118.0,261,262,1.8
+Himachal Pradesh,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,5.0,6.0,11,11,0.3
+Jharkhand,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,109.0,130.0,239,239,1.2
+Karnataka,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,840.0,426.0,1266,1398,3.8
+Kerala,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,64.0,53.0,117,119,0.6
+Madhya Pradesh,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,26.0,32.0,58,58,0.1
+Maharashtra,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,294.0,273.0,567,583,0.9
+Manipur,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,2.0,2,2,0.1
+Meghalaya,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,1.0,1.0,2,2,0.1
+Mizoram,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,1.0,0.0,1,1,0.2
+Nagaland,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,2.0,2,2,0.2
+Odisha,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,909.0,930.0,1839,1839,7.9
+Punjab,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,39.0,7.0,46,46,0.3
+Rajasthan,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,581.0,604.0,1185,1185,3.0
+Sikkim,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Tamil Nadu,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,29.0,23.0,52,52,0.1
+Telangana,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,81.0,44.0,125,125,0.7
+Tripura,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,5.0,13.0,18,18,0.9
+Uttar Pradesh,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,581.0,465.0,1046,1049,0.9
+Uttarakhand,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,14.0,62.0,76,76,1.3
+West Bengal,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,210.0,265.0,475,476,1.0
+A&N Islands,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Chandigarh,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,1.0,1,1,0.2
+D&N Haveli and Daman & Diu,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Delhi,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,152.0,127.0,279,285,2.7
+Jammu & Kashmir,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,63.0,15.0,78,79,1.2
+Ladakh,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Lakshadweep,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,6.0,5.0,11,11,1.2
+Andhra Pradesh,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Arunachal Pradesh,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Assam,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Bihar,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Chhattisgarh,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Goa,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Gujarat,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,2.0,2,3,0.0
+Haryana,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,6.0,6,6,0.0
+Himachal Pradesh,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,1.0,1,1,0.0
+Jharkhand,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,2.0,2,2,0.0
+Karnataka,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,1.0,1,1,0.0
+Kerala,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,1.0,1,1,0.0
+Madhya Pradesh,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Maharashtra,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,1.0,1,1,0.0
+Manipur,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Meghalaya,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Mizoram,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Nagaland,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,1.0,1,1,0.1
+Odisha,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Punjab,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,1.0,1,1,0.0
+Rajasthan,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Sikkim,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Tamil Nadu,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Telangana,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,2.0,2,2,0.0
+Tripura,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Uttar Pradesh,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,18.0,18,18,0.0
+Uttarakhand,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,2.0,2,2,0.0
+West Bengal,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+A&N Islands,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Chandigarh,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+D&N Haveli and Daman & Diu,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Delhi,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Jammu & Kashmir,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Ladakh,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Lakshadweep,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Andhra Pradesh,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,56.0,78.0,134,134,0.5
+Arunachal Pradesh,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,1.0,3.0,4,12,0.5
+Assam,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,12.0,16.0,28,28,0.2
+Bihar,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,4.0,0.0,4,4,0.0
+Chhattisgarh,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,1.0,5.0,6,6,0.0
+Goa,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,5.0,2.0,7,7,0.9
+Gujarat,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,17.0,7.0,24,24,0.1
+Haryana,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,38.0,27.0,65,65,0.4
+Himachal Pradesh,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,4.0,7.0,11,9,0.3
+Jharkhand,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,8.0,3.0,11,11,0.1
+Karnataka,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,44.0,22.0,66,70,0.2
+Kerala,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,53.0,42.0,95,94,0.5
+Madhya Pradesh,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,51.0,62.0,113,113,0.3
+Maharashtra,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,128.0,120.0,248,257,0.4
+Manipur,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,3.0,2.0,5,4,0.3
+Meghalaya,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Mizoram,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,2.0,2.0,4,4,0.6
+Nagaland,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Odisha,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,1.0,110.0,111,111,0.5
+Punjab,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,13.0,4.0,17,16,0.1
+Rajasthan,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,34.0,52.0,86,86,0.2
+Sikkim,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Tamil Nadu,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,34.0,31.0,65,65,0.2
+Telangana,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,143.0,86.0,229,229,1.2
+Tripura,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Uttar Pradesh,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,44.0,53.0,97,96,0.1
+Uttarakhand,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,5.0,6.0,11,11,0.2
+West Bengal,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,101.0,127.0,228,228,0.5
+A&N Islands,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,3.0,1.0,4,4,2.1
+Chandigarh,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,4.0,2.0,6,6,1.0
+D&N Haveli and Daman & Diu,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Delhi,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,16.0,22.0,38,38,0.4
+Jammu & Kashmir,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,2.0,2,2,0.0
+Ladakh,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Lakshadweep,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,2.0,1.0,3,3,0.3
+Andhra Pradesh,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,56.0,78.0,134,134,0.5
+Arunachal Pradesh,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,1.0,3.0,4,12,0.5
+Assam,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,12.0,16.0,28,28,0.2
+Bihar,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,4.0,0.0,4,4,0.0
+Chhattisgarh,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,1.0,5.0,6,6,0.0
+Goa,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,5.0,2.0,7,7,0.9
+Gujarat,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,17.0,7.0,24,24,0.1
+Haryana,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,38.0,27.0,65,65,0.4
+Himachal Pradesh,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,4.0,5.0,9,9,0.2
+Jharkhand,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,8.0,3.0,11,11,0.1
+Karnataka,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,44.0,22.0,66,70,0.2
+Kerala,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,53.0,40.0,93,94,0.5
+Madhya Pradesh,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,51.0,62.0,113,113,0.3
+Maharashtra,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,128.0,120.0,248,257,0.4
+Manipur,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,3.0,1.0,4,4,0.2
+Meghalaya,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Mizoram,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,2.0,2.0,4,4,0.6
+Nagaland,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Odisha,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,1.0,110.0,111,111,0.5
+Punjab,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,13.0,3.0,16,16,0.1
+Rajasthan,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,34.0,52.0,86,86,0.2
+Sikkim,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Tamil Nadu,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,34.0,31.0,65,65,0.2
+Telangana,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,143.0,86.0,229,229,1.2
+Tripura,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Uttar Pradesh,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,44.0,52.0,96,96,0.1
+Uttarakhand,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,5.0,6.0,11,11,0.2
+West Bengal,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,101.0,127.0,228,228,0.5
+A&N Islands,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,3.0,1.0,4,4,2.1
+Chandigarh,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,4.0,2.0,6,6,1.0
+D&N Haveli and Daman & Diu,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Delhi,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,16.0,22.0,38,38,0.4
+Jammu & Kashmir,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,2.0,2,2,0.0
+Ladakh,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Lakshadweep,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,2.0,1.0,3,3,0.3
+Andhra Pradesh,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Arunachal Pradesh,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Assam,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Bihar,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Chhattisgarh,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Goa,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Gujarat,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Haryana,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Himachal Pradesh,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,2.0,2,2,0.1
+Jharkhand,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Karnataka,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kerala,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,2.0,2,2,0.0
+Madhya Pradesh,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Maharashtra,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Manipur,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,1.0,1,1,0.1
+Meghalaya,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Mizoram,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Nagaland,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Odisha,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Punjab,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,1.0,1,1,0.0
+Rajasthan,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Sikkim,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Tamil Nadu,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Telangana,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Tripura,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Uttar Pradesh,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,1.0,1,1,0.0
+Uttarakhand,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+West Bengal,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+A&N Islands,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Chandigarh,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+D&N Haveli and Daman & Diu,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Delhi,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Jammu & Kashmir,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Ladakh,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Lakshadweep,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Andhra Pradesh,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,520.0,457.0,977,983,3.7
+Arunachal Pradesh,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,1.0,2.0,3,3,0.4
+Assam,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,29.0,43.0,72,72,0.4
+Bihar,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,20.0,37.0,57,48,0.1
+Chhattisgarh,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,32.0,28.0,60,58,0.4
+Goa,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,11.0,8.0,19,14,2.4
+Gujarat,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,46.0,62.0,108,98,0.3
+Haryana,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,221.0,133.0,354,347,2.4
+Himachal Pradesh,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,47.0,37.0,84,77,2.3
+Jharkhand,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,32.0,36.0,68,68,0.3
+Karnataka,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,193.0,111.0,304,314,0.9
+Kerala,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,215.0,170.0,385,385,2.1
+Madhya Pradesh,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,462.0,382.0,844,830,2.0
+Maharashtra,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,1309.0,1053.0,2362,2393,3.9
+Manipur,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,1.0,0.0,1,1,0.1
+Meghalaya,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,1.0,2.0,3,3,0.2
+Mizoram,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,1.0,0.0,1,1,0.2
+Nagaland,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Odisha,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,175.0,190.0,365,365,1.6
+Punjab,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,39.0,16.0,55,54,0.4
+Rajasthan,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,225.0,127.0,352,352,0.9
+Sikkim,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,1.0,1,1,0.3
+Tamil Nadu,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,65.0,48.0,113,113,0.3
+Telangana,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,1233.0,1122.0,2355,2461,12.4
+Tripura,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Uttar Pradesh,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,193.0,155.0,348,344,0.3
+Uttarakhand,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,22.0,23.0,45,41,0.8
+West Bengal,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,155.0,165.0,320,322,0.7
+A&N Islands,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,1.0,2.0,3,2,1.6
+Chandigarh,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,3.0,2.0,5,4,0.9
+D&N Haveli and Daman & Diu,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Delhi,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,117.0,61.0,178,185,1.7
+Jammu & Kashmir,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,3.0,10.0,13,13,0.2
+Ladakh,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,1.0,1,1,0.8
+Lakshadweep,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,2.0,7.0,9,9,1.0
+Andhra Pradesh,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,520.0,457.0,977,983,3.7
+Arunachal Pradesh,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,1.0,2.0,3,3,0.4
+Assam,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,29.0,43.0,72,72,0.4
+Bihar,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,20.0,28.0,48,39,0.1
+Chhattisgarh,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,32.0,26.0,58,56,0.4
+Goa,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,11.0,3.0,14,9,1.8
+Gujarat,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,46.0,49.0,95,85,0.3
+Haryana,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,221.0,126.0,347,340,2.4
+Himachal Pradesh,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,47.0,30.0,77,70,2.1
+Jharkhand,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,32.0,36.0,68,68,0.3
+Karnataka,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,193.0,111.0,304,314,0.9
+Kerala,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,215.0,167.0,382,382,2.0
+Madhya Pradesh,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,462.0,367.0,829,815,1.9
+Maharashtra,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,1309.0,1049.0,2358,2388,3.8
+Manipur,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,1.0,0.0,1,1,0.1
+Meghalaya,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,1.0,2.0,3,3,0.2
+Mizoram,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,1.0,0.0,1,1,0.2
+Nagaland,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Odisha,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,175.0,190.0,365,365,1.6
+Punjab,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,39.0,14.0,53,52,0.4
+Rajasthan,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,225.0,127.0,352,352,0.9
+Sikkim,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,1.0,1,1,0.3
+Tamil Nadu,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,65.0,48.0,113,113,0.3
+Telangana,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,1233.0,1078.0,2311,2417,12.1
+Tripura,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Uttar Pradesh,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,193.0,149.0,342,338,0.3
+Uttarakhand,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,22.0,19.0,41,37,0.7
+West Bengal,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,155.0,165.0,320,322,0.7
+A&N Islands,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,1.0,1.0,2,1,1.1
+Chandigarh,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,3.0,1.0,4,3,0.7
+D&N Haveli and Daman & Diu,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Delhi,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,117.0,61.0,178,185,1.7
+Jammu & Kashmir,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,3.0,10.0,13,13,0.2
+Ladakh,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,1.0,1,1,0.8
+Lakshadweep,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,2.0,7.0,9,9,1.0
+Andhra Pradesh,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Arunachal Pradesh,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Assam,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Bihar,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,9.0,9,9,0.0
+Chhattisgarh,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,2.0,2,2,0.0
+Goa,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,5.0,5,5,0.6
+Gujarat,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,13.0,13,13,0.0
+Haryana,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,7.0,7,7,0.0
+Himachal Pradesh,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,7.0,7,7,0.2
+Jharkhand,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Karnataka,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kerala,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,3.0,3,3,0.0
+Madhya Pradesh,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,15.0,15,15,0.0
+Maharashtra,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,4.0,4,5,0.0
+Manipur,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Meghalaya,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Mizoram,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Nagaland,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Odisha,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Punjab,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,2.0,2,2,0.0
+Rajasthan,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Sikkim,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Tamil Nadu,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Telangana,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,44.0,44,44,0.2
+Tripura,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Uttar Pradesh,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,6.0,6,6,0.0
+Uttarakhand,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,4.0,4,4,0.1
+West Bengal,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+A&N Islands,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,1.0,1,1,0.5
+Chandigarh,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,1.0,1,1,0.2
+D&N Haveli and Daman & Diu,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Delhi,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Jammu & Kashmir,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Ladakh,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Lakshadweep,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Andhra Pradesh,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,1444.0,1512.0,2956,2965,11.1
+Arunachal Pradesh,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,17.0,7.0,24,24,3.1
+Assam,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,21.0,30.0,51,52,0.3
+Bihar,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,10.0,10.0,20,20,0.0
+Chhattisgarh,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,152.0,97.0,249,249,1.6
+Goa,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,12.0,35.0,47,48,5.9
+Gujarat,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,5.0,11.0,16,16,0.0
+Haryana,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,251.0,139.0,390,391,2.7
+Himachal Pradesh,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,41.0,57.0,98,103,2.6
+Jharkhand,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,8.0,14.0,22,22,0.1
+Karnataka,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,64.0,124.0,188,200,0.6
+Kerala,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,315.0,376.0,691,698,3.7
+Madhya Pradesh,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,116.0,148.0,264,264,0.6
+Maharashtra,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,705.0,760.0,1465,1473,2.4
+Manipur,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,3.0,1.0,4,4,0.2
+Meghalaya,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,9.0,14.0,23,23,1.4
+Mizoram,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,1.0,1,1,0.2
+Nagaland,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Odisha,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,281.0,301.0,582,582,2.5
+Punjab,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,16.0,13.0,29,29,0.2
+Rajasthan,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,152.0,135.0,287,292,0.7
+Sikkim,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,5.0,1.0,6,8,1.8
+Tamil Nadu,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,38.0,56.0,94,94,0.2
+Telangana,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,352.0,584.0,936,1025,4.9
+Tripura,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,1.0,1.0,2,2,0.1
+Uttar Pradesh,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,46.0,23.0,69,69,0.1
+Uttarakhand,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,3.0,7.0,10,10,0.2
+West Bengal,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,192.0,221.0,413,413,0.8
+A&N Islands,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,5.0,1.0,6,7,3.2
+Chandigarh,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,5.0,2.0,7,7,1.2
+D&N Haveli and Daman & Diu,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,1.0,2.0,3,3,0.7
+Delhi,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,203.0,147.0,350,357,3.4
+Jammu & Kashmir,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,11.0,5.0,16,25,0.2
+Ladakh,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,1.0,3.0,4,4,3.1
+Lakshadweep,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,10.0,5.0,15,15,1.7
+Andhra Pradesh,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,1444.0,1512.0,2956,2965,11.1
+Arunachal Pradesh,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,14.0,6.0,20,20,2.6
+Assam,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,21.0,30.0,51,52,0.3
+Bihar,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,10.0,7.0,17,17,0.0
+Chhattisgarh,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,150.0,95.0,245,245,1.6
+Goa,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,11.0,33.0,44,45,5.6
+Gujarat,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,4.0,11.0,15,15,0.0
+Haryana,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,248.0,139.0,387,388,2.7
+Himachal Pradesh,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,41.0,56.0,97,102,2.6
+Jharkhand,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,7.0,14.0,21,21,0.1
+Karnataka,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,64.0,124.0,188,200,0.6
+Kerala,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,314.0,374.0,688,695,3.7
+Madhya Pradesh,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,114.0,148.0,262,262,0.6
+Maharashtra,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,705.0,760.0,1465,1473,2.4
+Manipur,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,3.0,1.0,4,4,0.2
+Meghalaya,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,9.0,14.0,23,23,1.4
+Mizoram,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,1.0,1,1,0.2
+Nagaland,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Odisha,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,281.0,301.0,582,582,2.5
+Punjab,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,16.0,13.0,29,29,0.2
+Rajasthan,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,152.0,135.0,287,292,0.7
+Sikkim,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,5.0,1.0,6,8,1.8
+Tamil Nadu,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,38.0,56.0,94,94,0.2
+Telangana,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,352.0,582.0,934,1023,4.9
+Tripura,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,1.0,1.0,2,2,0.1
+Uttar Pradesh,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,46.0,23.0,69,69,0.1
+Uttarakhand,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,3.0,6.0,9,9,0.2
+West Bengal,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,192.0,221.0,413,413,0.8
+A&N Islands,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,5.0,1.0,6,7,3.2
+Chandigarh,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,5.0,2.0,7,7,1.2
+D&N Haveli and Daman & Diu,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,1.0,2.0,3,3,0.7
+Delhi,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,203.0,147.0,350,357,3.4
+Jammu & Kashmir,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,11.0,5.0,16,25,0.2
+Ladakh,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,1.0,3.0,4,4,3.1
+Lakshadweep,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,10.0,5.0,15,15,1.7
+Andhra Pradesh,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Arunachal Pradesh,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,3.0,1.0,4,4,0.5
+Assam,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Bihar,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,3.0,3,3,0.0
+Chhattisgarh,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,2.0,2.0,4,4,0.0
+Goa,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,1.0,2.0,3,3,0.4
+Gujarat,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,1.0,0.0,1,1,0.0
+Haryana,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,3.0,0.0,3,3,0.0
+Himachal Pradesh,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,1.0,1,1,0.0
+Jharkhand,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,1.0,0.0,1,1,0.0
+Karnataka,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kerala,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,1.0,2.0,3,3,0.0
+Madhya Pradesh,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,2.0,0.0,2,2,0.0
+Maharashtra,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Manipur,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Meghalaya,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Mizoram,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Nagaland,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Odisha,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Punjab,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Rajasthan,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Sikkim,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Tamil Nadu,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Telangana,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,2.0,2,2,0.0
+Tripura,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Uttar Pradesh,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Uttarakhand,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,1.0,1,1,0.0
+West Bengal,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+A&N Islands,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Chandigarh,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+D&N Haveli and Daman & Diu,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Delhi,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Jammu & Kashmir,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Ladakh,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Lakshadweep,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Andhra Pradesh,DowryDeaths,Domestic / dowry related,IPC/BNS,38.0,34.0,72,74,0.3
+Arunachal Pradesh,DowryDeaths,Domestic / dowry related,IPC/BNS,0.0,1.0,1,1,0.1
+Assam,DowryDeaths,Domestic / dowry related,IPC/BNS,57.0,37.0,94,97,0.5
+Bihar,DowryDeaths,Domestic / dowry related,IPC/BNS,544.0,534.0,1078,1078,1.7
+Chhattisgarh,DowryDeaths,Domestic / dowry related,IPC/BNS,38.0,16.0,54,54,0.4
+Goa,DowryDeaths,Domestic / dowry related,IPC/BNS,2.0,0.0,2,2,0.3
+Gujarat,DowryDeaths,Domestic / dowry related,IPC/BNS,8.0,8.0,16,16,0.0
+Haryana,DowryDeaths,Domestic / dowry related,IPC/BNS,86.0,91.0,177,177,1.2
+Himachal Pradesh,DowryDeaths,Domestic / dowry related,IPC/BNS,0.0,0.0,0,0,0.0
+Jharkhand,DowryDeaths,Domestic / dowry related,IPC/BNS,115.0,91.0,206,214,1.1
+Karnataka,DowryDeaths,Domestic / dowry related,IPC/BNS,60.0,52.0,112,121,0.3
+Kerala,DowryDeaths,Domestic / dowry related,IPC/BNS,0.0,1.0,1,1,0.0
+Madhya Pradesh,DowryDeaths,Domestic / dowry related,IPC/BNS,232.0,218.0,450,451,1.1
+Maharashtra,DowryDeaths,Domestic / dowry related,IPC/BNS,76.0,67.0,143,155,0.2
+Manipur,DowryDeaths,Domestic / dowry related,IPC/BNS,0.0,0.0,0,0,0.0
+Meghalaya,DowryDeaths,Domestic / dowry related,IPC/BNS,0.0,0.0,0,0,0.0
+Mizoram,DowryDeaths,Domestic / dowry related,IPC/BNS,0.0,0.0,0,0,0.0
+Nagaland,DowryDeaths,Domestic / dowry related,IPC/BNS,0.0,0.0,0,0,0.0
+Odisha,DowryDeaths,Domestic / dowry related,IPC/BNS,165.0,35.0,200,200,0.9
+Punjab,DowryDeaths,Domestic / dowry related,IPC/BNS,17.0,22.0,39,39,0.3
+Rajasthan,DowryDeaths,Domestic / dowry related,IPC/BNS,206.0,180.0,386,387,1.0
+Sikkim,DowryDeaths,Domestic / dowry related,IPC/BNS,0.0,0.0,0,0,0.0
+Tamil Nadu,DowryDeaths,Domestic / dowry related,IPC/BNS,4.0,3.0,7,7,0.0
+Telangana,DowryDeaths,Domestic / dowry related,IPC/BNS,69.0,75.0,144,144,0.8
+Tripura,DowryDeaths,Domestic / dowry related,IPC/BNS,10.0,10.0,20,20,1.0
+Uttar Pradesh,DowryDeaths,Domestic / dowry related,IPC/BNS,1047.0,991.0,2038,2057,1.8
+Uttarakhand,DowryDeaths,Domestic / dowry related,IPC/BNS,32.0,9.0,41,41,0.7
+West Bengal,DowryDeaths,Domestic / dowry related,IPC/BNS,186.0,151.0,337,354,0.7
+A&N Islands,DowryDeaths,Domestic / dowry related,IPC/BNS,0.0,0.0,0,0,0.0
+Chandigarh,DowryDeaths,Domestic / dowry related,IPC/BNS,2.0,1.0,3,3,0.5
+D&N Haveli and Daman & Diu,DowryDeaths,Domestic / dowry related,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi,DowryDeaths,Domestic / dowry related,IPC/BNS,58.0,51.0,109,111,1.1
+Jammu & Kashmir,DowryDeaths,Domestic / dowry related,IPC/BNS,5.0,2.0,7,7,0.1
+Ladakh,DowryDeaths,Domestic / dowry related,IPC/BNS,0.0,0.0,0,0,0.0
+Lakshadweep,DowryDeaths,Domestic / dowry related,IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,DowryDeaths,Domestic / dowry related,IPC/BNS,0.0,0.0,0,0,0.0
+Andhra Pradesh,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,4504.0,4661.0,9165,9187,34.3
+Arunachal Pradesh,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,22.0,32.0,54,54,7.0
+Assam,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,902.0,539.0,1441,1443,8.1
+Bihar,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,989.0,852.0,1841,1841,3.0
+Chhattisgarh,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,486.0,137.0,623,623,4.1
+Goa,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,2.0,1.0,3,3,0.4
+Gujarat,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,1243.0,683.0,1926,1929,5.6
+Haryana,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,4078.0,344.0,4422,4423,30.6
+Himachal Pradesh,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,104.0,80.0,184,184,5.0
+Jharkhand,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,391.0,191.0,582,585,3.0
+Karnataka,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,1923.0,1024.0,2947,3041,8.8
+Kerala,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,3150.0,1308.0,4458,4581,23.9
+Madhya Pradesh,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,4626.0,2888.0,7514,7514,17.6
+Maharashtra,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,8410.0,2128.0,10538,10618,17.2
+Manipur,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,7.0,5.0,12,12,0.7
+Meghalaya,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,6.0,4.0,10,10,0.6
+Mizoram,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,5.0,3.0,8,8,1.3
+Nagaland,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,2.0,2.0,4,4,0.4
+Odisha,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,2562.0,2547.0,5109,5109,22.0
+Punjab,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,1361.0,281.0,1642,1642,11.1
+Rajasthan,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,9096.0,1482.0,10578,10728,26.4
+Sikkim,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,1.0,1.0,2,2,0.6
+Tamil Nadu,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,657.0,213.0,870,881,2.2
+Telangana,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,6464.0,3597.0,10061,10061,52.8
+Tripura,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,179.0,78.0,257,258,12.5
+Uttar Pradesh,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,12561.0,8705.0,21266,21372,18.6
+Uttarakhand,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,126.0,35.0,161,164,2.8
+West Bengal,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,9767.0,9563.0,19330,19666,39.5
+A&N Islands,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,0.0,2.0,2,2,1.1
+Chandigarh,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,160.0,2.0,162,162,27.9
+D&N Haveli and Daman & Diu,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,2.0,1.0,3,3,0.7
+Delhi,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,4428.0,219.0,4647,4651,45.3
+Jammu & Kashmir,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,237.0,143.0,380,380,5.8
+Ladakh,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,4.0,5.0,9,9,6.9
+Lakshadweep,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,1.0,0.0,1,1,3.3
+Puducherry,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,14.0,1.0,15,15,1.7
+Andhra Pradesh,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,80.0,30.0,110,111,0.4
+Arunachal Pradesh,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,1.0,0.0,1,1,0.1
+Assam,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,717.0,666.0,1383,1405,7.8
+Bihar,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,6635.0,5803.0,12438,12458,20.0
+Chhattisgarh,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,9.0,2.0,11,11,0.1
+Goa,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Gujarat,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,247.0,239.0,486,486,1.4
+Haryana,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,440.0,361.0,801,806,5.5
+Himachal Pradesh,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,95.0,2.0,97,98,2.6
+Jharkhand,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,446.0,210.0,656,659,3.3
+Karnataka,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,3.0,6.0,9,9,0.0
+Kerala,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,5.0,6.0,11,11,0.1
+Madhya Pradesh,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,729.0,34.0,763,763,1.8
+Maharashtra,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,73.0,38.0,111,112,0.2
+Manipur,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,5.0,2.0,7,7,0.4
+Meghalaya,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,0.0,4.0,4,4,0.2
+Mizoram,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Nagaland,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Odisha,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Punjab,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,806.0,750.0,1556,1568,10.6
+Rajasthan,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,1147.0,392.0,1539,1544,3.8
+Sikkim,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Tamil Nadu,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,72.0,28.0,100,102,0.3
+Telangana,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,134.0,29.0,163,163,0.9
+Tripura,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,17.0,9.0,26,26,1.3
+Uttar Pradesh,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,5306.0,2553.0,7859,7919,6.9
+Uttarakhand,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,132.0,1.0,133,133,2.3
+West Bengal,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,108.0,165.0,273,273,0.6
+A&N Islands,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Chandigarh,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,1.0,2.0,3,3,0.5
+D&N Haveli and Daman & Diu,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,4.0,1.0,5,5,0.0
+Jammu & Kashmir,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,203.0,197.0,400,402,6.1
+Ladakh,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,0.0,4.0,4,4,3.1
+Lakshadweep,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Andhra Pradesh,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,18.0,12.0,30,31,0.1
+Arunachal Pradesh,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,1.0,0.0,1,1,0.1
+Assam,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,433.0,430.0,863,874,4.9
+Bihar,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,3161.0,3063.0,6224,6227,10.0
+Chhattisgarh,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Goa,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Gujarat,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,18.0,46.0,64,64,0.2
+Haryana,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,271.0,289.0,560,563,3.9
+Himachal Pradesh,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,5.0,2.0,7,7,0.2
+Jharkhand,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,397.0,162.0,559,562,2.9
+Karnataka,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,0.0,5.0,5,5,0.0
+Kerala,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,2.0,5.0,7,7,0.0
+Madhya Pradesh,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,17.0,18.0,35,35,0.1
+Maharashtra,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,46.0,21.0,67,67,0.1
+Manipur,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,5.0,2.0,7,7,0.4
+Meghalaya,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,0.0,2.0,2,2,0.1
+Mizoram,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Nagaland,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Odisha,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Punjab,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,138.0,62.0,200,202,1.4
+Rajasthan,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,853.0,356.0,1209,1214,3.0
+Sikkim,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Tamil Nadu,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,43.0,16.0,59,59,0.2
+Telangana,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,38.0,27.0,65,65,0.3
+Tripura,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,6.0,1.0,7,7,0.3
+Uttar Pradesh,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,3165.0,2107.0,5272,5324,4.6
+Uttarakhand,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,35.0,1.0,36,36,0.6
+West Bengal,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,15.0,66.0,81,81,0.2
+A&N Islands,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Chandigarh,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+D&N Haveli and Daman & Diu,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,0.0,1.0,1,1,0.0
+Jammu & Kashmir,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,201.0,191.0,392,394,6.0
+Ladakh,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,0.0,4.0,4,4,3.1
+Lakshadweep,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Andhra Pradesh,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,62.0,18.0,80,80,0.3
+Arunachal Pradesh,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Assam,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,284.0,236.0,520,531,2.9
+Bihar,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,3474.0,2740.0,6214,6231,10.0
+Chhattisgarh,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,9.0,2.0,11,11,0.1
+Goa,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Gujarat,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,229.0,193.0,422,422,1.2
+Haryana,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,169.0,72.0,241,243,1.7
+Himachal Pradesh,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,90.0,0.0,90,91,2.4
+Jharkhand,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,49.0,48.0,97,97,0.5
+Karnataka,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,3.0,1.0,4,4,0.0
+Kerala,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,3.0,1.0,4,4,0.0
+Madhya Pradesh,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,712.0,16.0,728,728,1.7
+Maharashtra,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,27.0,17.0,44,45,0.1
+Manipur,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Meghalaya,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,0.0,2.0,2,2,0.1
+Mizoram,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Nagaland,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Odisha,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Punjab,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,668.0,688.0,1356,1366,9.2
+Rajasthan,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,294.0,36.0,330,330,0.8
+Sikkim,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Tamil Nadu,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,29.0,12.0,41,43,0.1
+Telangana,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,96.0,2.0,98,98,0.5
+Tripura,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,11.0,8.0,19,19,0.9
+Uttar Pradesh,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,2141.0,446.0,2587,2595,2.3
+Uttarakhand,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,97.0,0.0,97,97,1.7
+West Bengal,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,93.0,99.0,192,192,0.4
+A&N Islands,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Chandigarh,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,1.0,2.0,3,3,0.5
+D&N Haveli and Daman & Diu,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,4.0,0.0,4,4,0.0
+Jammu & Kashmir,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,2.0,6.0,8,8,0.1
+Ladakh,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Lakshadweep,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Andhra Pradesh,Miscarriage,Other,IPC/BNS,2.0,4.0,6,6,0.0
+Arunachal Pradesh,Miscarriage,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Assam,Miscarriage,Other,IPC/BNS,1.0,5.0,6,6,0.0
+Bihar,Miscarriage,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Chhattisgarh,Miscarriage,Other,IPC/BNS,1.0,1.0,2,2,0.0
+Goa,Miscarriage,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Gujarat,Miscarriage,Other,IPC/BNS,2.0,2.0,4,4,0.0
+Haryana,Miscarriage,Other,IPC/BNS,13.0,11.0,24,24,0.2
+Himachal Pradesh,Miscarriage,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Jharkhand,Miscarriage,Other,IPC/BNS,0.0,7.0,7,7,0.0
+Karnataka,Miscarriage,Other,IPC/BNS,10.0,7.0,17,17,0.1
+Kerala,Miscarriage,Other,IPC/BNS,0.0,1.0,1,1,0.0
+Madhya Pradesh,Miscarriage,Other,IPC/BNS,5.0,1.0,6,6,0.0
+Maharashtra,Miscarriage,Other,IPC/BNS,53.0,39.0,92,92,0.2
+Manipur,Miscarriage,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Meghalaya,Miscarriage,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Mizoram,Miscarriage,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Nagaland,Miscarriage,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Odisha,Miscarriage,Other,IPC/BNS,7.0,0.0,7,7,0.0
+Punjab,Miscarriage,Other,IPC/BNS,0.0,3.0,3,3,0.0
+Rajasthan,Miscarriage,Other,IPC/BNS,55.0,19.0,74,74,0.2
+Sikkim,Miscarriage,Other,IPC/BNS,1.0,0.0,1,1,0.3
+Tamil Nadu,Miscarriage,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Telangana,Miscarriage,Other,IPC/BNS,1.0,0.0,1,1,0.0
+Tripura,Miscarriage,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Uttar Pradesh,Miscarriage,Other,IPC/BNS,11.0,8.0,19,19,0.0
+Uttarakhand,Miscarriage,Other,IPC/BNS,1.0,0.0,1,1,0.0
+West Bengal,Miscarriage,Other,IPC/BNS,5.0,16.0,21,21,0.0
+A&N Islands,Miscarriage,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Chandigarh,Miscarriage,Other,IPC/BNS,0.0,0.0,0,0,0.0
+D&N Haveli and Daman & Diu,Miscarriage,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi,Miscarriage,Other,IPC/BNS,2.0,1.0,3,3,0.0
+Jammu & Kashmir,Miscarriage,Other,IPC/BNS,2.0,2.0,4,4,0.1
+Ladakh,Miscarriage,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Lakshadweep,Miscarriage,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,Miscarriage,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Andhra Pradesh,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,20.0,7.0,27,27,0.1
+Arunachal Pradesh,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Assam,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,248.0,81.0,329,330,1.9
+Bihar,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,5.0,5,7,0.0
+Chhattisgarh,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,2.0,0.0,2,2,0.0
+Goa,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Gujarat,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Haryana,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,379.0,357.0,736,738,5.1
+Himachal Pradesh,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Jharkhand,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,182.0,125.0,307,307,1.6
+Karnataka,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,5.0,0.0,5,5,0.0
+Kerala,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,1.0,1.0,2,2,0.0
+Madhya Pradesh,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,10.0,3.0,13,13,0.0
+Maharashtra,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,15.0,7.0,22,25,0.0
+Manipur,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,5.0,7.0,12,12,0.7
+Meghalaya,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,2.0,1.0,3,3,0.2
+Mizoram,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Nagaland,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Odisha,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Punjab,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,27.0,5.0,32,32,0.2
+Rajasthan,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,51.0,21.0,72,72,0.2
+Sikkim,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Tamil Nadu,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,3.0,0.0,3,3,0.0
+Telangana,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,30.0,2.0,32,32,0.2
+Tripura,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,25.0,16.0,41,42,2.0
+Uttar Pradesh,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Uttarakhand,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+West Bengal,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,13.0,3.0,16,16,0.0
+A&N Islands,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Chandigarh,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,1.0,1,1,0.2
+D&N Haveli and Daman & Diu,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,1.0,0.0,1,1,0.0
+Jammu & Kashmir,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Ladakh,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Lakshadweep,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Andhra Pradesh,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Arunachal Pradesh,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,1.0,1,2,0.1
+Assam,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Bihar,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,1.0,2.0,3,3,0.0
+Chhattisgarh,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Goa,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Gujarat,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Haryana,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Himachal Pradesh,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Jharkhand,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,3.0,3,3,0.0
+Karnataka,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Kerala,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Madhya Pradesh,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,2.0,0.0,2,2,0.0
+Maharashtra,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,1.0,0.0,1,1,0.0
+Manipur,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Meghalaya,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Mizoram,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Nagaland,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Odisha,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Punjab,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Rajasthan,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Sikkim,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Tamil Nadu,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Telangana,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Tripura,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Uttar Pradesh,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Uttarakhand,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,1.0,1,1,0.0
+West Bengal,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+A&N Islands,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Chandigarh,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+D&N Haveli and Daman & Diu,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Jammu & Kashmir,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Ladakh,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Lakshadweep,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Andhra Pradesh,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Arunachal Pradesh,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Assam,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Bihar,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,2.0,2,2,0.0
+Chhattisgarh,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Goa,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Gujarat,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Haryana,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Himachal Pradesh,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Jharkhand,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Karnataka,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Kerala,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Madhya Pradesh,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,1.0,1,1,0.0
+Maharashtra,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Manipur,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Meghalaya,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Mizoram,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Nagaland,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Odisha,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Punjab,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Rajasthan,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Sikkim,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Tamil Nadu,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Telangana,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Tripura,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Uttar Pradesh,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Uttarakhand,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,1.0,0.0,1,1,0.0
+West Bengal,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+A&N Islands,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Chandigarh,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+D&N Haveli and Daman & Diu,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Jammu & Kashmir,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Ladakh,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Lakshadweep,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Andhra Pradesh,Abetment_Suicide_Women,Other,IPC/BNS,131.0,149.0,280,285,1.0
+Arunachal Pradesh,Abetment_Suicide_Women,Other,IPC/BNS,1.0,3.0,4,4,0.5
+Assam,Abetment_Suicide_Women,Other,IPC/BNS,48.0,34.0,82,84,0.5
+Bihar,Abetment_Suicide_Women,Other,IPC/BNS,5.0,1.0,6,6,0.0
+Chhattisgarh,Abetment_Suicide_Women,Other,IPC/BNS,78.0,40.0,118,118,0.8
+Goa,Abetment_Suicide_Women,Other,IPC/BNS,1.0,1.0,2,2,0.3
+Gujarat,Abetment_Suicide_Women,Other,IPC/BNS,134.0,114.0,248,251,0.7
+Haryana,Abetment_Suicide_Women,Other,IPC/BNS,82.0,74.0,156,157,1.1
+Himachal Pradesh,Abetment_Suicide_Women,Other,IPC/BNS,28.0,23.0,51,51,1.4
+Jharkhand,Abetment_Suicide_Women,Other,IPC/BNS,20.0,15.0,35,35,0.2
+Karnataka,Abetment_Suicide_Women,Other,IPC/BNS,118.0,123.0,241,246,0.7
+Kerala,Abetment_Suicide_Women,Other,IPC/BNS,27.0,21.0,48,51,0.3
+Madhya Pradesh,Abetment_Suicide_Women,Other,IPC/BNS,350.0,296.0,646,658,1.5
+Maharashtra,Abetment_Suicide_Women,Other,IPC/BNS,389.0,281.0,670,684,1.1
+Manipur,Abetment_Suicide_Women,Other,IPC/BNS,2.0,2.0,4,4,0.2
+Meghalaya,Abetment_Suicide_Women,Other,IPC/BNS,2.0,0.0,2,2,0.1
+Mizoram,Abetment_Suicide_Women,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Nagaland,Abetment_Suicide_Women,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Odisha,Abetment_Suicide_Women,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Punjab,Abetment_Suicide_Women,Other,IPC/BNS,92.0,64.0,156,158,1.1
+Rajasthan,Abetment_Suicide_Women,Other,IPC/BNS,83.0,11.0,94,95,0.2
+Sikkim,Abetment_Suicide_Women,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Tamil Nadu,Abetment_Suicide_Women,Other,IPC/BNS,102.0,53.0,155,155,0.4
+Telangana,Abetment_Suicide_Women,Other,IPC/BNS,232.0,192.0,424,427,2.2
+Tripura,Abetment_Suicide_Women,Other,IPC/BNS,12.0,6.0,18,18,0.9
+Uttar Pradesh,Abetment_Suicide_Women,Other,IPC/BNS,165.0,157.0,322,325,0.3
+Uttarakhand,Abetment_Suicide_Women,Other,IPC/BNS,5.0,2.0,7,7,0.1
+West Bengal,Abetment_Suicide_Women,Other,IPC/BNS,210.0,185.0,395,402,0.8
+A&N Islands,Abetment_Suicide_Women,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Chandigarh,Abetment_Suicide_Women,Other,IPC/BNS,0.0,0.0,0,0,0.0
+D&N Haveli and Daman & Diu,Abetment_Suicide_Women,Other,IPC/BNS,1.0,0.0,1,1,0.2
+Delhi,Abetment_Suicide_Women,Other,IPC/BNS,23.0,11.0,34,37,0.3
+Jammu & Kashmir,Abetment_Suicide_Women,Other,IPC/BNS,14.0,4.0,18,18,0.3
+Ladakh,Abetment_Suicide_Women,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Lakshadweep,Abetment_Suicide_Women,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,Abetment_Suicide_Women,Other,IPC/BNS,2.0,1.0,3,3,0.3
+Andhra Pradesh,AcidAttack,Acid attack,IPC/BNS,1.0,0.0,1,1,0.0
+Arunachal Pradesh,AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Assam,AcidAttack,Acid attack,IPC/BNS,2.0,2.0,4,4,0.0
+Bihar,AcidAttack,Acid attack,IPC/BNS,10.0,0.0,10,10,0.0
+Chhattisgarh,AcidAttack,Acid attack,IPC/BNS,0.0,1.0,1,1,0.0
+Goa,AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Gujarat,AcidAttack,Acid attack,IPC/BNS,4.0,1.0,5,7,0.0
+Haryana,AcidAttack,Acid attack,IPC/BNS,4.0,1.0,5,5,0.0
+Himachal Pradesh,AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Jharkhand,AcidAttack,Acid attack,IPC/BNS,1.0,0.0,1,1,0.0
+Karnataka,AcidAttack,Acid attack,IPC/BNS,3.0,1.0,4,8,0.0
+Kerala,AcidAttack,Acid attack,IPC/BNS,2.0,3.0,5,7,0.0
+Madhya Pradesh,AcidAttack,Acid attack,IPC/BNS,4.0,5.0,9,9,0.0
+Maharashtra,AcidAttack,Acid attack,IPC/BNS,4.0,7.0,11,11,0.0
+Manipur,AcidAttack,Acid attack,IPC/BNS,1.0,0.0,1,1,0.1
+Meghalaya,AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Mizoram,AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Nagaland,AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Odisha,AcidAttack,Acid attack,IPC/BNS,1.0,3.0,4,4,0.0
+Punjab,AcidAttack,Acid attack,IPC/BNS,2.0,2.0,4,4,0.0
+Rajasthan,AcidAttack,Acid attack,IPC/BNS,2.0,2.0,4,4,0.0
+Sikkim,AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Tamil Nadu,AcidAttack,Acid attack,IPC/BNS,1.0,0.0,1,1,0.0
+Telangana,AcidAttack,Acid attack,IPC/BNS,1.0,0.0,1,1,0.0
+Tripura,AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Uttar Pradesh,AcidAttack,Acid attack,IPC/BNS,11.0,4.0,15,15,0.0
+Uttarakhand,AcidAttack,Acid attack,IPC/BNS,1.0,0.0,1,1,0.0
+West Bengal,AcidAttack,Acid attack,IPC/BNS,13.0,17.0,30,30,0.1
+A&N Islands,AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Chandigarh,AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+D&N Haveli and Daman & Diu,AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi,AcidAttack,Acid attack,IPC/BNS,1.0,0.0,1,1,0.0
+Jammu & Kashmir,AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Ladakh,AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Lakshadweep,AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Andhra Pradesh,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,2.0,2,2,0.0
+Arunachal Pradesh,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Assam,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,1.0,1,1,0.0
+Bihar,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Chhattisgarh,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Goa,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Gujarat,Attempt_AcidAttack,Acid attack,IPC/BNS,1.0,0.0,1,1,0.0
+Haryana,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Himachal Pradesh,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Jharkhand,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Karnataka,Attempt_AcidAttack,Acid attack,IPC/BNS,1.0,0.0,1,1,0.0
+Kerala,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,1.0,1,1,0.0
+Madhya Pradesh,Attempt_AcidAttack,Acid attack,IPC/BNS,1.0,2.0,3,4,0.0
+Maharashtra,Attempt_AcidAttack,Acid attack,IPC/BNS,1.0,2.0,3,3,0.0
+Manipur,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Meghalaya,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Mizoram,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Nagaland,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Odisha,Attempt_AcidAttack,Acid attack,IPC/BNS,3.0,0.0,3,3,0.0
+Punjab,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Rajasthan,Attempt_AcidAttack,Acid attack,IPC/BNS,2.0,1.0,3,3,0.0
+Sikkim,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Tamil Nadu,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,1.0,1,1,0.0
+Telangana,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,1.0,1,1,0.0
+Tripura,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Uttar Pradesh,Attempt_AcidAttack,Acid attack,IPC/BNS,1.0,0.0,1,1,0.0
+Uttarakhand,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+West Bengal,Attempt_AcidAttack,Acid attack,IPC/BNS,3.0,3.0,6,6,0.0
+A&N Islands,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Chandigarh,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+D&N Haveli and Daman & Diu,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,5.0,5,5,0.0
+Jammu & Kashmir,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Ladakh,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Lakshadweep,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Andhra Pradesh,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,142.0,147.0,289,302,1.1
+Arunachal Pradesh,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,22.0,12.0,34,48,4.4
+Assam,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,795.0,729.0,1524,1612,8.6
+Bihar,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,1770.0,2132.0,3902,3971,6.3
+Chhattisgarh,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,1421.0,1401.0,2822,2862,18.5
+Goa,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,32.0,39.0,71,73,9.0
+Gujarat,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,328.0,387.0,715,728,2.1
+Haryana,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,925.0,1157.0,2082,2144,14.4
+Himachal Pradesh,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,128.0,178.0,306,316,8.2
+Jharkhand,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,66.0,247.0,313,316,1.6
+Karnataka,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,1431.0,1201.0,2632,2809,7.8
+Kerala,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,51.0,52.0,103,113,0.6
+Madhya Pradesh,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,4682.0,4262.0,8944,9011,21.0
+Maharashtra,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,5195.0,5232.0,10427,10576,17.0
+Manipur,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,3.0,4.0,7,9,0.4
+Meghalaya,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,37.0,19.0,56,69,3.3
+Mizoram,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Nagaland,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,2.0,1.0,3,3,0.3
+Odisha,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,3095.0,3112.0,6207,6208,26.8
+Punjab,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,17.0,42.0,59,63,0.4
+Rajasthan,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,2186.0,1856.0,4042,4385,10.1
+Sikkim,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,14.0,9.0,23,28,7.0
+Tamil Nadu,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,43.0,38.0,81,93,0.2
+Telangana,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,1246.0,1002.0,2248,2366,11.8
+Tripura,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,15.0,20.0,35,36,1.7
+Uttar Pradesh,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,3301.0,6283.0,9584,10279,8.4
+Uttarakhand,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,289.0,269.0,558,598,9.7
+West Bengal,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,2668.0,3477.0,6145,6301,12.6
+A&N Islands,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,6.0,6.0,12,15,6.3
+Chandigarh,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,69.0,69.0,138,138,23.8
+D&N Haveli and Daman & Diu,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,20.0,12.0,32,32,7.0
+Delhi,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,2030.0,1944.0,3974,4073,38.8
+Jammu & Kashmir,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,243.0,203.0,446,451,6.8
+Ladakh,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,0.0,3.0,3,3,2.3
+Lakshadweep,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,6.0,6.0,12,12,1.3
+Andhra Pradesh,KA_Sec363,Kidnapping & abduction,IPC/BNS,136.0,126.0,262,273,1.0
+Arunachal Pradesh,KA_Sec363,Kidnapping & abduction,IPC/BNS,19.0,12.0,31,45,4.0
+Assam,KA_Sec363,Kidnapping & abduction,IPC/BNS,374.0,404.0,778,828,4.4
+Bihar,KA_Sec363,Kidnapping & abduction,IPC/BNS,800.0,981.0,1781,1828,2.9
+Chhattisgarh,KA_Sec363,Kidnapping & abduction,IPC/BNS,1412.0,1399.0,2811,2819,18.4
+Goa,KA_Sec363,Kidnapping & abduction,IPC/BNS,29.0,32.0,61,63,7.7
+Gujarat,KA_Sec363,Kidnapping & abduction,IPC/BNS,300.0,349.0,649,662,1.9
+Haryana,KA_Sec363,Kidnapping & abduction,IPC/BNS,153.0,245.0,398,428,2.8
+Himachal Pradesh,KA_Sec363,Kidnapping & abduction,IPC/BNS,127.0,177.0,304,314,8.2
+Jharkhand,KA_Sec363,Kidnapping & abduction,IPC/BNS,58.0,123.0,181,183,0.9
+Karnataka,KA_Sec363,Kidnapping & abduction,IPC/BNS,1395.0,1146.0,2541,2680,7.6
+Kerala,KA_Sec363,Kidnapping & abduction,IPC/BNS,45.0,42.0,87,96,0.5
+Madhya Pradesh,KA_Sec363,Kidnapping & abduction,IPC/BNS,4668.0,4209.0,8877,8942,20.8
+Maharashtra,KA_Sec363,Kidnapping & abduction,IPC/BNS,5156.0,5130.0,10286,10435,16.8
+Manipur,KA_Sec363,Kidnapping & abduction,IPC/BNS,3.0,1.0,4,5,0.2
+Meghalaya,KA_Sec363,Kidnapping & abduction,IPC/BNS,32.0,13.0,45,57,2.7
+Mizoram,KA_Sec363,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Nagaland,KA_Sec363,Kidnapping & abduction,IPC/BNS,1.0,1.0,2,2,0.2
+Odisha,KA_Sec363,Kidnapping & abduction,IPC/BNS,3095.0,3112.0,6207,6208,26.8
+Punjab,KA_Sec363,Kidnapping & abduction,IPC/BNS,4.0,29.0,33,35,0.2
+Rajasthan,KA_Sec363,Kidnapping & abduction,IPC/BNS,1814.0,1468.0,3282,3584,8.2
+Sikkim,KA_Sec363,Kidnapping & abduction,IPC/BNS,14.0,9.0,23,28,7.0
+Tamil Nadu,KA_Sec363,Kidnapping & abduction,IPC/BNS,24.0,32.0,56,67,0.1
+Telangana,KA_Sec363,Kidnapping & abduction,IPC/BNS,1131.0,966.0,2097,2211,11.0
+Tripura,KA_Sec363,Kidnapping & abduction,IPC/BNS,13.0,19.0,32,33,1.6
+Uttar Pradesh,KA_Sec363,Kidnapping & abduction,IPC/BNS,3152.0,6098.0,9250,9945,8.1
+Uttarakhand,KA_Sec363,Kidnapping & abduction,IPC/BNS,101.0,197.0,298,298,5.2
+West Bengal,KA_Sec363,Kidnapping & abduction,IPC/BNS,1703.0,2569.0,4272,4354,8.7
+A&N Islands,KA_Sec363,Kidnapping & abduction,IPC/BNS,6.0,6.0,12,15,6.3
+Chandigarh,KA_Sec363,Kidnapping & abduction,IPC/BNS,68.0,69.0,137,137,23.6
+D&N Haveli and Daman & Diu,KA_Sec363,Kidnapping & abduction,IPC/BNS,20.0,11.0,31,31,6.7
+Delhi,KA_Sec363,Kidnapping & abduction,IPC/BNS,1982.0,1829.0,3811,3907,37.2
+Jammu & Kashmir,KA_Sec363,Kidnapping & abduction,IPC/BNS,179.0,203.0,382,387,5.8
+Ladakh,KA_Sec363,Kidnapping & abduction,IPC/BNS,0.0,3.0,3,3,2.3
+Lakshadweep,KA_Sec363,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,KA_Sec363,Kidnapping & abduction,IPC/BNS,6.0,6.0,12,12,1.3
+Andhra Pradesh,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Arunachal Pradesh,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Assam,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,1.0,1,1,0.0
+Bihar,KA_to_Murder,Kidnapping & abduction,IPC/BNS,1.0,4.0,5,5,0.0
+Chhattisgarh,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Goa,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Gujarat,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Haryana,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,1.0,1,1,0.0
+Himachal Pradesh,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Jharkhand,KA_to_Murder,Kidnapping & abduction,IPC/BNS,3.0,3.0,6,7,0.0
+Karnataka,KA_to_Murder,Kidnapping & abduction,IPC/BNS,12.0,0.0,12,12,0.0
+Kerala,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,1.0,1,1,0.0
+Madhya Pradesh,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Maharashtra,KA_to_Murder,Kidnapping & abduction,IPC/BNS,3.0,1.0,4,4,0.0
+Manipur,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Meghalaya,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Mizoram,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Nagaland,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Odisha,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Punjab,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Rajasthan,KA_to_Murder,Kidnapping & abduction,IPC/BNS,2.0,7.0,9,9,0.0
+Sikkim,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Tamil Nadu,KA_to_Murder,Kidnapping & abduction,IPC/BNS,2.0,0.0,2,3,0.0
+Telangana,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Tripura,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Uttar Pradesh,KA_to_Murder,Kidnapping & abduction,IPC/BNS,4.0,7.0,11,11,0.0
+Uttarakhand,KA_to_Murder,Kidnapping & abduction,IPC/BNS,1.0,0.0,1,1,0.0
+West Bengal,KA_to_Murder,Kidnapping & abduction,IPC/BNS,4.0,3.0,7,7,0.0
+A&N Islands,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Chandigarh,KA_to_Murder,Kidnapping & abduction,IPC/BNS,1.0,0.0,1,1,0.2
+D&N Haveli and Daman & Diu,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Jammu & Kashmir,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Ladakh,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Lakshadweep,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Andhra Pradesh,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,1.0,0.0,1,2,0.0
+Arunachal Pradesh,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Assam,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,2.0,2.0,4,4,0.0
+Bihar,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,1.0,1.0,2,2,0.0
+Chhattisgarh,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,1.0,1.0,2,2,0.0
+Goa,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Gujarat,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,2.0,2.0,4,4,0.0
+Haryana,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,1.0,2.0,3,3,0.0
+Himachal Pradesh,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Jharkhand,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,1.0,1,1,0.0
+Karnataka,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,4.0,8.0,12,12,0.0
+Kerala,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Madhya Pradesh,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,1.0,2.0,3,3,0.0
+Maharashtra,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,14.0,11.0,25,25,0.0
+Manipur,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Meghalaya,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,1.0,1.0,2,2,0.1
+Mizoram,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Nagaland,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Odisha,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Punjab,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,1.0,0.0,1,1,0.0
+Rajasthan,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,3.0,9.0,12,12,0.0
+Sikkim,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Tamil Nadu,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,2.0,3.0,5,5,0.0
+Telangana,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Tripura,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,1.0,1.0,2,2,0.1
+Uttar Pradesh,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,1.0,0.0,1,1,0.0
+Uttarakhand,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+West Bengal,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,11.0,23.0,34,34,0.1
+A&N Islands,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Chandigarh,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+D&N Haveli and Daman & Diu,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,1.0,2.0,3,3,0.0
+Jammu & Kashmir,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Ladakh,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Lakshadweep,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Andhra Pradesh,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Arunachal Pradesh,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Assam,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Bihar,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Chhattisgarh,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Goa,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Gujarat,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Haryana,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Himachal Pradesh,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Jharkhand,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Karnataka,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Kerala,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Madhya Pradesh,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Maharashtra,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Manipur,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,1.0,1,1,0.1
+Meghalaya,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Mizoram,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Nagaland,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Odisha,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Punjab,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Rajasthan,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Sikkim,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Tamil Nadu,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Telangana,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Tripura,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Uttar Pradesh,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Uttarakhand,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+West Bengal,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,1.0,0.0,1,1,0.0
+A&N Islands,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Chandigarh,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+D&N Haveli and Daman & Diu,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Jammu & Kashmir,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Ladakh,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Lakshadweep,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Andhra Pradesh,KA_Others,Kidnapping & abduction,IPC/BNS,5.0,21.0,26,27,0.1
+Arunachal Pradesh,KA_Others,Kidnapping & abduction,IPC/BNS,3.0,0.0,3,3,0.4
+Assam,KA_Others,Kidnapping & abduction,IPC/BNS,419.0,322.0,741,779,4.2
+Bihar,KA_Others,Kidnapping & abduction,IPC/BNS,968.0,1146.0,2114,2136,3.4
+Chhattisgarh,KA_Others,Kidnapping & abduction,IPC/BNS,8.0,1.0,9,41,0.1
+Goa,KA_Others,Kidnapping & abduction,IPC/BNS,3.0,7.0,10,10,1.3
+Gujarat,KA_Others,Kidnapping & abduction,IPC/BNS,26.0,36.0,62,62,0.2
+Haryana,KA_Others,Kidnapping & abduction,IPC/BNS,771.0,909.0,1680,1712,11.6
+Himachal Pradesh,KA_Others,Kidnapping & abduction,IPC/BNS,1.0,1.0,2,2,0.1
+Jharkhand,KA_Others,Kidnapping & abduction,IPC/BNS,5.0,120.0,125,125,0.6
+Karnataka,KA_Others,Kidnapping & abduction,IPC/BNS,20.0,47.0,67,105,0.2
+Kerala,KA_Others,Kidnapping & abduction,IPC/BNS,6.0,9.0,15,16,0.1
+Madhya Pradesh,KA_Others,Kidnapping & abduction,IPC/BNS,13.0,51.0,64,66,0.2
+Maharashtra,KA_Others,Kidnapping & abduction,IPC/BNS,22.0,90.0,112,112,0.2
+Manipur,KA_Others,Kidnapping & abduction,IPC/BNS,0.0,2.0,2,3,0.1
+Meghalaya,KA_Others,Kidnapping & abduction,IPC/BNS,4.0,5.0,9,10,0.5
+Mizoram,KA_Others,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Nagaland,KA_Others,Kidnapping & abduction,IPC/BNS,1.0,0.0,1,1,0.1
+Odisha,KA_Others,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Punjab,KA_Others,Kidnapping & abduction,IPC/BNS,12.0,13.0,25,27,0.2
+Rajasthan,KA_Others,Kidnapping & abduction,IPC/BNS,367.0,372.0,739,780,1.8
+Sikkim,KA_Others,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Tamil Nadu,KA_Others,Kidnapping & abduction,IPC/BNS,15.0,3.0,18,18,0.0
+Telangana,KA_Others,Kidnapping & abduction,IPC/BNS,115.0,36.0,151,155,0.8
+Tripura,KA_Others,Kidnapping & abduction,IPC/BNS,1.0,0.0,1,1,0.0
+Uttar Pradesh,KA_Others,Kidnapping & abduction,IPC/BNS,144.0,178.0,322,322,0.3
+Uttarakhand,KA_Others,Kidnapping & abduction,IPC/BNS,187.0,72.0,259,299,4.5
+West Bengal,KA_Others,Kidnapping & abduction,IPC/BNS,949.0,882.0,1831,1905,3.7
+A&N Islands,KA_Others,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Chandigarh,KA_Others,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+D&N Haveli and Daman & Diu,KA_Others,Kidnapping & abduction,IPC/BNS,0.0,1.0,1,1,0.2
+Delhi,KA_Others,Kidnapping & abduction,IPC/BNS,47.0,113.0,160,163,1.6
+Jammu & Kashmir,KA_Others,Kidnapping & abduction,IPC/BNS,64.0,0.0,64,64,1.0
+Ladakh,KA_Others,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Lakshadweep,KA_Others,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Puducherry,KA_Others,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Andhra Pradesh,Total_IPC_BNS_CAW,Totals,IPC/BNS,9103.0,8935.0,18038,18122,67.5
+Arunachal Pradesh,Total_IPC_BNS_CAW,Totals,IPC/BNS,141.0,144.0,285,311,37.0
+Assam,Total_IPC_BNS_CAW,Totals,IPC/BNS,4147.0,3273.0,7420,7590,41.8
+Bihar,Total_IPC_BNS_CAW,Totals,IPC/BNS,10879.0,10072.0,20951,21042,33.7
+Chhattisgarh,Total_IPC_BNS_CAW,Totals,IPC/BNS,3473.0,2627.0,6100,6142,39.9
+Goa,Total_IPC_BNS_CAW,Totals,IPC/BNS,183.0,165.0,348,353,44.1
+Gujarat,Total_IPC_BNS_CAW,Totals,IPC/BNS,2807.0,2013.0,4820,4861,14.0
+Haryana,Total_IPC_BNS_CAW,Totals,IPC/BNS,8192.0,3597.0,11789,11865,81.5
+Himachal Pradesh,Total_IPC_BNS_CAW,Totals,IPC/BNS,880.0,687.0,1567,1597,42.2
+Jharkhand,Total_IPC_BNS_CAW,Totals,IPC/BNS,2505.0,1838.0,4343,4402,22.1
+Karnataka,Total_IPC_BNS_CAW,Totals,IPC/BNS,8051.0,5418.0,13469,14312,40.1
+Kerala,Total_IPC_BNS_CAW,Totals,IPC/BNS,6683.0,3783.0,10466,10699,56.0
+Madhya Pradesh,Total_IPC_BNS_CAW,Totals,IPC/BNS,15406.0,11441.0,26847,26950,62.9
+Maharashtra,Total_IPC_BNS_CAW,Totals,IPC/BNS,23375.0,15037.0,38412,38912,62.7
+Manipur,Total_IPC_BNS_CAW,Totals,IPC/BNS,81.0,46.0,127,131,7.8
+Meghalaya,Total_IPC_BNS_CAW,Totals,IPC/BNS,105.0,111.0,216,230,12.8
+Mizoram,Total_IPC_BNS_CAW,Totals,IPC/BNS,46.0,47.0,93,93,15.0
+Nagaland,Total_IPC_BNS_CAW,Totals,IPC/BNS,14.0,24.0,38,43,3.5
+Odisha,Total_IPC_BNS_CAW,Totals,IPC/BNS,12014.0,12199.0,24213,24214,104.4
+Punjab,Total_IPC_BNS_CAW,Totals,IPC/BNS,2984.0,1672.0,4656,4680,31.6
+Rajasthan,Total_IPC_BNS_CAW,Totals,IPC/BNS,23470.0,10585.0,34055,34630,85.0
+Sikkim,Total_IPC_BNS_CAW,Totals,IPC/BNS,32.0,20.0,52,59,15.8
+Tamil Nadu,Total_IPC_BNS_CAW,Totals,IPC/BNS,2229.0,1453.0,3682,3718,9.5
+Telangana,Total_IPC_BNS_CAW,Totals,IPC/BNS,12465.0,8819.0,21284,21835,111.7
+Tripura,Total_IPC_BNS_CAW,Totals,IPC/BNS,351.0,194.0,545,550,26.5
+Uttar Pradesh,Total_IPC_BNS_CAW,Totals,IPC/BNS,28622.0,24744.0,53366,54539,46.6
+Uttarakhand,Total_IPC_BNS_CAW,Totals,IPC/BNS,1110.0,647.0,1757,1838,30.6
+West Bengal,Total_IPC_BNS_CAW,Totals,IPC/BNS,15259.0,16293.0,31552,32102,64.5
+A&N Islands,Total_IPC_BNS_CAW,Totals,IPC/BNS,37.0,24.0,61,66,32.1
+Chandigarh,Total_IPC_BNS_CAW,Totals,IPC/BNS,332.0,112.0,444,444,76.6
+D&N Haveli and Daman & Diu,Total_IPC_BNS_CAW,Totals,IPC/BNS,36.0,21.0,57,57,12.4
+Delhi,Total_IPC_BNS_CAW,Totals,IPC/BNS,8505.0,3290.0,11795,11973,115.1
+Jammu & Kashmir,Total_IPC_BNS_CAW,Totals,IPC/BNS,1726.0,1295.0,3021,3044,46.1
+Ladakh,Total_IPC_BNS_CAW,Totals,IPC/BNS,10.0,17.0,27,27,20.8
+Lakshadweep,Total_IPC_BNS_CAW,Totals,IPC/BNS,7.0,1.0,8,8,26.7
+Puducherry,Total_IPC_BNS_CAW,Totals,IPC/BNS,62.0,55.0,117,117,13.1
+Andhra Pradesh,DowryProhibitionAct,Domestic / dowry related,SLL,,,14,14,0.1
+Arunachal Pradesh,DowryProhibitionAct,Domestic / dowry related,SLL,,,0,0,0.0
+Assam,DowryProhibitionAct,Domestic / dowry related,SLL,,,120,120,0.7
+Bihar,DowryProhibitionAct,Domestic / dowry related,SLL,,,3780,3780,6.1
+Chhattisgarh,DowryProhibitionAct,Domestic / dowry related,SLL,,,1,1,0.0
+Goa,DowryProhibitionAct,Domestic / dowry related,SLL,,,0,0,0.0
+Gujarat,DowryProhibitionAct,Domestic / dowry related,SLL,,,1,1,0.0
+Haryana,DowryProhibitionAct,Domestic / dowry related,SLL,,,7,7,0.0
+Himachal Pradesh,DowryProhibitionAct,Domestic / dowry related,SLL,,,0,0,0.0
+Jharkhand,DowryProhibitionAct,Domestic / dowry related,SLL,,,1101,1103,5.6
+Karnataka,DowryProhibitionAct,Domestic / dowry related,SLL,,,1991,2024,5.9
+Kerala,DowryProhibitionAct,Domestic / dowry related,SLL,,,17,17,0.1
+Madhya Pradesh,DowryProhibitionAct,Domestic / dowry related,SLL,,,23,23,0.1
+Maharashtra,DowryProhibitionAct,Domestic / dowry related,SLL,,,12,12,0.0
+Manipur,DowryProhibitionAct,Domestic / dowry related,SLL,,,0,0,0.0
+Meghalaya,DowryProhibitionAct,Domestic / dowry related,SLL,,,3,3,0.2
+Mizoram,DowryProhibitionAct,Domestic / dowry related,SLL,,,0,0,0.0
+Nagaland,DowryProhibitionAct,Domestic / dowry related,SLL,,,0,0,0.0
+Odisha,DowryProhibitionAct,Domestic / dowry related,SLL,,,2,2,0.0
+Punjab,DowryProhibitionAct,Domestic / dowry related,SLL,,,7,7,0.0
+Rajasthan,DowryProhibitionAct,Domestic / dowry related,SLL,,,68,68,0.2
+Sikkim,DowryProhibitionAct,Domestic / dowry related,SLL,,,0,0,0.0
+Tamil Nadu,DowryProhibitionAct,Domestic / dowry related,SLL,,,106,110,0.3
+Telangana,DowryProhibitionAct,Domestic / dowry related,SLL,,,6,6,0.0
+Tripura,DowryProhibitionAct,Domestic / dowry related,SLL,,,0,0,0.0
+Uttar Pradesh,DowryProhibitionAct,Domestic / dowry related,SLL,,,4482,4533,3.9
+Uttarakhand,DowryProhibitionAct,Domestic / dowry related,SLL,,,564,564,9.8
+West Bengal,DowryProhibitionAct,Domestic / dowry related,SLL,,,0,0,0.0
+A&N Islands,DowryProhibitionAct,Domestic / dowry related,SLL,,,0,0,0.0
+Chandigarh,DowryProhibitionAct,Domestic / dowry related,SLL,,,0,0,0.0
+D&N Haveli and Daman & Diu,DowryProhibitionAct,Domestic / dowry related,SLL,,,0,0,0.0
+Delhi,DowryProhibitionAct,Domestic / dowry related,SLL,,,16,16,0.2
+Jammu & Kashmir,DowryProhibitionAct,Domestic / dowry related,SLL,,,9,9,0.1
+Ladakh,DowryProhibitionAct,Domestic / dowry related,SLL,,,0,0,0.0
+Lakshadweep,DowryProhibitionAct,Domestic / dowry related,SLL,,,0,0,0.0
+Puducherry,DowryProhibitionAct,Domestic / dowry related,SLL,,,13,13,1.5
+Andhra Pradesh,ITPA_Total,Trafficking & prostitution related,SLL,,,79,109,0.3
+Arunachal Pradesh,ITPA_Total,Trafficking & prostitution related,SLL,,,0,0,0.0
+Assam,ITPA_Total,Trafficking & prostitution related,SLL,,,18,18,0.1
+Bihar,ITPA_Total,Trafficking & prostitution related,SLL,,,42,127,0.1
+Chhattisgarh,ITPA_Total,Trafficking & prostitution related,SLL,,,3,3,0.0
+Goa,ITPA_Total,Trafficking & prostitution related,SLL,,,2,3,0.3
+Gujarat,ITPA_Total,Trafficking & prostitution related,SLL,,,36,64,0.1
+Haryana,ITPA_Total,Trafficking & prostitution related,SLL,,,22,27,0.2
+Himachal Pradesh,ITPA_Total,Trafficking & prostitution related,SLL,,,5,18,0.1
+Jharkhand,ITPA_Total,Trafficking & prostitution related,SLL,,,2,2,0.0
+Karnataka,ITPA_Total,Trafficking & prostitution related,SLL,,,252,479,0.7
+Kerala,ITPA_Total,Trafficking & prostitution related,SLL,,,5,6,0.0
+Madhya Pradesh,ITPA_Total,Trafficking & prostitution related,SLL,,,7,13,0.0
+Maharashtra,ITPA_Total,Trafficking & prostitution related,SLL,,,189,334,0.3
+Manipur,ITPA_Total,Trafficking & prostitution related,SLL,,,0,0,0.0
+Meghalaya,ITPA_Total,Trafficking & prostitution related,SLL,,,0,0,0.0
+Mizoram,ITPA_Total,Trafficking & prostitution related,SLL,,,0,0,0.0
+Nagaland,ITPA_Total,Trafficking & prostitution related,SLL,,,0,0,0.0
+Odisha,ITPA_Total,Trafficking & prostitution related,SLL,,,23,23,0.1
+Punjab,ITPA_Total,Trafficking & prostitution related,SLL,,,5,6,0.0
+Rajasthan,ITPA_Total,Trafficking & prostitution related,SLL,,,18,18,0.0
+Sikkim,ITPA_Total,Trafficking & prostitution related,SLL,,,0,0,0.0
+Tamil Nadu,ITPA_Total,Trafficking & prostitution related,SLL,,,597,857,1.5
+Telangana,ITPA_Total,Trafficking & prostitution related,SLL,,,61,76,0.3
+Tripura,ITPA_Total,Trafficking & prostitution related,SLL,,,0,0,0.0
+Uttar Pradesh,ITPA_Total,Trafficking & prostitution related,SLL,,,7,9,0.0
+Uttarakhand,ITPA_Total,Trafficking & prostitution related,SLL,,,4,4,0.1
+West Bengal,ITPA_Total,Trafficking & prostitution related,SLL,,,35,72,0.1
+A&N Islands,ITPA_Total,Trafficking & prostitution related,SLL,,,0,0,0.0
+Chandigarh,ITPA_Total,Trafficking & prostitution related,SLL,,,2,4,0.3
+D&N Haveli and Daman & Diu,ITPA_Total,Trafficking & prostitution related,SLL,,,0,0,0.0
+Delhi,ITPA_Total,Trafficking & prostitution related,SLL,,,17,24,0.2
+Jammu & Kashmir,ITPA_Total,Trafficking & prostitution related,SLL,,,2,2,0.0
+Ladakh,ITPA_Total,Trafficking & prostitution related,SLL,,,0,0,0.0
+Lakshadweep,ITPA_Total,Trafficking & prostitution related,SLL,,,0,0,0.0
+Puducherry,ITPA_Total,Trafficking & prostitution related,SLL,,,3,3,0.3
+Andhra Pradesh,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,44,57,0.2
+Arunachal Pradesh,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Assam,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Bihar,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,19,96,0.0
+Chhattisgarh,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Goa,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Gujarat,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,2,7,0.0
+Haryana,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,8,8,0.1
+Himachal Pradesh,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Jharkhand,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,1,1,0.0
+Karnataka,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,110,238,0.3
+Kerala,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,1,1,0.0
+Madhya Pradesh,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,2,2,0.0
+Maharashtra,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,21,49,0.0
+Manipur,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Meghalaya,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Mizoram,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Nagaland,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Odisha,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Punjab,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,2,2,0.0
+Rajasthan,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,10,10,0.0
+Sikkim,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Tamil Nadu,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,221,361,0.6
+Telangana,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,12,22,0.1
+Tripura,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Uttar Pradesh,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,1,3,0.0
+Uttarakhand,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+West Bengal,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+A&N Islands,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Chandigarh,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+D&N Haveli and Daman & Diu,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Delhi,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Jammu & Kashmir,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Ladakh,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Lakshadweep,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Puducherry,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Andhra Pradesh,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Arunachal Pradesh,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Assam,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,3,3,0.0
+Bihar,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,14,22,0.0
+Chhattisgarh,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Goa,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Gujarat,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,5,17,0.0
+Haryana,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Himachal Pradesh,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Jharkhand,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Karnataka,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,50,73,0.1
+Kerala,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,2,3,0.0
+Madhya Pradesh,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Maharashtra,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,23,25,0.0
+Manipur,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Meghalaya,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Mizoram,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Nagaland,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Odisha,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Punjab,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Rajasthan,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,1,1,0.0
+Sikkim,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Tamil Nadu,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,63,75,0.2
+Telangana,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Tripura,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Uttar Pradesh,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Uttarakhand,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,1,1,0.0
+West Bengal,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+A&N Islands,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Chandigarh,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+D&N Haveli and Daman & Diu,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Delhi,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Jammu & Kashmir,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Ladakh,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Lakshadweep,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Puducherry,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Andhra Pradesh,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,1,1,0.0
+Arunachal Pradesh,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Assam,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Bihar,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,2,2,0.0
+Chhattisgarh,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,2,2,0.0
+Goa,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,2,3,0.3
+Gujarat,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,19,28,0.1
+Haryana,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,5,10,0.0
+Himachal Pradesh,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Jharkhand,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Karnataka,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,48,98,0.1
+Kerala,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Madhya Pradesh,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,4,10,0.0
+Maharashtra,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,41,125,0.1
+Manipur,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Meghalaya,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Mizoram,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Nagaland,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Odisha,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Punjab,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,1,2,0.0
+Rajasthan,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,3,3,0.0
+Sikkim,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Tamil Nadu,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,48,71,0.1
+Telangana,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Tripura,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Uttar Pradesh,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,2,2,0.0
+Uttarakhand,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,3,3,0.1
+West Bengal,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+A&N Islands,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Chandigarh,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,2,4,0.3
+D&N Haveli and Daman & Diu,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Delhi,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,1,5,0.0
+Jammu & Kashmir,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Ladakh,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Lakshadweep,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Puducherry,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Andhra Pradesh,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Arunachal Pradesh,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Assam,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Bihar,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,3,3,0.0
+Chhattisgarh,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Goa,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Gujarat,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,3,3,0.0
+Haryana,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Himachal Pradesh,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Jharkhand,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,1,1,0.0
+Karnataka,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Kerala,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Madhya Pradesh,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Maharashtra,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,80,82,0.1
+Manipur,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Meghalaya,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Mizoram,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Nagaland,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Odisha,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,1,1,0.0
+Punjab,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Rajasthan,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Sikkim,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Tamil Nadu,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,37,50,0.1
+Telangana,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Tripura,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Uttar Pradesh,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Uttarakhand,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+West Bengal,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+A&N Islands,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Chandigarh,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+D&N Haveli and Daman & Diu,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Delhi,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Jammu & Kashmir,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,2,2,0.0
+Ladakh,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Lakshadweep,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Puducherry,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Andhra Pradesh,ITPA_Other,Trafficking & prostitution related,SLL,,,34,51,0.1
+Arunachal Pradesh,ITPA_Other,Trafficking & prostitution related,SLL,,,0,0,0.0
+Assam,ITPA_Other,Trafficking & prostitution related,SLL,,,15,15,0.1
+Bihar,ITPA_Other,Trafficking & prostitution related,SLL,,,4,4,0.0
+Chhattisgarh,ITPA_Other,Trafficking & prostitution related,SLL,,,1,1,0.0
+Goa,ITPA_Other,Trafficking & prostitution related,SLL,,,0,0,0.0
+Gujarat,ITPA_Other,Trafficking & prostitution related,SLL,,,7,9,0.0
+Haryana,ITPA_Other,Trafficking & prostitution related,SLL,,,9,9,0.1
+Himachal Pradesh,ITPA_Other,Trafficking & prostitution related,SLL,,,5,18,0.1
+Jharkhand,ITPA_Other,Trafficking & prostitution related,SLL,,,0,0,0.0
+Karnataka,ITPA_Other,Trafficking & prostitution related,SLL,,,44,70,0.1
+Kerala,ITPA_Other,Trafficking & prostitution related,SLL,,,2,2,0.0
+Madhya Pradesh,ITPA_Other,Trafficking & prostitution related,SLL,,,1,1,0.0
+Maharashtra,ITPA_Other,Trafficking & prostitution related,SLL,,,24,53,0.0
+Manipur,ITPA_Other,Trafficking & prostitution related,SLL,,,0,0,0.0
+Meghalaya,ITPA_Other,Trafficking & prostitution related,SLL,,,0,0,0.0
+Mizoram,ITPA_Other,Trafficking & prostitution related,SLL,,,0,0,0.0
+Nagaland,ITPA_Other,Trafficking & prostitution related,SLL,,,0,0,0.0
+Odisha,ITPA_Other,Trafficking & prostitution related,SLL,,,22,22,0.1
+Punjab,ITPA_Other,Trafficking & prostitution related,SLL,,,2,2,0.0
+Rajasthan,ITPA_Other,Trafficking & prostitution related,SLL,,,4,4,0.0
+Sikkim,ITPA_Other,Trafficking & prostitution related,SLL,,,0,0,0.0
+Tamil Nadu,ITPA_Other,Trafficking & prostitution related,SLL,,,228,300,0.6
+Telangana,ITPA_Other,Trafficking & prostitution related,SLL,,,49,54,0.3
+Tripura,ITPA_Other,Trafficking & prostitution related,SLL,,,0,0,0.0
+Uttar Pradesh,ITPA_Other,Trafficking & prostitution related,SLL,,,4,4,0.0
+Uttarakhand,ITPA_Other,Trafficking & prostitution related,SLL,,,0,0,0.0
+West Bengal,ITPA_Other,Trafficking & prostitution related,SLL,,,35,72,0.1
+A&N Islands,ITPA_Other,Trafficking & prostitution related,SLL,,,0,0,0.0
+Chandigarh,ITPA_Other,Trafficking & prostitution related,SLL,,,0,0,0.0
+D&N Haveli and Daman & Diu,ITPA_Other,Trafficking & prostitution related,SLL,,,0,0,0.0
+Delhi,ITPA_Other,Trafficking & prostitution related,SLL,,,16,19,0.2
+Jammu & Kashmir,ITPA_Other,Trafficking & prostitution related,SLL,,,0,0,0.0
+Ladakh,ITPA_Other,Trafficking & prostitution related,SLL,,,0,0,0.0
+Lakshadweep,ITPA_Other,Trafficking & prostitution related,SLL,,,0,0,0.0
+Puducherry,ITPA_Other,Trafficking & prostitution related,SLL,,,3,3,0.3
+Andhra Pradesh,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Arunachal Pradesh,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Assam,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Bihar,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Chhattisgarh,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Goa,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Gujarat,DomesticViolenceAct,Domestic / dowry related,SLL,,,1,1,0.0
+Haryana,DomesticViolenceAct,Domestic / dowry related,SLL,,,1,1,0.0
+Himachal Pradesh,DomesticViolenceAct,Domestic / dowry related,SLL,,,1,1,0.0
+Jharkhand,DomesticViolenceAct,Domestic / dowry related,SLL,,,86,86,0.4
+Karnataka,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Kerala,DomesticViolenceAct,Domestic / dowry related,SLL,,,496,505,2.7
+Madhya Pradesh,DomesticViolenceAct,Domestic / dowry related,SLL,,,12,12,0.0
+Maharashtra,DomesticViolenceAct,Domestic / dowry related,SLL,,,7,7,0.0
+Manipur,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Meghalaya,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Mizoram,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Nagaland,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Odisha,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Punjab,DomesticViolenceAct,Domestic / dowry related,SLL,,,1,1,0.0
+Rajasthan,DomesticViolenceAct,Domestic / dowry related,SLL,,,3,3,0.0
+Sikkim,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Tamil Nadu,DomesticViolenceAct,Domestic / dowry related,SLL,,,5,5,0.0
+Telangana,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Tripura,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Uttar Pradesh,DomesticViolenceAct,Domestic / dowry related,SLL,,,1,1,0.0
+Uttarakhand,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+West Bengal,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+A&N Islands,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Chandigarh,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+D&N Haveli and Daman & Diu,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Delhi,DomesticViolenceAct,Domestic / dowry related,SLL,,,1,1,0.0
+Jammu & Kashmir,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Ladakh,DomesticViolenceAct,Domestic / dowry related,SLL,,,1,1,0.8
+Lakshadweep,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Puducherry,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Andhra Pradesh,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,43,43,0.2
+Arunachal Pradesh,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,5,5,0.6
+Assam,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,81,87,0.5
+Bihar,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,122,122,0.2
+Chhattisgarh,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,292,292,1.9
+Goa,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,6,6,0.8
+Gujarat,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,74,69,0.2
+Haryana,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,99,99,0.7
+Himachal Pradesh,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,16,16,0.4
+Jharkhand,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,11,11,0.1
+Karnataka,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,135,137,0.4
+Kerala,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,101,107,0.5
+Madhya Pradesh,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,118,118,0.3
+Maharashtra,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,89,94,0.1
+Manipur,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,5,5,0.3
+Meghalaya,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,19,19,1.1
+Mizoram,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,18,18,2.9
+Nagaland,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,2,2,0.2
+Odisha,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,719,723,3.1
+Punjab,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,34,34,0.2
+Rajasthan,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,147,148,0.4
+Sikkim,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,3,3,0.9
+Tamil Nadu,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,96,96,0.2
+Telangana,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,251,255,1.3
+Tripura,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,7,7,0.3
+Uttar Pradesh,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,572,593,0.5
+Uttarakhand,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,83,89,1.4
+West Bengal,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,10,10,0.0
+A&N Islands,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,7,7,3.7
+Chandigarh,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,4,4,0.7
+D&N Haveli and Daman & Diu,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,1,1,0.2
+Delhi,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,78,78,0.8
+Jammu & Kashmir,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,34,36,0.5
+Ladakh,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Lakshadweep,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Puducherry,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,6,6,0.7
+Andhra Pradesh,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,29,29,0.1
+Arunachal Pradesh,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,5,5,0.6
+Assam,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,81,87,0.5
+Bihar,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,12,12,0.0
+Chhattisgarh,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,290,290,1.9
+Goa,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,6,6,0.8
+Gujarat,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,61,56,0.2
+Haryana,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,92,92,0.6
+Himachal Pradesh,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,16,16,0.4
+Jharkhand,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,11,11,0.1
+Karnataka,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,133,135,0.4
+Kerala,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,94,100,0.5
+Madhya Pradesh,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,97,97,0.2
+Maharashtra,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,55,59,0.1
+Manipur,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,5,5,0.3
+Meghalaya,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,19,19,1.1
+Mizoram,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,18,18,2.9
+Nagaland,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,2,2,0.2
+Odisha,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,452,452,1.9
+Punjab,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,25,25,0.2
+Rajasthan,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,138,139,0.3
+Sikkim,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,3,3,0.9
+Tamil Nadu,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,65,65,0.2
+Telangana,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,20,21,0.1
+Tripura,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,7,7,0.3
+Uttar Pradesh,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,562,583,0.5
+Uttarakhand,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,82,88,1.4
+West Bengal,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,7,7,0.0
+A&N Islands,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,7,7,3.7
+Chandigarh,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,2,2,0.3
+D&N Haveli and Daman & Diu,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,1,1,0.2
+Delhi,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,75,75,0.7
+Jammu & Kashmir,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,33,35,0.5
+Ladakh,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Lakshadweep,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Puducherry,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,6,6,0.7
+Andhra Pradesh,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,14,14,0.1
+Arunachal Pradesh,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Assam,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Bihar,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,110,110,0.2
+Chhattisgarh,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,2,2,0.0
+Goa,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Gujarat,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,13,13,0.0
+Haryana,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,7,7,0.0
+Himachal Pradesh,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Jharkhand,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Karnataka,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,2,2,0.0
+Kerala,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,7,7,0.0
+Madhya Pradesh,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,21,21,0.0
+Maharashtra,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,34,35,0.1
+Manipur,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Meghalaya,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Mizoram,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Nagaland,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Odisha,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,267,271,1.2
+Punjab,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,9,9,0.1
+Rajasthan,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,9,9,0.0
+Sikkim,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Tamil Nadu,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,31,31,0.1
+Telangana,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,231,234,1.2
+Tripura,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Uttar Pradesh,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,10,10,0.0
+Uttarakhand,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,1,1,0.0
+West Bengal,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,3,3,0.0
+A&N Islands,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Chandigarh,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,2,2,0.3
+D&N Haveli and Daman & Diu,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Delhi,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,3,3,0.0
+Jammu & Kashmir,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,1,1,0.0
+Ladakh,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Lakshadweep,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Puducherry,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Andhra Pradesh,POCSO_Total,POCSO (girl child victims),SLL,,,1778,1788,6.7
+Arunachal Pradesh,POCSO_Total,POCSO (girl child victims),SLL,,,30,48,3.9
+Assam,POCSO_Total,POCSO (girl child victims),SLL,,,2907,2945,16.4
+Bihar,POCSO_Total,POCSO (girl child victims),SLL,,,2464,2566,4.0
+Chhattisgarh,POCSO_Total,POCSO (girl child victims),SLL,,,2205,2232,14.4
+Goa,POCSO_Total,POCSO (girl child victims),SLL,,,0,0,0.0
+Gujarat,POCSO_Total,POCSO (girl child victims),SLL,,,2673,2676,7.7
+Haryana,POCSO_Total,POCSO (girl child victims),SLL,,,2026,2048,14.0
+Himachal Pradesh,POCSO_Total,POCSO (girl child victims),SLL,,,15,15,0.4
+Jharkhand,POCSO_Total,POCSO (girl child victims),SLL,,,824,824,4.2
+Karnataka,POCSO_Total,POCSO (girl child victims),SLL,,,4098,4140,12.2
+Kerala,POCSO_Total,POCSO (girl child victims),SLL,,,3951,3969,21.1
+Madhya Pradesh,POCSO_Total,POCSO (girl child victims),SLL,,,5825,5842,13.7
+Maharashtra,POCSO_Total,POCSO (girl child victims),SLL,,,9245,9416,15.1
+Manipur,POCSO_Total,POCSO (girl child victims),SLL,,,63,70,3.9
+Meghalaya,POCSO_Total,POCSO (girl child victims),SLL,,,420,425,24.9
+Mizoram,POCSO_Total,POCSO (girl child victims),SLL,,,148,159,23.9
+Nagaland,POCSO_Total,POCSO (girl child victims),SLL,,,16,17,1.5
+Odisha,POCSO_Total,POCSO (girl child victims),SLL,,,2483,2483,10.7
+Punjab,POCSO_Total,POCSO (girl child victims),SLL,,,645,663,4.4
+Rajasthan,POCSO_Total,POCSO (girl child victims),SLL,,,2272,2327,5.7
+Sikkim,POCSO_Total,POCSO (girl child victims),SLL,,,76,101,23.0
+Tamil Nadu,POCSO_Total,POCSO (girl child victims),SLL,,,6874,7019,17.8
+Telangana,POCSO_Total,POCSO (girl child victims),SLL,,,2893,2934,15.2
+Tripura,POCSO_Total,POCSO (girl child victims),SLL,,,164,167,8.0
+Uttar Pradesh,POCSO_Total,POCSO (girl child victims),SLL,,,7969,7992,7.0
+Uttarakhand,POCSO_Total,POCSO (girl child victims),SLL,,,933,936,16.2
+West Bengal,POCSO_Total,POCSO (girl child victims),SLL,,,2761,2785,5.6
+A&N Islands,POCSO_Total,POCSO (girl child victims),SLL,,,88,88,46.3
+Chandigarh,POCSO_Total,POCSO (girl child victims),SLL,,,2,2,0.3
+D&N Haveli and Daman & Diu,POCSO_Total,POCSO (girl child victims),SLL,,,28,28,6.1
+Delhi,POCSO_Total,POCSO (girl child victims),SLL,,,1489,1492,14.5
+Jammu & Kashmir,POCSO_Total,POCSO (girl child victims),SLL,,,300,300,4.6
+Ladakh,POCSO_Total,POCSO (girl child victims),SLL,,,6,6,4.6
+Lakshadweep,POCSO_Total,POCSO (girl child victims),SLL,,,5,5,16.7
+Puducherry,POCSO_Total,POCSO (girl child victims),SLL,,,133,133,14.9
+Andhra Pradesh,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,939,942,3.5
+Arunachal Pradesh,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,23,41,3.0
+Assam,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,2187,2216,12.3
+Bihar,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,1028,1062,1.7
+Chhattisgarh,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,1764,1784,11.6
+Goa,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,0,0,0.0
+Gujarat,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,2436,2439,7.1
+Haryana,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,1476,1487,10.2
+Himachal Pradesh,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,11,11,0.3
+Jharkhand,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,562,562,2.9
+Karnataka,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,3269,3276,9.7
+Kerala,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,1839,1841,9.8
+Madhya Pradesh,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,3698,3707,8.7
+Maharashtra,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,4722,4812,7.7
+Manipur,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,50,54,3.1
+Meghalaya,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,345,350,20.4
+Mizoram,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,100,103,16.1
+Nagaland,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,11,11,1.0
+Odisha,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,1786,1786,7.7
+Punjab,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,542,559,3.7
+Rajasthan,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,1612,1632,4.0
+Sikkim,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,54,60,16.4
+Tamil Nadu,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,5256,5285,13.6
+Telangana,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,2076,2101,10.9
+Tripura,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,115,117,5.6
+Uttar Pradesh,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,3570,3571,3.1
+Uttarakhand,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,614,616,10.7
+West Bengal,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,1830,1851,3.7
+A&N Islands,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,75,75,39.5
+Chandigarh,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,0,0,0.0
+D&N Haveli and Daman & Diu,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,22,22,4.8
+Delhi,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,992,993,9.7
+Jammu & Kashmir,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,222,222,3.4
+Ladakh,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,4,4,3.1
+Lakshadweep,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,1,1,3.3
+Puducherry,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,82,82,9.2
+Andhra Pradesh,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,395,397,1.5
+Arunachal Pradesh,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,6,6,0.8
+Assam,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,506,508,2.8
+Bihar,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,1064,1131,1.7
+Chhattisgarh,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,404,411,2.6
+Goa,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,0,0,0.0
+Gujarat,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,202,202,0.6
+Haryana,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,450,455,3.1
+Himachal Pradesh,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,2,2,0.1
+Jharkhand,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,222,222,1.1
+Karnataka,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,556,571,1.7
+Kerala,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,1636,1644,8.8
+Madhya Pradesh,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,1936,1943,4.5
+Maharashtra,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,3757,3826,6.1
+Manipur,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,13,16,0.8
+Meghalaya,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,57,57,3.4
+Mizoram,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,46,52,7.4
+Nagaland,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,3,3,0.3
+Odisha,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,697,697,3.0
+Punjab,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,97,98,0.7
+Rajasthan,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,548,579,1.4
+Sikkim,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,17,32,5.2
+Tamil Nadu,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,1212,1300,3.1
+Telangana,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,744,755,3.9
+Tripura,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,37,38,1.8
+Uttar Pradesh,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,4277,4295,3.7
+Uttarakhand,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,307,307,5.3
+West Bengal,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,657,660,1.3
+A&N Islands,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,11,11,5.8
+Chandigarh,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,2,2,0.3
+D&N Haveli and Daman & Diu,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,3,3,0.7
+Delhi,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,478,480,4.7
+Jammu & Kashmir,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,64,64,1.0
+Ladakh,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,2,2,1.5
+Lakshadweep,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,3,3,10.0
+Puducherry,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,24,24,2.7
+Andhra Pradesh,POCSO_Sec12,POCSO (girl child victims),SLL,,,420,425,1.6
+Arunachal Pradesh,POCSO_Sec12,POCSO (girl child victims),SLL,,,1,1,0.1
+Assam,POCSO_Sec12,POCSO (girl child victims),SLL,,,177,184,1.0
+Bihar,POCSO_Sec12,POCSO (girl child victims),SLL,,,190,190,0.3
+Chhattisgarh,POCSO_Sec12,POCSO (girl child victims),SLL,,,34,34,0.2
+Goa,POCSO_Sec12,POCSO (girl child victims),SLL,,,0,0,0.0
+Gujarat,POCSO_Sec12,POCSO (girl child victims),SLL,,,31,31,0.1
+Haryana,POCSO_Sec12,POCSO (girl child victims),SLL,,,90,96,0.6
+Himachal Pradesh,POCSO_Sec12,POCSO (girl child victims),SLL,,,2,2,0.1
+Jharkhand,POCSO_Sec12,POCSO (girl child victims),SLL,,,26,26,0.1
+Karnataka,POCSO_Sec12,POCSO (girl child victims),SLL,,,255,271,0.8
+Kerala,POCSO_Sec12,POCSO (girl child victims),SLL,,,433,439,2.3
+Madhya Pradesh,POCSO_Sec12,POCSO (girl child victims),SLL,,,133,133,0.3
+Maharashtra,POCSO_Sec12,POCSO (girl child victims),SLL,,,741,746,1.2
+Manipur,POCSO_Sec12,POCSO (girl child victims),SLL,,,0,0,0.0
+Meghalaya,POCSO_Sec12,POCSO (girl child victims),SLL,,,4,4,0.2
+Mizoram,POCSO_Sec12,POCSO (girl child victims),SLL,,,2,4,0.3
+Nagaland,POCSO_Sec12,POCSO (girl child victims),SLL,,,2,3,0.2
+Odisha,POCSO_Sec12,POCSO (girl child victims),SLL,,,0,0,0.0
+Punjab,POCSO_Sec12,POCSO (girl child victims),SLL,,,2,2,0.0
+Rajasthan,POCSO_Sec12,POCSO (girl child victims),SLL,,,21,22,0.1
+Sikkim,POCSO_Sec12,POCSO (girl child victims),SLL,,,5,9,1.5
+Tamil Nadu,POCSO_Sec12,POCSO (girl child victims),SLL,,,364,392,0.9
+Telangana,POCSO_Sec12,POCSO (girl child victims),SLL,,,65,70,0.3
+Tripura,POCSO_Sec12,POCSO (girl child victims),SLL,,,12,12,0.6
+Uttar Pradesh,POCSO_Sec12,POCSO (girl child victims),SLL,,,88,92,0.1
+Uttarakhand,POCSO_Sec12,POCSO (girl child victims),SLL,,,6,6,0.1
+West Bengal,POCSO_Sec12,POCSO (girl child victims),SLL,,,250,250,0.5
+A&N Islands,POCSO_Sec12,POCSO (girl child victims),SLL,,,2,2,1.1
+Chandigarh,POCSO_Sec12,POCSO (girl child victims),SLL,,,0,0,0.0
+D&N Haveli and Daman & Diu,POCSO_Sec12,POCSO (girl child victims),SLL,,,2,2,0.4
+Delhi,POCSO_Sec12,POCSO (girl child victims),SLL,,,18,18,0.2
+Jammu & Kashmir,POCSO_Sec12,POCSO (girl child victims),SLL,,,7,7,0.1
+Ladakh,POCSO_Sec12,POCSO (girl child victims),SLL,,,0,0,0.0
+Lakshadweep,POCSO_Sec12,POCSO (girl child victims),SLL,,,0,0,0.0
+Puducherry,POCSO_Sec12,POCSO (girl child victims),SLL,,,27,27,3.0
+Andhra Pradesh,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,17,17,0.1
+Arunachal Pradesh,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,0,0,0.0
+Assam,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,18,18,0.1
+Bihar,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,178,179,0.3
+Chhattisgarh,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,0,0,0.0
+Goa,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,0,0,0.0
+Gujarat,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,2,2,0.0
+Haryana,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,5,5,0.0
+Himachal Pradesh,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,0,0,0.0
+Jharkhand,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,13,13,0.1
+Karnataka,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,11,11,0.0
+Kerala,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,31,32,0.2
+Madhya Pradesh,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,29,29,0.1
+Maharashtra,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,15,22,0.0
+Manipur,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,0,0,0.0
+Meghalaya,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,12,12,0.7
+Mizoram,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,0,0,0.0
+Nagaland,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,0,0,0.0
+Odisha,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,0,0,0.0
+Punjab,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,3,3,0.0
+Rajasthan,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,60,63,0.1
+Sikkim,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,0,0,0.0
+Tamil Nadu,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,20,20,0.1
+Telangana,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,6,6,0.0
+Tripura,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,0,0,0.0
+Uttar Pradesh,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,7,7,0.0
+Uttarakhand,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,3,3,0.1
+West Bengal,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,14,14,0.0
+A&N Islands,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,0,0,0.0
+Chandigarh,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,0,0,0.0
+D&N Haveli and Daman & Diu,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,1,1,0.2
+Delhi,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,1,1,0.0
+Jammu & Kashmir,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,5,5,0.1
+Ladakh,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,0,0,0.0
+Lakshadweep,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,1,1,3.3
+Puducherry,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,0,0,0.0
+Andhra Pradesh,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,7,7,0.0
+Arunachal Pradesh,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,0,0,0.0
+Assam,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,19,19,0.1
+Bihar,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,4,4,0.0
+Chhattisgarh,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,3,3,0.0
+Goa,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,0,0,0.0
+Gujarat,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,2,2,0.0
+Haryana,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,5,5,0.0
+Himachal Pradesh,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,0,0,0.0
+Jharkhand,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,1,1,0.0
+Karnataka,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,7,11,0.0
+Kerala,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,12,13,0.1
+Madhya Pradesh,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,29,30,0.1
+Maharashtra,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,10,10,0.0
+Manipur,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,0,0,0.0
+Meghalaya,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,2,2,0.1
+Mizoram,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,0,0,0.0
+Nagaland,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,0,0,0.0
+Odisha,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,0,0,0.0
+Punjab,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,1,1,0.0
+Rajasthan,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,31,31,0.1
+Sikkim,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,0,0,0.0
+Tamil Nadu,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,22,22,0.1
+Telangana,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,2,2,0.0
+Tripura,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,0,0,0.0
+Uttar Pradesh,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,27,27,0.0
+Uttarakhand,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,3,4,0.1
+West Bengal,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,10,10,0.0
+A&N Islands,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,0,0,0.0
+Chandigarh,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,0,0,0.0
+D&N Haveli and Daman & Diu,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,0,0,0.0
+Delhi,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,0,0,0.0
+Jammu & Kashmir,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,2,2,0.0
+Ladakh,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,0,0,0.0
+Lakshadweep,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,0,0,0.0
+Puducherry,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,0,0,0.0
+Andhra Pradesh,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Arunachal Pradesh,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,1,1,0.1
+Assam,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Bihar,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Chhattisgarh,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Goa,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Gujarat,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,1,1,0.0
+Haryana,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,1,1,0.0
+Himachal Pradesh,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,1,1,0.0
+Jharkhand,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Karnataka,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Kerala,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,1,1,0.0
+Madhya Pradesh,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Maharashtra,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Manipur,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Meghalaya,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Mizoram,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Nagaland,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Odisha,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,9,9,0.0
+Punjab,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Rajasthan,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Sikkim,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Tamil Nadu,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,3,3,0.0
+Telangana,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Tripura,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Uttar Pradesh,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,1,1,0.0
+Uttarakhand,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,1,1,0.0
+West Bengal,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,2,2,0.0
+A&N Islands,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Chandigarh,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+D&N Haveli and Daman & Diu,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Delhi,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Jammu & Kashmir,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Ladakh,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Lakshadweep,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Puducherry,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Andhra Pradesh,Total_SLL_CAW,Totals,SLL,,,1914,1954,7.2
+Arunachal Pradesh,Total_SLL_CAW,Totals,SLL,,,36,54,4.7
+Assam,Total_SLL_CAW,Totals,SLL,,,3126,3170,17.6
+Bihar,Total_SLL_CAW,Totals,SLL,,,6408,6595,10.3
+Chhattisgarh,Total_SLL_CAW,Totals,SLL,,,2501,2528,16.4
+Goa,Total_SLL_CAW,Totals,SLL,,,8,9,1.0
+Gujarat,Total_SLL_CAW,Totals,SLL,,,2786,2812,8.1
+Haryana,Total_SLL_CAW,Totals,SLL,,,2156,2183,14.9
+Himachal Pradesh,Total_SLL_CAW,Totals,SLL,,,38,51,1.0
+Jharkhand,Total_SLL_CAW,Totals,SLL,,,2024,2026,10.3
+Karnataka,Total_SLL_CAW,Totals,SLL,,,6476,6780,19.3
+Kerala,Total_SLL_CAW,Totals,SLL,,,4571,4605,24.5
+Madhya Pradesh,Total_SLL_CAW,Totals,SLL,,,5985,6008,14.0
+Maharashtra,Total_SLL_CAW,Totals,SLL,,,9542,9863,15.6
+Manipur,Total_SLL_CAW,Totals,SLL,,,68,75,4.2
+Meghalaya,Total_SLL_CAW,Totals,SLL,,,442,447,26.2
+Mizoram,Total_SLL_CAW,Totals,SLL,,,166,177,26.8
+Nagaland,Total_SLL_CAW,Totals,SLL,,,18,19,1.7
+Odisha,Total_SLL_CAW,Totals,SLL,,,3236,3240,13.9
+Punjab,Total_SLL_CAW,Totals,SLL,,,692,711,4.7
+Rajasthan,Total_SLL_CAW,Totals,SLL,,,2508,2564,6.3
+Sikkim,Total_SLL_CAW,Totals,SLL,,,79,104,23.9
+Tamil Nadu,Total_SLL_CAW,Totals,SLL,,,7681,8090,19.9
+Telangana,Total_SLL_CAW,Totals,SLL,,,3211,3271,16.9
+Tripura,Total_SLL_CAW,Totals,SLL,,,171,174,8.3
+Uttar Pradesh,Total_SLL_CAW,Totals,SLL,,,13032,13129,11.4
+Uttarakhand,Total_SLL_CAW,Totals,SLL,,,1585,1594,27.6
+West Bengal,Total_SLL_CAW,Totals,SLL,,,2808,2869,5.7
+A&N Islands,Total_SLL_CAW,Totals,SLL,,,95,95,50.0
+Chandigarh,Total_SLL_CAW,Totals,SLL,,,8,10,1.4
+D&N Haveli and Daman & Diu,Total_SLL_CAW,Totals,SLL,,,29,29,6.3
+Delhi,Total_SLL_CAW,Totals,SLL,,,1601,1611,15.6
+Jammu & Kashmir,Total_SLL_CAW,Totals,SLL,,,345,347,5.3
+Ladakh,Total_SLL_CAW,Totals,SLL,,,7,7,5.4
+Lakshadweep,Total_SLL_CAW,Totals,SLL,,,5,5,16.7
+Puducherry,Total_SLL_CAW,Totals,SLL,,,155,155,17.4
+Andhra Pradesh,Total_CAW_IPC_SLL,Totals,SLL,,,19952,20076,74.7
+Arunachal Pradesh,Total_CAW_IPC_SLL,Totals,SLL,,,321,365,41.7
+Assam,Total_CAW_IPC_SLL,Totals,SLL,,,10546,10760,59.3
+Bihar,Total_CAW_IPC_SLL,Totals,SLL,,,27359,27637,44.1
+Chhattisgarh,Total_CAW_IPC_SLL,Totals,SLL,,,8601,8670,56.3
+Goa,Total_CAW_IPC_SLL,Totals,SLL,,,356,362,45.1
+Gujarat,Total_CAW_IPC_SLL,Totals,SLL,,,7606,7673,22.0
+Haryana,Total_CAW_IPC_SLL,Totals,SLL,,,13945,14048,96.4
+Himachal Pradesh,Total_CAW_IPC_SLL,Totals,SLL,,,1605,1648,43.3
+Jharkhand,Total_CAW_IPC_SLL,Totals,SLL,,,6367,6428,32.5
+Karnataka,Total_CAW_IPC_SLL,Totals,SLL,,,19945,21092,59.3
+Kerala,Total_CAW_IPC_SLL,Totals,SLL,,,15037,15304,80.5
+Madhya Pradesh,Total_CAW_IPC_SLL,Totals,SLL,,,32832,32958,77.0
+Maharashtra,Total_CAW_IPC_SLL,Totals,SLL,,,47954,48775,78.3
+Manipur,Total_CAW_IPC_SLL,Totals,SLL,,,195,206,12.0
+Meghalaya,Total_CAW_IPC_SLL,Totals,SLL,,,658,677,38.9
+Mizoram,Total_CAW_IPC_SLL,Totals,SLL,,,259,270,41.8
+Nagaland,Total_CAW_IPC_SLL,Totals,SLL,,,56,62,5.1
+Odisha,Total_CAW_IPC_SLL,Totals,SLL,,,27449,27454,118.3
+Punjab,Total_CAW_IPC_SLL,Totals,SLL,,,5348,5391,36.3
+Rajasthan,Total_CAW_IPC_SLL,Totals,SLL,,,36563,37194,91.3
+Sikkim,Total_CAW_IPC_SLL,Totals,SLL,,,131,163,39.7
+Tamil Nadu,Total_CAW_IPC_SLL,Totals,SLL,,,11363,11808,29.4
+Telangana,Total_CAW_IPC_SLL,Totals,SLL,,,24495,25106,128.6
+Tripura,Total_CAW_IPC_SLL,Totals,SLL,,,716,724,34.8
+Uttar Pradesh,Total_CAW_IPC_SLL,Totals,SLL,,,66398,67668,58.0
+Uttarakhand,Total_CAW_IPC_SLL,Totals,SLL,,,3342,3432,58.1
+West Bengal,Total_CAW_IPC_SLL,Totals,SLL,,,34360,34971,70.3
+A&N Islands,Total_CAW_IPC_SLL,Totals,SLL,,,156,161,82.1
+Chandigarh,Total_CAW_IPC_SLL,Totals,SLL,,,452,454,77.9
+D&N Haveli and Daman & Diu,Total_CAW_IPC_SLL,Totals,SLL,,,86,86,18.7
+Delhi,Total_CAW_IPC_SLL,Totals,SLL,,,13396,13584,130.7
+Jammu & Kashmir,Total_CAW_IPC_SLL,Totals,SLL,,,3366,3391,51.4
+Ladakh,Total_CAW_IPC_SLL,Totals,SLL,,,34,34,26.2
+Lakshadweep,Total_CAW_IPC_SLL,Totals,SLL,,,13,13,43.3
+Puducherry,Total_CAW_IPC_SLL,Totals,SLL,,,272,272,30.6

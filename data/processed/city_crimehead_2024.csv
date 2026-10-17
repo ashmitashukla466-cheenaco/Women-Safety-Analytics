@@ -1,0 +1,1236 @@
+city,crime_head,category,law,cases_ipc,cases_bns,cases_total,victims,rate_per_lakh
+Ahmedabad,Rape_Total,Rape & related,IPC/BNS,47.0,15.0,62,62,2.1
+Bengaluru,Rape_Total,Rape & related,IPC/BNS,128.0,40.0,168,169,4.1
+Chennai,Rape_Total,Rape & related,IPC/BNS,27.0,17.0,44,44,1.0
+Coimbatore,Rape_Total,Rape & related,IPC/BNS,15.0,4.0,19,19,1.8
+Delhi City,Rape_Total,Rape & related,IPC/BNS,860.0,198.0,1058,1089,14.0
+Ghaziabad,Rape_Total,Rape & related,IPC/BNS,79.0,14.0,93,93,8.4
+Hyderabad,Rape_Total,Rape & related,IPC/BNS,138.0,220.0,358,358,9.5
+Indore,Rape_Total,Rape & related,IPC/BNS,157.0,38.0,195,195,18.8
+Jaipur,Rape_Total,Rape & related,IPC/BNS,395.0,102.0,497,497,34.2
+Kanpur,Rape_Total,Rape & related,IPC/BNS,61.0,50.0,111,111,8.3
+Kochi,Rape_Total,Rape & related,IPC/BNS,83.0,26.0,109,109,10.1
+Kolkata,Rape_Total,Rape & related,IPC/BNS,5.0,7.0,12,12,0.2
+Kozhikode,Rape_Total,Rape & related,IPC/BNS,41.0,10.0,51,51,4.8
+Lucknow,Rape_Total,Rape & related,IPC/BNS,91.0,70.0,161,162,11.6
+Mumbai,Rape_Total,Rape & related,IPC/BNS,283.0,128.0,411,411,4.8
+Nagpur,Rape_Total,Rape & related,IPC/BNS,111.0,25.0,136,136,11.1
+Patna,Rape_Total,Rape & related,IPC/BNS,36.0,36.0,72,72,7.5
+Pune,Rape_Total,Rape & related,IPC/BNS,160.0,84.0,244,244,10.2
+Surat,Rape_Total,Rape & related,IPC/BNS,64.0,21.0,85,85,4.3
+Ahmedabad,Rape_Women18plus,Rape & related,IPC/BNS,47.0,15.0,62,62,2.1
+Bengaluru,Rape_Women18plus,Rape & related,IPC/BNS,128.0,40.0,168,169,4.1
+Chennai,Rape_Women18plus,Rape & related,IPC/BNS,27.0,17.0,44,44,1.0
+Coimbatore,Rape_Women18plus,Rape & related,IPC/BNS,15.0,4.0,19,19,1.8
+Delhi City,Rape_Women18plus,Rape & related,IPC/BNS,860.0,198.0,1058,1089,14.0
+Ghaziabad,Rape_Women18plus,Rape & related,IPC/BNS,79.0,14.0,93,93,8.4
+Hyderabad,Rape_Women18plus,Rape & related,IPC/BNS,138.0,220.0,358,358,9.5
+Indore,Rape_Women18plus,Rape & related,IPC/BNS,157.0,38.0,195,195,18.8
+Jaipur,Rape_Women18plus,Rape & related,IPC/BNS,395.0,102.0,497,497,34.2
+Kanpur,Rape_Women18plus,Rape & related,IPC/BNS,61.0,50.0,111,111,8.3
+Kochi,Rape_Women18plus,Rape & related,IPC/BNS,83.0,26.0,109,109,10.1
+Kolkata,Rape_Women18plus,Rape & related,IPC/BNS,5.0,7.0,12,12,0.2
+Kozhikode,Rape_Women18plus,Rape & related,IPC/BNS,41.0,10.0,51,51,4.8
+Lucknow,Rape_Women18plus,Rape & related,IPC/BNS,91.0,70.0,161,162,11.6
+Mumbai,Rape_Women18plus,Rape & related,IPC/BNS,283.0,128.0,411,411,4.8
+Nagpur,Rape_Women18plus,Rape & related,IPC/BNS,111.0,25.0,136,136,11.1
+Patna,Rape_Women18plus,Rape & related,IPC/BNS,36.0,36.0,72,72,7.5
+Pune,Rape_Women18plus,Rape & related,IPC/BNS,160.0,84.0,244,244,10.2
+Surat,Rape_Women18plus,Rape & related,IPC/BNS,64.0,21.0,85,85,4.3
+Ahmedabad,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Bengaluru,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Chennai,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Coimbatore,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi City,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Ghaziabad,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Hyderabad,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Indore,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Jaipur,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Kanpur,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Kolkata,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Kozhikode,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Lucknow,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Mumbai,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Nagpur,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Patna,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Pune,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Surat,Rape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Ahmedabad,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,4.0,4,4,0.1
+Bengaluru,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,16.0,16,16,0.4
+Chennai,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,12.0,12,12,0.3
+Coimbatore,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,1.0,1,1,0.1
+Delhi City,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,35.0,35,35,0.5
+Ghaziabad,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,13.0,13,13,1.2
+Hyderabad,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,40.0,40,40,1.1
+Indore,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,18.0,18,18,1.7
+Jaipur,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,3.0,3,3,0.2
+Kanpur,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,1.0,1,1,0.1
+Kolkata,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Kozhikode,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,4.0,4,4,0.4
+Lucknow,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,37.0,37,37,2.7
+Mumbai,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,32.0,32,32,0.4
+Nagpur,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,19.0,19,19,1.6
+Patna,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Pune,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Surat,Sexual_Intercourse_Deceit_Sec69BNS,Rape & related,IPC/BNS,0.0,1.0,1,1,0.1
+Ahmedabad,Murder_with_Rape,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Bengaluru,Murder_with_Rape,Rape & related,IPC/BNS,2.0,0.0,2,2,0.0
+Chennai,Murder_with_Rape,Rape & related,IPC/BNS,1.0,2.0,3,3,0.1
+Coimbatore,Murder_with_Rape,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi City,Murder_with_Rape,Rape & related,IPC/BNS,4.0,2.0,6,7,0.1
+Ghaziabad,Murder_with_Rape,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Hyderabad,Murder_with_Rape,Rape & related,IPC/BNS,0.0,1.0,1,1,0.0
+Indore,Murder_with_Rape,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Jaipur,Murder_with_Rape,Rape & related,IPC/BNS,0.0,1.0,1,1,0.1
+Kanpur,Murder_with_Rape,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,Murder_with_Rape,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Kolkata,Murder_with_Rape,Rape & related,IPC/BNS,0.0,1.0,1,1,0.0
+Kozhikode,Murder_with_Rape,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Lucknow,Murder_with_Rape,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Mumbai,Murder_with_Rape,Rape & related,IPC/BNS,0.0,1.0,1,1,0.0
+Nagpur,Murder_with_Rape,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Patna,Murder_with_Rape,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Pune,Murder_with_Rape,Rape & related,IPC/BNS,1.0,0.0,1,1,0.0
+Surat,Murder_with_Rape,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Ahmedabad,AttemptRape_Total,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Bengaluru,AttemptRape_Total,Rape & related,IPC/BNS,1.0,0.0,1,1,0.0
+Chennai,AttemptRape_Total,Rape & related,IPC/BNS,1.0,0.0,1,1,0.0
+Coimbatore,AttemptRape_Total,Rape & related,IPC/BNS,0.0,2.0,2,2,0.2
+Delhi City,AttemptRape_Total,Rape & related,IPC/BNS,1.0,0.0,1,1,0.0
+Ghaziabad,AttemptRape_Total,Rape & related,IPC/BNS,1.0,0.0,1,1,0.1
+Hyderabad,AttemptRape_Total,Rape & related,IPC/BNS,8.0,5.0,13,13,0.3
+Indore,AttemptRape_Total,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Jaipur,AttemptRape_Total,Rape & related,IPC/BNS,23.0,8.0,31,31,2.1
+Kanpur,AttemptRape_Total,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,AttemptRape_Total,Rape & related,IPC/BNS,0.0,1.0,1,1,0.1
+Kolkata,AttemptRape_Total,Rape & related,IPC/BNS,0.0,1.0,1,1,0.0
+Kozhikode,AttemptRape_Total,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Lucknow,AttemptRape_Total,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Mumbai,AttemptRape_Total,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Nagpur,AttemptRape_Total,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Patna,AttemptRape_Total,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Pune,AttemptRape_Total,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Surat,AttemptRape_Total,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Ahmedabad,AttemptRape_Women18plus,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Bengaluru,AttemptRape_Women18plus,Rape & related,IPC/BNS,1.0,0.0,1,1,0.0
+Chennai,AttemptRape_Women18plus,Rape & related,IPC/BNS,1.0,0.0,1,1,0.0
+Coimbatore,AttemptRape_Women18plus,Rape & related,IPC/BNS,0.0,2.0,2,2,0.2
+Delhi City,AttemptRape_Women18plus,Rape & related,IPC/BNS,1.0,0.0,1,1,0.0
+Ghaziabad,AttemptRape_Women18plus,Rape & related,IPC/BNS,1.0,0.0,1,1,0.1
+Hyderabad,AttemptRape_Women18plus,Rape & related,IPC/BNS,8.0,5.0,13,13,0.3
+Indore,AttemptRape_Women18plus,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Jaipur,AttemptRape_Women18plus,Rape & related,IPC/BNS,23.0,8.0,31,31,2.1
+Kanpur,AttemptRape_Women18plus,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,AttemptRape_Women18plus,Rape & related,IPC/BNS,0.0,1.0,1,1,0.1
+Kolkata,AttemptRape_Women18plus,Rape & related,IPC/BNS,0.0,1.0,1,1,0.0
+Kozhikode,AttemptRape_Women18plus,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Lucknow,AttemptRape_Women18plus,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Mumbai,AttemptRape_Women18plus,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Nagpur,AttemptRape_Women18plus,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Patna,AttemptRape_Women18plus,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Pune,AttemptRape_Women18plus,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Surat,AttemptRape_Women18plus,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Ahmedabad,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Bengaluru,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Chennai,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Coimbatore,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi City,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Ghaziabad,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Hyderabad,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Indore,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Jaipur,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Kanpur,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Kolkata,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Kozhikode,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Lucknow,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Mumbai,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Nagpur,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Patna,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Pune,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Surat,AttemptRape_GirlsU18,Rape & related,IPC/BNS,0.0,0.0,0,0,0.0
+Ahmedabad,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,20.0,11.0,31,31,1.0
+Bengaluru,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,551.0,346.0,897,901,22.1
+Chennai,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,57.0,64.0,121,121,2.8
+Coimbatore,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,20.0,7.0,27,27,2.5
+Delhi City,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,426.0,329.0,755,765,10.0
+Ghaziabad,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,34.0,23.0,57,57,5.2
+Hyderabad,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,156.0,142.0,298,450,7.9
+Indore,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,33.0,23.0,56,56,5.4
+Jaipur,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,403.0,226.0,629,631,43.3
+Kanpur,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,120.0,120,120,9.0
+Kochi,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,47.0,42.0,89,92,8.3
+Kolkata,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,39.0,40.0,79,79,1.2
+Kozhikode,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,32.0,21.0,53,56,5.0
+Lucknow,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,167.0,9.0,176,176,12.7
+Mumbai,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,454.0,403.0,857,862,10.1
+Nagpur,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,79.0,67.0,146,147,11.9
+Patna,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,11.0,7.0,18,18,1.9
+Pune,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,108.0,114.0,222,222,9.3
+Surat,AssaultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,30.0,10.0,40,40,2.0
+Ahmedabad,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,20.0,11.0,31,31,1.0
+Bengaluru,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,551.0,346.0,897,901,22.1
+Chennai,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,57.0,64.0,121,121,2.8
+Coimbatore,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,20.0,7.0,27,27,2.5
+Delhi City,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,426.0,329.0,755,765,10.0
+Ghaziabad,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,34.0,23.0,57,57,5.2
+Hyderabad,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,156.0,142.0,298,450,7.9
+Indore,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,33.0,23.0,56,56,5.4
+Jaipur,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,403.0,226.0,629,631,43.3
+Kanpur,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,120.0,120,120,9.0
+Kochi,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,47.0,42.0,89,92,8.3
+Kolkata,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,39.0,40.0,79,79,1.2
+Kozhikode,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,32.0,21.0,53,56,5.0
+Lucknow,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,167.0,9.0,176,176,12.7
+Mumbai,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,454.0,403.0,857,862,10.1
+Nagpur,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,79.0,67.0,146,147,11.9
+Patna,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,11.0,7.0,18,18,1.9
+Pune,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,108.0,114.0,222,222,9.3
+Surat,AssaultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,30.0,10.0,40,40,2.0
+Ahmedabad,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Bengaluru,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Chennai,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Coimbatore,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Delhi City,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Ghaziabad,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Hyderabad,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Indore,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Jaipur,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kanpur,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kolkata,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kozhikode,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Lucknow,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Mumbai,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Nagpur,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Patna,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Pune,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Surat,AssaultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Ahmedabad,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,17.0,6.0,23,22,0.8
+Bengaluru,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,101.0,79.0,180,180,4.4
+Chennai,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,52.0,47.0,99,102,2.3
+Coimbatore,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,9.0,9,9,0.8
+Delhi City,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,179.0,137.0,316,324,4.2
+Ghaziabad,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,14.0,12.0,26,26,2.4
+Hyderabad,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,81.0,68.0,149,152,4.0
+Indore,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,36.0,38.0,74,74,7.1
+Jaipur,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,44.0,29.0,73,73,5.0
+Kanpur,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,113.0,0.0,113,113,8.5
+Kochi,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,82.0,48.0,130,134,12.1
+Kolkata,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,12.0,21.0,33,33,0.5
+Kozhikode,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,38.0,23.0,61,62,5.7
+Lucknow,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,30.0,0.0,30,30,2.2
+Mumbai,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,162.0,124.0,286,286,3.4
+Nagpur,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,50.0,46.0,96,96,7.9
+Patna,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Pune,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,102.0,57.0,159,159,6.7
+Surat,SexualHarassment_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,28.0,28,29,1.4
+Ahmedabad,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,17.0,5.0,22,22,0.7
+Bengaluru,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,101.0,79.0,180,180,4.4
+Chennai,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,52.0,46.0,98,102,2.3
+Coimbatore,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,9.0,9,9,0.8
+Delhi City,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,179.0,137.0,316,324,4.2
+Ghaziabad,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,14.0,12.0,26,26,2.4
+Hyderabad,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,81.0,68.0,149,152,4.0
+Indore,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,36.0,38.0,74,74,7.1
+Jaipur,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,44.0,29.0,73,73,5.0
+Kanpur,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,113.0,0.0,113,113,8.5
+Kochi,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,82.0,48.0,130,134,12.1
+Kolkata,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,12.0,21.0,33,33,0.5
+Kozhikode,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,38.0,23.0,61,62,5.7
+Lucknow,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,30.0,0.0,30,30,2.2
+Mumbai,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,162.0,124.0,286,286,3.4
+Nagpur,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,50.0,46.0,96,96,7.9
+Patna,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Pune,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,102.0,57.0,159,159,6.7
+Surat,SexualHarassment_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,28.0,28,29,1.4
+Ahmedabad,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,1.0,1,1,0.0
+Bengaluru,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Chennai,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,1.0,1,1,0.0
+Coimbatore,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Delhi City,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Ghaziabad,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Hyderabad,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Indore,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Jaipur,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kanpur,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kolkata,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kozhikode,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Lucknow,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Mumbai,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Nagpur,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Patna,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Pune,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Surat,SexualHarassment_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Ahmedabad,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,3.0,6.0,9,9,0.3
+Bengaluru,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,41.0,25.0,66,66,1.6
+Chennai,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,3.0,7.0,10,10,0.2
+Coimbatore,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Delhi City,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,152.0,127.0,279,285,3.7
+Ghaziabad,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,11.0,4.0,15,15,1.4
+Hyderabad,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,16.0,0.0,16,16,0.4
+Indore,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,4.0,8.0,12,12,1.2
+Jaipur,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,57.0,35.0,92,92,6.3
+Kanpur,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,11.0,0.0,11,11,0.8
+Kochi,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,4.0,0.0,4,4,0.4
+Kolkata,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,10.0,12.0,22,22,0.3
+Kozhikode,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,4.0,0.0,4,4,0.4
+Lucknow,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,40.0,0.0,40,40,2.9
+Mumbai,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,17.0,20.0,37,48,0.4
+Nagpur,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,8.0,6.0,14,14,1.1
+Patna,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,3.0,3,3,0.3
+Pune,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,11.0,7.0,18,18,0.8
+Surat,Disrobe_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Ahmedabad,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,3.0,6.0,9,9,0.3
+Bengaluru,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,41.0,25.0,66,66,1.6
+Chennai,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,3.0,7.0,10,10,0.2
+Coimbatore,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Delhi City,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,152.0,127.0,279,285,3.7
+Ghaziabad,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,11.0,4.0,15,15,1.4
+Hyderabad,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,16.0,0.0,16,16,0.4
+Indore,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,4.0,8.0,12,12,1.2
+Jaipur,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,57.0,35.0,92,92,6.3
+Kanpur,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,11.0,0.0,11,11,0.8
+Kochi,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,4.0,0.0,4,4,0.4
+Kolkata,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,10.0,12.0,22,22,0.3
+Kozhikode,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,4.0,0.0,4,4,0.4
+Lucknow,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,40.0,0.0,40,40,2.9
+Mumbai,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,17.0,20.0,37,48,0.4
+Nagpur,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,8.0,6.0,14,14,1.1
+Patna,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,3.0,3,3,0.3
+Pune,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,11.0,7.0,18,18,0.8
+Surat,Disrobe_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Ahmedabad,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Bengaluru,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Chennai,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Coimbatore,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Delhi City,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Ghaziabad,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Hyderabad,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Indore,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Jaipur,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kanpur,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kolkata,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kozhikode,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Lucknow,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Mumbai,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Nagpur,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Patna,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Pune,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Surat,Disrobe_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Ahmedabad,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,5.0,1.0,6,6,0.2
+Bengaluru,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,20.0,9.0,29,29,0.7
+Chennai,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,14.0,11.0,25,25,0.6
+Coimbatore,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,2.0,2,2,0.2
+Delhi City,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,16.0,22.0,38,38,0.5
+Ghaziabad,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,4.0,2.0,6,6,0.5
+Hyderabad,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,37.0,13.0,50,50,1.3
+Indore,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,6.0,6.0,12,12,1.2
+Jaipur,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,2.0,4.0,6,6,0.4
+Kanpur,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,3.0,5.0,8,8,0.7
+Kolkata,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,10.0,29.0,39,39,0.6
+Kozhikode,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,1.0,1.0,2,2,0.2
+Lucknow,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,4.0,0.0,4,4,0.3
+Mumbai,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,35.0,36.0,71,78,0.8
+Nagpur,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,5.0,6.0,11,11,0.9
+Patna,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Pune,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,13.0,11.0,24,24,1.0
+Surat,Voyeurism_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Ahmedabad,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,5.0,1.0,6,6,0.2
+Bengaluru,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,20.0,9.0,29,29,0.7
+Chennai,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,14.0,11.0,25,25,0.6
+Coimbatore,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,2.0,2,2,0.2
+Delhi City,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,16.0,22.0,38,38,0.5
+Ghaziabad,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,4.0,2.0,6,6,0.5
+Hyderabad,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,37.0,13.0,50,50,1.3
+Indore,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,6.0,6.0,12,12,1.2
+Jaipur,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,2.0,4.0,6,6,0.4
+Kanpur,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,3.0,5.0,8,8,0.7
+Kolkata,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,10.0,29.0,39,39,0.6
+Kozhikode,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,1.0,1.0,2,2,0.2
+Lucknow,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,4.0,0.0,4,4,0.3
+Mumbai,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,35.0,36.0,71,78,0.8
+Nagpur,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,5.0,6.0,11,11,0.9
+Patna,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Pune,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,13.0,11.0,24,24,1.0
+Surat,Voyeurism_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Ahmedabad,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Bengaluru,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Chennai,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Coimbatore,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Delhi City,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Ghaziabad,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Hyderabad,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Indore,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Jaipur,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kanpur,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kolkata,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kozhikode,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Lucknow,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Mumbai,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Nagpur,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Patna,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Pune,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Surat,Voyeurism_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Ahmedabad,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,11.0,22.0,33,33,1.1
+Bengaluru,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,73.0,36.0,109,109,2.7
+Chennai,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,24.0,13.0,37,37,0.9
+Coimbatore,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,1.0,6.0,7,7,0.7
+Delhi City,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,117.0,61.0,178,185,2.3
+Ghaziabad,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,9.0,12.0,21,21,1.9
+Hyderabad,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,194.0,122.0,316,446,8.4
+Indore,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,51.0,52.0,103,103,9.9
+Jaipur,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,15.0,10.0,25,25,1.7
+Kanpur,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,24.0,20.0,44,44,4.1
+Kolkata,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,33.0,41.0,74,74,1.1
+Kozhikode,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,9.0,5.0,14,14,1.3
+Lucknow,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,31.0,0.0,31,31,2.2
+Mumbai,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,245.0,222.0,467,484,5.5
+Nagpur,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,56.0,45.0,101,101,8.3
+Patna,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,3.0,1.0,4,4,0.4
+Pune,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,91.0,74.0,165,165,6.9
+Surat,Stalking_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Ahmedabad,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,11.0,22.0,33,33,1.1
+Bengaluru,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,73.0,36.0,109,109,2.7
+Chennai,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,24.0,13.0,37,37,0.9
+Coimbatore,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,1.0,6.0,7,7,0.7
+Delhi City,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,117.0,61.0,178,185,2.3
+Ghaziabad,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,9.0,12.0,21,21,1.9
+Hyderabad,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,194.0,122.0,316,446,8.4
+Indore,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,51.0,52.0,103,103,9.9
+Jaipur,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,15.0,10.0,25,25,1.7
+Kanpur,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,24.0,19.0,43,43,4.0
+Kolkata,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,33.0,41.0,74,74,1.1
+Kozhikode,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,9.0,5.0,14,14,1.3
+Lucknow,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,31.0,0.0,31,31,2.2
+Mumbai,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,245.0,222.0,467,484,5.5
+Nagpur,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,56.0,45.0,101,101,8.3
+Patna,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,3.0,1.0,4,4,0.4
+Pune,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,91.0,74.0,165,165,6.9
+Surat,Stalking_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Ahmedabad,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Bengaluru,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Chennai,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Coimbatore,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Delhi City,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Ghaziabad,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Hyderabad,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Indore,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Jaipur,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kanpur,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,1.0,1,1,0.1
+Kolkata,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kozhikode,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Lucknow,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Mumbai,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Nagpur,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Patna,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Pune,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Surat,Stalking_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Ahmedabad,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,2.0,1.0,3,3,0.1
+Bengaluru,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,37.0,60.0,97,106,2.4
+Chennai,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,13.0,29.0,42,42,1.0
+Coimbatore,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,3.0,1.0,4,4,0.4
+Delhi City,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,203.0,147.0,350,357,4.6
+Ghaziabad,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,2.0,2,2,0.2
+Hyderabad,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,21.0,21.0,42,42,1.1
+Indore,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,15.0,7.0,22,22,2.1
+Jaipur,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,10.0,11.0,21,21,1.4
+Kanpur,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,20.0,36.0,56,56,5.2
+Kolkata,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,112.0,123.0,235,235,3.5
+Kozhikode,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,16.0,13.0,29,31,2.7
+Lucknow,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Mumbai,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,349.0,327.0,676,677,7.9
+Nagpur,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,12.0,12.0,24,26,2.0
+Patna,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,2.0,0.0,2,2,0.2
+Pune,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,34.0,30.0,64,64,2.7
+Surat,InsultModesty_Total,"Molestation, harassment & stalking",IPC/BNS,1.0,0.0,1,1,0.1
+Ahmedabad,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,2.0,1.0,3,3,0.1
+Bengaluru,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,37.0,60.0,97,106,2.4
+Chennai,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,13.0,29.0,42,42,1.0
+Coimbatore,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,3.0,1.0,4,4,0.4
+Delhi City,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,203.0,147.0,350,357,4.6
+Ghaziabad,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,2.0,2,2,0.2
+Hyderabad,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,21.0,21.0,42,42,1.1
+Indore,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,15.0,7.0,22,22,2.1
+Jaipur,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,10.0,11.0,21,21,1.4
+Kanpur,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,20.0,36.0,56,56,5.2
+Kolkata,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,112.0,123.0,235,235,3.5
+Kozhikode,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,16.0,13.0,29,31,2.7
+Lucknow,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Mumbai,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,349.0,327.0,676,677,7.9
+Nagpur,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,12.0,12.0,24,26,2.0
+Patna,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,2.0,0.0,2,2,0.2
+Pune,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,34.0,30.0,64,64,2.7
+Surat,InsultModesty_Women18plus,"Molestation, harassment & stalking",IPC/BNS,1.0,0.0,1,1,0.1
+Ahmedabad,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Bengaluru,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Chennai,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Coimbatore,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Delhi City,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Ghaziabad,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Hyderabad,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Indore,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Jaipur,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kanpur,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kolkata,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Kozhikode,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Lucknow,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Mumbai,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Nagpur,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Patna,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Pune,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Surat,InsultModesty_GirlsU18,"Molestation, harassment & stalking",IPC/BNS,0.0,0.0,0,0,0.0
+Ahmedabad,DowryDeaths,Domestic / dowry related,IPC/BNS,0.0,2.0,2,2,0.1
+Bengaluru,DowryDeaths,Domestic / dowry related,IPC/BNS,16.0,9.0,25,25,0.6
+Chennai,DowryDeaths,Domestic / dowry related,IPC/BNS,0.0,0.0,0,0,0.0
+Coimbatore,DowryDeaths,Domestic / dowry related,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi City,DowryDeaths,Domestic / dowry related,IPC/BNS,58.0,51.0,109,111,1.4
+Ghaziabad,DowryDeaths,Domestic / dowry related,IPC/BNS,10.0,8.0,18,18,1.6
+Hyderabad,DowryDeaths,Domestic / dowry related,IPC/BNS,8.0,6.0,14,14,0.4
+Indore,DowryDeaths,Domestic / dowry related,IPC/BNS,6.0,8.0,14,14,1.3
+Jaipur,DowryDeaths,Domestic / dowry related,IPC/BNS,14.0,11.0,25,25,1.7
+Kanpur,DowryDeaths,Domestic / dowry related,IPC/BNS,28.0,26.0,54,54,4.0
+Kochi,DowryDeaths,Domestic / dowry related,IPC/BNS,0.0,0.0,0,0,0.0
+Kolkata,DowryDeaths,Domestic / dowry related,IPC/BNS,10.0,1.0,11,11,0.2
+Kozhikode,DowryDeaths,Domestic / dowry related,IPC/BNS,0.0,0.0,0,0,0.0
+Lucknow,DowryDeaths,Domestic / dowry related,IPC/BNS,0.0,22.0,22,22,1.6
+Mumbai,DowryDeaths,Domestic / dowry related,IPC/BNS,5.0,3.0,8,10,0.1
+Nagpur,DowryDeaths,Domestic / dowry related,IPC/BNS,2.0,1.0,3,3,0.2
+Patna,DowryDeaths,Domestic / dowry related,IPC/BNS,13.0,17.0,30,30,3.1
+Pune,DowryDeaths,Domestic / dowry related,IPC/BNS,3.0,1.0,4,4,0.2
+Surat,DowryDeaths,Domestic / dowry related,IPC/BNS,0.0,2.0,2,2,0.1
+Ahmedabad,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,231.0,155.0,386,386,12.8
+Bengaluru,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,428.0,191.0,619,631,15.3
+Chennai,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,73.0,31.0,104,104,2.4
+Coimbatore,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,32.0,6.0,38,38,3.5
+Delhi City,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,4428.0,219.0,4647,4651,61.3
+Ghaziabad,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,234.0,66.0,300,300,27.2
+Hyderabad,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,1064.0,21.0,1085,1085,28.8
+Indore,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,295.0,179.0,474,474,45.7
+Jaipur,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,819.0,66.0,885,885,60.9
+Kanpur,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,509.0,477.0,986,986,73.9
+Kochi,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,113.0,43.0,156,162,14.5
+Kolkata,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,595.0,274.0,869,1168,12.8
+Kozhikode,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,212.0,85.0,297,329,27.9
+Lucknow,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,1189.0,257.0,1446,1446,104.6
+Mumbai,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,666.0,189.0,855,856,10.0
+Nagpur,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,194.0,100.0,294,296,24.1
+Patna,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,37.0,43.0,80,80,8.3
+Pune,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,414.0,100.0,514,514,21.5
+Surat,CrueltyByHusbandRelatives,Domestic / dowry related,IPC/BNS,262.0,79.0,341,341,17.3
+Ahmedabad,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,11.0,15.0,26,26,0.9
+Bengaluru,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,1.0,2.0,3,3,0.1
+Chennai,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,1.0,0.0,1,1,0.0
+Coimbatore,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi City,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,4.0,1.0,5,5,0.1
+Ghaziabad,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,78.0,38.0,116,116,10.5
+Hyderabad,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,2.0,0.0,2,2,0.1
+Indore,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,13.0,11.0,24,24,2.3
+Jaipur,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,27.0,16.0,43,43,3.0
+Kanpur,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Kolkata,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,6.0,0.0,6,6,0.1
+Kozhikode,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Lucknow,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,0.0,63.0,63,63,4.6
+Mumbai,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,5.0,0.0,5,5,0.1
+Nagpur,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,3.0,0.0,3,3,0.2
+Patna,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,154.0,285.0,439,439,45.8
+Pune,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,1.0,2.0,3,3,0.1
+Surat,KidnapForMarriage_Total,Kidnapping & abduction,IPC/BNS,6.0,12.0,18,18,0.9
+Ahmedabad,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Bengaluru,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,0.0,1.0,1,1,0.0
+Chennai,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,1.0,0.0,1,1,0.0
+Coimbatore,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi City,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,0.0,1.0,1,1,0.0
+Ghaziabad,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,61.0,38.0,99,99,9.0
+Hyderabad,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Indore,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,1.0,0.0,1,1,0.1
+Jaipur,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,27.0,16.0,43,43,3.0
+Kanpur,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Kolkata,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,6.0,0.0,6,6,0.1
+Kozhikode,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Lucknow,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,0.0,63.0,63,63,4.6
+Mumbai,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,4.0,0.0,4,4,0.0
+Nagpur,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,3.0,0.0,3,3,0.2
+Patna,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,56.0,173.0,229,229,23.9
+Pune,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,1.0,2.0,3,3,0.1
+Surat,KidnapForMarriage_Women18plus,Kidnapping & abduction,IPC/BNS,0.0,12.0,12,12,0.6
+Ahmedabad,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,11.0,15.0,26,26,0.9
+Bengaluru,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,1.0,1.0,2,2,0.0
+Chennai,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Coimbatore,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi City,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,4.0,0.0,4,4,0.1
+Ghaziabad,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,17.0,0.0,17,17,1.5
+Hyderabad,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,2.0,0.0,2,2,0.1
+Indore,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,12.0,11.0,23,23,2.2
+Jaipur,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Kanpur,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Kolkata,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Kozhikode,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Lucknow,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Mumbai,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,1.0,0.0,1,1,0.0
+Nagpur,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Patna,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,98.0,112.0,210,210,21.9
+Pune,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Surat,KidnapForMarriage_GirlsU18,Kidnapping & abduction,IPC/BNS,6.0,0.0,6,6,0.3
+Ahmedabad,Miscarriage,Other,IPC/BNS,0.0,1.0,1,1,0.0
+Bengaluru,Miscarriage,Other,IPC/BNS,0.0,3.0,3,3,0.1
+Chennai,Miscarriage,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Coimbatore,Miscarriage,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi City,Miscarriage,Other,IPC/BNS,2.0,1.0,3,3,0.0
+Ghaziabad,Miscarriage,Other,IPC/BNS,0.0,1.0,1,1,0.1
+Hyderabad,Miscarriage,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Indore,Miscarriage,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Jaipur,Miscarriage,Other,IPC/BNS,9.0,2.0,11,11,0.8
+Kanpur,Miscarriage,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,Miscarriage,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Kolkata,Miscarriage,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Kozhikode,Miscarriage,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Lucknow,Miscarriage,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Mumbai,Miscarriage,Other,IPC/BNS,7.0,0.0,7,7,0.1
+Nagpur,Miscarriage,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Patna,Miscarriage,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Pune,Miscarriage,Other,IPC/BNS,0.0,6.0,6,6,0.3
+Surat,Miscarriage,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Ahmedabad,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Bengaluru,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Chennai,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Coimbatore,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi City,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,1.0,0.0,1,1,0.0
+Ghaziabad,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Hyderabad,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,5.0,0.0,5,5,0.1
+Indore,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Jaipur,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Kanpur,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Kolkata,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,11.0,2.0,13,13,0.2
+Kozhikode,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Lucknow,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Mumbai,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,2.0,0.0,2,4,0.0
+Nagpur,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Patna,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Pune,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Surat,Procuration_MinorGirls,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Ahmedabad,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Bengaluru,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Chennai,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Coimbatore,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi City,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Ghaziabad,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Hyderabad,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Indore,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Jaipur,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Kanpur,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Kolkata,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Kozhikode,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Lucknow,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Mumbai,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Nagpur,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Patna,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Pune,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Surat,Selling_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Ahmedabad,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Bengaluru,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Chennai,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Coimbatore,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi City,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Ghaziabad,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Hyderabad,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Indore,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Jaipur,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Kanpur,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Kolkata,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Kozhikode,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Lucknow,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Mumbai,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Nagpur,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Patna,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Pune,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Surat,Buying_Girls_Prostitution,Trafficking & prostitution related,IPC/BNS,0.0,0.0,0,0,0.0
+Ahmedabad,Abetment_Suicide_Women,Other,IPC/BNS,16.0,13.0,29,29,1.0
+Bengaluru,Abetment_Suicide_Women,Other,IPC/BNS,27.0,20.0,47,47,1.2
+Chennai,Abetment_Suicide_Women,Other,IPC/BNS,6.0,8.0,14,14,0.3
+Coimbatore,Abetment_Suicide_Women,Other,IPC/BNS,2.0,1.0,3,3,0.3
+Delhi City,Abetment_Suicide_Women,Other,IPC/BNS,23.0,11.0,34,37,0.4
+Ghaziabad,Abetment_Suicide_Women,Other,IPC/BNS,11.0,6.0,17,17,1.5
+Hyderabad,Abetment_Suicide_Women,Other,IPC/BNS,9.0,4.0,13,13,0.3
+Indore,Abetment_Suicide_Women,Other,IPC/BNS,21.0,11.0,32,32,3.1
+Jaipur,Abetment_Suicide_Women,Other,IPC/BNS,11.0,0.0,11,11,0.8
+Kanpur,Abetment_Suicide_Women,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,Abetment_Suicide_Women,Other,IPC/BNS,0.0,2.0,2,2,0.2
+Kolkata,Abetment_Suicide_Women,Other,IPC/BNS,21.0,11.0,32,32,0.5
+Kozhikode,Abetment_Suicide_Women,Other,IPC/BNS,1.0,0.0,1,1,0.1
+Lucknow,Abetment_Suicide_Women,Other,IPC/BNS,0.0,15.0,15,15,1.1
+Mumbai,Abetment_Suicide_Women,Other,IPC/BNS,17.0,14.0,31,31,0.4
+Nagpur,Abetment_Suicide_Women,Other,IPC/BNS,8.0,8.0,16,16,1.3
+Patna,Abetment_Suicide_Women,Other,IPC/BNS,0.0,0.0,0,0,0.0
+Pune,Abetment_Suicide_Women,Other,IPC/BNS,14.0,15.0,29,29,1.2
+Surat,Abetment_Suicide_Women,Other,IPC/BNS,8.0,9.0,17,17,0.9
+Ahmedabad,AcidAttack,Acid attack,IPC/BNS,1.0,1.0,2,2,0.1
+Bengaluru,AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Chennai,AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Coimbatore,AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi City,AcidAttack,Acid attack,IPC/BNS,1.0,0.0,1,1,0.0
+Ghaziabad,AcidAttack,Acid attack,IPC/BNS,1.0,1.0,2,2,0.2
+Hyderabad,AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Indore,AcidAttack,Acid attack,IPC/BNS,0.0,2.0,2,2,0.2
+Jaipur,AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Kanpur,AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Kolkata,AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Kozhikode,AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Lucknow,AcidAttack,Acid attack,IPC/BNS,1.0,1.0,2,2,0.1
+Mumbai,AcidAttack,Acid attack,IPC/BNS,1.0,1.0,2,2,0.0
+Nagpur,AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Patna,AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Pune,AcidAttack,Acid attack,IPC/BNS,1.0,0.0,1,1,0.0
+Surat,AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Ahmedabad,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Bengaluru,Attempt_AcidAttack,Acid attack,IPC/BNS,1.0,0.0,1,1,0.0
+Chennai,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,1.0,1,1,0.0
+Coimbatore,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi City,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,5.0,5,5,0.1
+Ghaziabad,Attempt_AcidAttack,Acid attack,IPC/BNS,1.0,0.0,1,1,0.1
+Hyderabad,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Indore,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,1.0,1,2,0.1
+Jaipur,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Kanpur,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Kolkata,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,1.0,1,1,0.0
+Kozhikode,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Lucknow,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Mumbai,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Nagpur,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Patna,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Pune,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Surat,Attempt_AcidAttack,Acid attack,IPC/BNS,0.0,0.0,0,0,0.0
+Ahmedabad,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,53.0,57.0,110,111,3.7
+Bengaluru,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,438.0,364.0,802,828,19.8
+Chennai,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,5.0,1.0,6,6,0.1
+Coimbatore,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,0.0,2.0,2,2,0.2
+Delhi City,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,2030.0,1944.0,3974,4073,52.5
+Ghaziabad,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,140.0,186.0,326,326,29.6
+Hyderabad,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,247.0,42.0,289,289,7.7
+Indore,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,268.0,260.0,528,532,50.9
+Jaipur,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,199.0,155.0,354,354,24.3
+Kanpur,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,185.0,165.0,350,350,26.2
+Kochi,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,1.0,6.0,7,7,0.7
+Kolkata,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,102.0,227.0,329,329,4.8
+Kozhikode,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,2.0,6.0,8,8,0.8
+Lucknow,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,105.0,141.0,246,400,17.8
+Mumbai,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,584.0,640.0,1224,1242,14.4
+Nagpur,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,195.0,164.0,359,362,29.4
+Patna,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,192.0,286.0,478,568,49.9
+Pune,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,289.0,313.0,602,602,25.2
+Surat,KidnapAbduction_Total,Kidnapping & abduction,IPC/BNS,62.0,86.0,148,151,7.5
+Ahmedabad,KA_Sec363,Kidnapping & abduction,IPC/BNS,50.0,52.0,102,103,3.4
+Bengaluru,KA_Sec363,Kidnapping & abduction,IPC/BNS,436.0,356.0,792,817,19.5
+Chennai,KA_Sec363,Kidnapping & abduction,IPC/BNS,3.0,1.0,4,4,0.1
+Coimbatore,KA_Sec363,Kidnapping & abduction,IPC/BNS,0.0,2.0,2,2,0.2
+Delhi City,KA_Sec363,Kidnapping & abduction,IPC/BNS,1982.0,1829.0,3811,3907,50.3
+Ghaziabad,KA_Sec363,Kidnapping & abduction,IPC/BNS,137.0,184.0,321,321,29.1
+Hyderabad,KA_Sec363,Kidnapping & abduction,IPC/BNS,169.0,42.0,211,211,5.6
+Indore,KA_Sec363,Kidnapping & abduction,IPC/BNS,267.0,259.0,526,530,50.7
+Jaipur,KA_Sec363,Kidnapping & abduction,IPC/BNS,176.0,111.0,287,287,19.7
+Kanpur,KA_Sec363,Kidnapping & abduction,IPC/BNS,185.0,165.0,350,350,26.2
+Kochi,KA_Sec363,Kidnapping & abduction,IPC/BNS,1.0,3.0,4,4,0.4
+Kolkata,KA_Sec363,Kidnapping & abduction,IPC/BNS,90.0,222.0,312,312,4.6
+Kozhikode,KA_Sec363,Kidnapping & abduction,IPC/BNS,2.0,6.0,8,8,0.8
+Lucknow,KA_Sec363,Kidnapping & abduction,IPC/BNS,105.0,141.0,246,400,17.8
+Mumbai,KA_Sec363,Kidnapping & abduction,IPC/BNS,583.0,639.0,1222,1240,14.3
+Nagpur,KA_Sec363,Kidnapping & abduction,IPC/BNS,194.0,162.0,356,359,29.1
+Patna,KA_Sec363,Kidnapping & abduction,IPC/BNS,76.0,20.0,96,96,10.0
+Pune,KA_Sec363,Kidnapping & abduction,IPC/BNS,289.0,313.0,602,602,25.2
+Surat,KA_Sec363,Kidnapping & abduction,IPC/BNS,57.0,76.0,133,136,6.7
+Ahmedabad,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Bengaluru,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Chennai,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Coimbatore,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi City,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Ghaziabad,KA_to_Murder,Kidnapping & abduction,IPC/BNS,2.0,1.0,3,3,0.3
+Hyderabad,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Indore,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Jaipur,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Kanpur,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Kolkata,KA_to_Murder,Kidnapping & abduction,IPC/BNS,1.0,0.0,1,1,0.0
+Kozhikode,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Lucknow,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Mumbai,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Nagpur,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Patna,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Pune,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Surat,KA_to_Murder,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Ahmedabad,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Bengaluru,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,1.0,1.0,2,2,0.0
+Chennai,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Coimbatore,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi City,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,1.0,2.0,3,3,0.0
+Ghaziabad,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,1.0,0.0,1,1,0.1
+Hyderabad,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Indore,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Jaipur,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Kanpur,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Kolkata,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,1.0,1.0,2,2,0.0
+Kozhikode,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Lucknow,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Mumbai,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Nagpur,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,1.0,1.0,2,2,0.2
+Patna,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Pune,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Surat,KA_for_Ransom,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Ahmedabad,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Bengaluru,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Chennai,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Coimbatore,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi City,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Ghaziabad,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Hyderabad,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Indore,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Jaipur,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Kanpur,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Kolkata,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Kozhikode,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Lucknow,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Mumbai,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Nagpur,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Patna,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Pune,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Surat,Importation_Girls_Foreign,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Ahmedabad,KA_Others,Kidnapping & abduction,IPC/BNS,3.0,5.0,8,8,0.3
+Bengaluru,KA_Others,Kidnapping & abduction,IPC/BNS,1.0,7.0,8,9,0.2
+Chennai,KA_Others,Kidnapping & abduction,IPC/BNS,2.0,0.0,2,2,0.0
+Coimbatore,KA_Others,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Delhi City,KA_Others,Kidnapping & abduction,IPC/BNS,47.0,113.0,160,163,2.1
+Ghaziabad,KA_Others,Kidnapping & abduction,IPC/BNS,0.0,1.0,1,1,0.1
+Hyderabad,KA_Others,Kidnapping & abduction,IPC/BNS,78.0,0.0,78,78,2.1
+Indore,KA_Others,Kidnapping & abduction,IPC/BNS,1.0,1.0,2,2,0.2
+Jaipur,KA_Others,Kidnapping & abduction,IPC/BNS,23.0,44.0,67,67,4.6
+Kanpur,KA_Others,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Kochi,KA_Others,Kidnapping & abduction,IPC/BNS,0.0,3.0,3,3,0.3
+Kolkata,KA_Others,Kidnapping & abduction,IPC/BNS,10.0,4.0,14,14,0.2
+Kozhikode,KA_Others,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Lucknow,KA_Others,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Mumbai,KA_Others,Kidnapping & abduction,IPC/BNS,1.0,1.0,2,2,0.0
+Nagpur,KA_Others,Kidnapping & abduction,IPC/BNS,0.0,1.0,1,1,0.1
+Patna,KA_Others,Kidnapping & abduction,IPC/BNS,116.0,266.0,382,472,39.8
+Pune,KA_Others,Kidnapping & abduction,IPC/BNS,0.0,0.0,0,0,0.0
+Surat,KA_Others,Kidnapping & abduction,IPC/BNS,5.0,10.0,15,15,0.8
+Ahmedabad,Total_IPC_BNS_CAW,Totals,IPC/BNS,417.0,310.0,727,728,24.2
+Bengaluru,Total_IPC_BNS_CAW,Totals,IPC/BNS,1865.0,1200.0,3065,3117,75.5
+Chennai,Total_IPC_BNS_CAW,Totals,IPC/BNS,277.0,243.0,520,524,12.1
+Coimbatore,Total_IPC_BNS_CAW,Totals,IPC/BNS,73.0,41.0,114,114,10.7
+Delhi City,Total_IPC_BNS_CAW,Totals,IPC/BNS,8505.0,3290.0,11795,11973,155.6
+Ghaziabad,Total_IPC_BNS_CAW,Totals,IPC/BNS,627.0,388.0,1015,1015,92.3
+Hyderabad,Total_IPC_BNS_CAW,Totals,IPC/BNS,1986.0,705.0,2691,2976,71.6
+Indore,Total_IPC_BNS_CAW,Totals,IPC/BNS,905.0,662.0,1567,1572,150.7
+Jaipur,Total_IPC_BNS_CAW,Totals,IPC/BNS,2028.0,679.0,2707,2709,186.7
+Kanpur,Total_IPC_BNS_CAW,Totals,IPC/BNS,907.0,838.0,1745,1745,130.2
+Kochi,Total_IPC_BNS_CAW,Totals,IPC/BNS,377.0,230.0,607,621,56.2
+Kolkata,Total_IPC_BNS_CAW,Totals,IPC/BNS,966.0,791.0,1757,2056,25.9
+Kozhikode,Total_IPC_BNS_CAW,Totals,IPC/BNS,356.0,168.0,524,562,49.4
+Lucknow,Total_IPC_BNS_CAW,Totals,IPC/BNS,1658.0,615.0,2273,2428,164.7
+Mumbai,Total_IPC_BNS_CAW,Totals,IPC/BNS,2832.0,2140.0,4972,5036,58.4
+Nagpur,Total_IPC_BNS_CAW,Totals,IPC/BNS,723.0,499.0,1222,1230,100.2
+Patna,Total_IPC_BNS_CAW,Totals,IPC/BNS,448.0,678.0,1126,1216,117.3
+Pune,Total_IPC_BNS_CAW,Totals,IPC/BNS,1242.0,814.0,2056,2056,86.0
+Surat,Total_IPC_BNS_CAW,Totals,IPC/BNS,433.0,248.0,681,685,34.6
+Ahmedabad,DowryProhibitionAct,Domestic / dowry related,SLL,,,0,0,0.0
+Bengaluru,DowryProhibitionAct,Domestic / dowry related,SLL,,,878,899,21.6
+Chennai,DowryProhibitionAct,Domestic / dowry related,SLL,,,9,9,0.2
+Coimbatore,DowryProhibitionAct,Domestic / dowry related,SLL,,,0,0,0.0
+Delhi City,DowryProhibitionAct,Domestic / dowry related,SLL,,,16,16,0.2
+Ghaziabad,DowryProhibitionAct,Domestic / dowry related,SLL,,,8,8,0.7
+Hyderabad,DowryProhibitionAct,Domestic / dowry related,SLL,,,0,0,0.0
+Indore,DowryProhibitionAct,Domestic / dowry related,SLL,,,0,0,0.0
+Jaipur,DowryProhibitionAct,Domestic / dowry related,SLL,,,27,27,1.9
+Kanpur,DowryProhibitionAct,Domestic / dowry related,SLL,,,0,0,0.0
+Kochi,DowryProhibitionAct,Domestic / dowry related,SLL,,,1,1,0.1
+Kolkata,DowryProhibitionAct,Domestic / dowry related,SLL,,,0,0,0.0
+Kozhikode,DowryProhibitionAct,Domestic / dowry related,SLL,,,0,0,0.0
+Lucknow,DowryProhibitionAct,Domestic / dowry related,SLL,,,48,48,3.5
+Mumbai,DowryProhibitionAct,Domestic / dowry related,SLL,,,0,0,0.0
+Nagpur,DowryProhibitionAct,Domestic / dowry related,SLL,,,1,1,0.1
+Patna,DowryProhibitionAct,Domestic / dowry related,SLL,,,17,17,1.8
+Pune,DowryProhibitionAct,Domestic / dowry related,SLL,,,0,0,0.0
+Surat,DowryProhibitionAct,Domestic / dowry related,SLL,,,0,0,0.0
+Ahmedabad,ITPA_Total,Trafficking & prostitution related,SLL,,,10,10,0.3
+Bengaluru,ITPA_Total,Trafficking & prostitution related,SLL,,,173,381,4.3
+Chennai,ITPA_Total,Trafficking & prostitution related,SLL,,,111,187,2.6
+Coimbatore,ITPA_Total,Trafficking & prostitution related,SLL,,,76,89,7.1
+Delhi City,ITPA_Total,Trafficking & prostitution related,SLL,,,17,24,0.2
+Ghaziabad,ITPA_Total,Trafficking & prostitution related,SLL,,,0,0,0.0
+Hyderabad,ITPA_Total,Trafficking & prostitution related,SLL,,,32,32,0.9
+Indore,ITPA_Total,Trafficking & prostitution related,SLL,,,2,8,0.2
+Jaipur,ITPA_Total,Trafficking & prostitution related,SLL,,,2,2,0.1
+Kanpur,ITPA_Total,Trafficking & prostitution related,SLL,,,0,0,0.0
+Kochi,ITPA_Total,Trafficking & prostitution related,SLL,,,0,0,0.0
+Kolkata,ITPA_Total,Trafficking & prostitution related,SLL,,,4,4,0.1
+Kozhikode,ITPA_Total,Trafficking & prostitution related,SLL,,,0,0,0.0
+Lucknow,ITPA_Total,Trafficking & prostitution related,SLL,,,1,3,0.1
+Mumbai,ITPA_Total,Trafficking & prostitution related,SLL,,,33,33,0.4
+Nagpur,ITPA_Total,Trafficking & prostitution related,SLL,,,16,40,1.3
+Patna,ITPA_Total,Trafficking & prostitution related,SLL,,,3,3,0.3
+Pune,ITPA_Total,Trafficking & prostitution related,SLL,,,0,0,0.0
+Surat,ITPA_Total,Trafficking & prostitution related,SLL,,,0,0,0.0
+Ahmedabad,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Bengaluru,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,79,197,1.9
+Chennai,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,84,151,2.0
+Coimbatore,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Delhi City,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Ghaziabad,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Hyderabad,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Indore,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Jaipur,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Kanpur,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Kochi,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Kolkata,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Kozhikode,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Lucknow,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,1,3,0.1
+Mumbai,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Nagpur,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Patna,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Pune,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Surat,ITPA_Procuring_Inducing,Trafficking & prostitution related,SLL,,,0,0,0.0
+Ahmedabad,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Bengaluru,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,37,55,0.9
+Chennai,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,2,3,0.0
+Coimbatore,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Delhi City,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Ghaziabad,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Hyderabad,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Indore,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Jaipur,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Kanpur,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Kochi,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Kolkata,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Kozhikode,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Lucknow,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Mumbai,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Nagpur,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Patna,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,3,3,0.3
+Pune,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Surat,ITPA_Detaining_Premises,Trafficking & prostitution related,SLL,,,0,0,0.0
+Ahmedabad,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,10,10,0.3
+Bengaluru,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,48,98,1.2
+Chennai,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,24,31,0.6
+Coimbatore,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Delhi City,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,1,5,0.0
+Ghaziabad,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Hyderabad,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Indore,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,2,8,0.2
+Jaipur,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Kanpur,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Kochi,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Kolkata,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Kozhikode,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Lucknow,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Mumbai,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Nagpur,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,16,40,1.3
+Patna,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Pune,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Surat,ITPA_Prostitution_PublicPlaces,Trafficking & prostitution related,SLL,,,0,0,0.0
+Ahmedabad,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Bengaluru,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Chennai,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Coimbatore,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Delhi City,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Ghaziabad,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Hyderabad,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Indore,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Jaipur,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Kanpur,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Kochi,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Kolkata,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Kozhikode,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Lucknow,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Mumbai,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,33,33,0.4
+Nagpur,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Patna,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Pune,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Surat,ITPA_Seducing_Soliciting,Trafficking & prostitution related,SLL,,,0,0,0.0
+Ahmedabad,ITPA_Other,Trafficking & prostitution related,SLL,,,0,0,0.0
+Bengaluru,ITPA_Other,Trafficking & prostitution related,SLL,,,9,31,0.2
+Chennai,ITPA_Other,Trafficking & prostitution related,SLL,,,1,2,0.0
+Coimbatore,ITPA_Other,Trafficking & prostitution related,SLL,,,76,89,7.1
+Delhi City,ITPA_Other,Trafficking & prostitution related,SLL,,,16,19,0.2
+Ghaziabad,ITPA_Other,Trafficking & prostitution related,SLL,,,0,0,0.0
+Hyderabad,ITPA_Other,Trafficking & prostitution related,SLL,,,32,32,0.9
+Indore,ITPA_Other,Trafficking & prostitution related,SLL,,,0,0,0.0
+Jaipur,ITPA_Other,Trafficking & prostitution related,SLL,,,2,2,0.1
+Kanpur,ITPA_Other,Trafficking & prostitution related,SLL,,,0,0,0.0
+Kochi,ITPA_Other,Trafficking & prostitution related,SLL,,,0,0,0.0
+Kolkata,ITPA_Other,Trafficking & prostitution related,SLL,,,4,4,0.1
+Kozhikode,ITPA_Other,Trafficking & prostitution related,SLL,,,0,0,0.0
+Lucknow,ITPA_Other,Trafficking & prostitution related,SLL,,,0,0,0.0
+Mumbai,ITPA_Other,Trafficking & prostitution related,SLL,,,0,0,0.0
+Nagpur,ITPA_Other,Trafficking & prostitution related,SLL,,,0,0,0.0
+Patna,ITPA_Other,Trafficking & prostitution related,SLL,,,0,0,0.0
+Pune,ITPA_Other,Trafficking & prostitution related,SLL,,,0,0,0.0
+Surat,ITPA_Other,Trafficking & prostitution related,SLL,,,0,0,0.0
+Ahmedabad,DomesticViolenceAct,Domestic / dowry related,SLL,,,1,1,0.0
+Bengaluru,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Chennai,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Coimbatore,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Delhi City,DomesticViolenceAct,Domestic / dowry related,SLL,,,1,1,0.0
+Ghaziabad,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Hyderabad,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Indore,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Jaipur,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Kanpur,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Kochi,DomesticViolenceAct,Domestic / dowry related,SLL,,,26,29,2.4
+Kolkata,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Kozhikode,DomesticViolenceAct,Domestic / dowry related,SLL,,,8,8,0.8
+Lucknow,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Mumbai,DomesticViolenceAct,Domestic / dowry related,SLL,,,1,1,0.0
+Nagpur,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Patna,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Pune,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Surat,DomesticViolenceAct,Domestic / dowry related,SLL,,,0,0,0.0
+Ahmedabad,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,23,23,0.8
+Bengaluru,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,44,46,1.1
+Chennai,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,16,16,0.4
+Coimbatore,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Delhi City,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,78,78,1.0
+Ghaziabad,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Hyderabad,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,185,185,4.9
+Indore,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,5,5,0.5
+Jaipur,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,9,9,0.6
+Kanpur,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Kochi,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,2,2,0.2
+Kolkata,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,3,3,0.0
+Kozhikode,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Lucknow,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Mumbai,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,21,21,0.2
+Nagpur,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,1,1,0.1
+Patna,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Pune,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Surat,Cyber_WomenCentric_Total,Cyber crimes (women-centric),SLL,,,3,3,0.2
+Ahmedabad,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,17,17,0.6
+Bengaluru,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,42,44,1.0
+Chennai,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,2,2,0.0
+Coimbatore,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Delhi City,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,75,75,1.0
+Ghaziabad,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Hyderabad,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,4,4,0.1
+Indore,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,4,4,0.4
+Jaipur,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,9,9,0.6
+Kanpur,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Kochi,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,2,2,0.2
+Kolkata,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,3,3,0.0
+Kozhikode,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Lucknow,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Mumbai,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,5,5,0.1
+Nagpur,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,1,1,0.1
+Patna,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Pune,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Surat,Cyber_Publishing_SexualMaterial,Cyber crimes (women-centric),SLL,,,3,3,0.2
+Ahmedabad,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,6,6,0.2
+Bengaluru,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,2,2,0.0
+Chennai,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,14,14,0.3
+Coimbatore,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Delhi City,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,3,3,0.0
+Ghaziabad,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Hyderabad,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,181,181,4.8
+Indore,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,1,1,0.1
+Jaipur,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Kanpur,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Kochi,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Kolkata,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Kozhikode,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Lucknow,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Mumbai,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,16,16,0.2
+Nagpur,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Patna,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Pune,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Surat,Cyber_Other_Blackmail_Morphing_FakeProfile,Cyber crimes (women-centric),SLL,,,0,0,0.0
+Ahmedabad,POCSO_Total,POCSO (girl child victims),SLL,,,298,298,9.9
+Bengaluru,POCSO_Total,POCSO (girl child victims),SLL,,,588,595,14.5
+Chennai,POCSO_Total,POCSO (girl child victims),SLL,,,437,451,10.1
+Coimbatore,POCSO_Total,POCSO (girl child victims),SLL,,,187,190,17.4
+Delhi City,POCSO_Total,POCSO (girl child victims),SLL,,,1489,1492,19.7
+Ghaziabad,POCSO_Total,POCSO (girl child victims),SLL,,,242,242,22.0
+Hyderabad,POCSO_Total,POCSO (girl child victims),SLL,,,347,347,9.2
+Indore,POCSO_Total,POCSO (girl child victims),SLL,,,310,313,29.9
+Jaipur,POCSO_Total,POCSO (girl child victims),SLL,,,149,152,10.2
+Kanpur,POCSO_Total,POCSO (girl child victims),SLL,,,205,205,15.4
+Kochi,POCSO_Total,POCSO (girl child victims),SLL,,,147,151,13.7
+Kolkata,POCSO_Total,POCSO (girl child victims),SLL,,,194,194,2.9
+Kozhikode,POCSO_Total,POCSO (girl child victims),SLL,,,133,133,12.5
+Lucknow,POCSO_Total,POCSO (girl child victims),SLL,,,249,249,18.0
+Mumbai,POCSO_Total,POCSO (girl child victims),SLL,,,1331,1338,15.6
+Nagpur,POCSO_Total,POCSO (girl child victims),SLL,,,273,273,22.3
+Patna,POCSO_Total,POCSO (girl child victims),SLL,,,93,93,9.7
+Pune,POCSO_Total,POCSO (girl child victims),SLL,,,575,575,24.1
+Surat,POCSO_Total,POCSO (girl child victims),SLL,,,261,261,13.2
+Ahmedabad,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,258,258,8.6
+Bengaluru,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,435,437,10.7
+Chennai,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,264,269,6.1
+Coimbatore,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,139,142,12.9
+Delhi City,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,992,993,13.1
+Ghaziabad,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,153,153,13.9
+Hyderabad,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,285,285,7.6
+Indore,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,203,206,19.6
+Jaipur,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,104,107,7.2
+Kanpur,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,93,93,7.0
+Kochi,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,63,63,5.9
+Kolkata,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,159,159,2.3
+Kozhikode,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,59,59,5.5
+Lucknow,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,112,112,8.1
+Mumbai,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,610,610,7.2
+Nagpur,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,142,142,11.6
+Patna,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,35,35,3.7
+Pune,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,262,262,11.0
+Surat,POCSO_Sec4_6,POCSO (girl child victims),SLL,,,214,214,10.9
+Ahmedabad,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,38,38,1.3
+Bengaluru,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,120,125,3.0
+Chennai,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,116,122,2.7
+Coimbatore,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,33,33,3.1
+Delhi City,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,478,480,6.3
+Ghaziabad,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,82,82,7.4
+Hyderabad,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,44,44,1.2
+Indore,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,104,104,10.0
+Jaipur,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,45,45,3.1
+Kanpur,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,104,104,7.8
+Kochi,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,64,67,6.0
+Kolkata,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,26,26,0.4
+Kozhikode,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,64,64,6.0
+Lucknow,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,125,125,9.0
+Mumbai,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,684,684,8.0
+Nagpur,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,131,131,10.7
+Patna,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,55,55,5.7
+Pune,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,177,177,7.4
+Surat,POCSO_Sec8_10,POCSO (girl child victims),SLL,,,47,47,2.4
+Ahmedabad,POCSO_Sec12,POCSO (girl child victims),SLL,,,1,1,0.0
+Bengaluru,POCSO_Sec12,POCSO (girl child victims),SLL,,,32,32,0.8
+Chennai,POCSO_Sec12,POCSO (girl child victims),SLL,,,53,56,1.2
+Coimbatore,POCSO_Sec12,POCSO (girl child victims),SLL,,,15,15,1.4
+Delhi City,POCSO_Sec12,POCSO (girl child victims),SLL,,,18,18,0.2
+Ghaziabad,POCSO_Sec12,POCSO (girl child victims),SLL,,,5,5,0.5
+Hyderabad,POCSO_Sec12,POCSO (girl child victims),SLL,,,14,14,0.4
+Indore,POCSO_Sec12,POCSO (girl child victims),SLL,,,3,3,0.3
+Jaipur,POCSO_Sec12,POCSO (girl child victims),SLL,,,0,0,0.0
+Kanpur,POCSO_Sec12,POCSO (girl child victims),SLL,,,8,8,0.6
+Kochi,POCSO_Sec12,POCSO (girl child victims),SLL,,,18,19,1.7
+Kolkata,POCSO_Sec12,POCSO (girl child victims),SLL,,,9,9,0.1
+Kozhikode,POCSO_Sec12,POCSO (girl child victims),SLL,,,10,10,0.9
+Lucknow,POCSO_Sec12,POCSO (girl child victims),SLL,,,12,12,0.9
+Mumbai,POCSO_Sec12,POCSO (girl child victims),SLL,,,35,35,0.4
+Nagpur,POCSO_Sec12,POCSO (girl child victims),SLL,,,0,0,0.0
+Patna,POCSO_Sec12,POCSO (girl child victims),SLL,,,3,3,0.3
+Pune,POCSO_Sec12,POCSO (girl child victims),SLL,,,136,136,5.7
+Surat,POCSO_Sec12,POCSO (girl child victims),SLL,,,0,0,0.0
+Ahmedabad,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,1,1,0.0
+Bengaluru,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,0,0,0.0
+Chennai,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,1,1,0.0
+Coimbatore,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,0,0,0.0
+Delhi City,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,1,1,0.0
+Ghaziabad,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,1,1,0.1
+Hyderabad,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,2,2,0.1
+Indore,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,0,0,0.0
+Jaipur,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,0,0,0.0
+Kanpur,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,0,0,0.0
+Kochi,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,2,2,0.2
+Kolkata,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,0,0,0.0
+Kozhikode,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,0,0,0.0
+Lucknow,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,0,0,0.0
+Mumbai,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,1,8,0.0
+Nagpur,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,0,0,0.0
+Patna,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,0,0,0.0
+Pune,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,0,0,0.0
+Surat,POCSO_Sec14_15,POCSO (girl child victims),SLL,,,0,0,0.0
+Ahmedabad,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,0,0,0.0
+Bengaluru,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,1,1,0.0
+Chennai,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,3,3,0.1
+Coimbatore,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,0,0,0.0
+Delhi City,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,0,0,0.0
+Ghaziabad,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,1,1,0.1
+Hyderabad,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,2,2,0.1
+Indore,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,0,0,0.0
+Jaipur,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,0,0,0.0
+Kanpur,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,0,0,0.0
+Kochi,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,0,0,0.0
+Kolkata,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,0,0,0.0
+Kozhikode,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,0,0,0.0
+Lucknow,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,0,0,0.0
+Mumbai,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,1,1,0.0
+Nagpur,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,0,0,0.0
+Patna,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,0,0,0.0
+Pune,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,0,0,0.0
+Surat,POCSO_Sec17_22,POCSO (girl child victims),SLL,,,0,0,0.0
+Ahmedabad,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Bengaluru,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Chennai,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Coimbatore,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Delhi City,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Ghaziabad,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Hyderabad,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Indore,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Jaipur,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Kanpur,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Kochi,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Kolkata,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Kozhikode,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Lucknow,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Mumbai,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Nagpur,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Patna,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Pune,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Surat,IndecentRepresentationAct,"Molestation, harassment & stalking",SLL,,,0,0,0.0
+Ahmedabad,Total_SLL_CAW,Totals,SLL,,,332,332,11.1
+Bengaluru,Total_SLL_CAW,Totals,SLL,,,1683,1921,41.5
+Chennai,Total_SLL_CAW,Totals,SLL,,,573,663,13.3
+Coimbatore,Total_SLL_CAW,Totals,SLL,,,263,279,24.6
+Delhi City,Total_SLL_CAW,Totals,SLL,,,1601,1611,21.1
+Ghaziabad,Total_SLL_CAW,Totals,SLL,,,250,250,22.7
+Hyderabad,Total_SLL_CAW,Totals,SLL,,,564,564,15.0
+Indore,Total_SLL_CAW,Totals,SLL,,,317,326,30.5
+Jaipur,Total_SLL_CAW,Totals,SLL,,,187,190,12.9
+Kanpur,Total_SLL_CAW,Totals,SLL,,,205,205,15.4
+Kochi,Total_SLL_CAW,Totals,SLL,,,176,183,16.4
+Kolkata,Total_SLL_CAW,Totals,SLL,,,201,201,3.0
+Kozhikode,Total_SLL_CAW,Totals,SLL,,,141,141,13.2
+Lucknow,Total_SLL_CAW,Totals,SLL,,,298,300,21.6
+Mumbai,Total_SLL_CAW,Totals,SLL,,,1386,1393,16.3
+Nagpur,Total_SLL_CAW,Totals,SLL,,,291,315,23.8
+Patna,Total_SLL_CAW,Totals,SLL,,,113,113,11.8
+Pune,Total_SLL_CAW,Totals,SLL,,,575,575,24.1
+Surat,Total_SLL_CAW,Totals,SLL,,,264,264,13.4
+Ahmedabad,Total_CAW_IPC_SLL,Totals,SLL,,,1059,1060,35.3
+Bengaluru,Total_CAW_IPC_SLL,Totals,SLL,,,4748,5038,116.9
+Chennai,Total_CAW_IPC_SLL,Totals,SLL,,,1093,1187,25.4
+Coimbatore,Total_CAW_IPC_SLL,Totals,SLL,,,377,393,35.2
+Delhi City,Total_CAW_IPC_SLL,Totals,SLL,,,13396,13584,176.7
+Ghaziabad,Total_CAW_IPC_SLL,Totals,SLL,,,1265,1265,115.0
+Hyderabad,Total_CAW_IPC_SLL,Totals,SLL,,,3255,3540,86.6
+Indore,Total_CAW_IPC_SLL,Totals,SLL,,,1884,1898,181.2
+Jaipur,Total_CAW_IPC_SLL,Totals,SLL,,,2894,2899,199.6
+Kanpur,Total_CAW_IPC_SLL,Totals,SLL,,,1950,1950,145.5
+Kochi,Total_CAW_IPC_SLL,Totals,SLL,,,783,804,72.5
+Kolkata,Total_CAW_IPC_SLL,Totals,SLL,,,1958,2257,28.8
+Kozhikode,Total_CAW_IPC_SLL,Totals,SLL,,,665,703,62.7
+Lucknow,Total_CAW_IPC_SLL,Totals,SLL,,,2571,2728,186.3
+Mumbai,Total_CAW_IPC_SLL,Totals,SLL,,,6358,6429,74.6
+Nagpur,Total_CAW_IPC_SLL,Totals,SLL,,,1513,1545,124.0
+Patna,Total_CAW_IPC_SLL,Totals,SLL,,,1239,1329,129.1
+Pune,Total_CAW_IPC_SLL,Totals,SLL,,,2631,2631,110.1
+Surat,Total_CAW_IPC_SLL,Totals,SLL,,,945,949,48.0
