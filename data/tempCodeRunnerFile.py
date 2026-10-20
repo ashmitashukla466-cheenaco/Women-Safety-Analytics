@@ -1,1 +1,0 @@
-print(top_districts)
